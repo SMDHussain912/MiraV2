@@ -1,0 +1,1165 @@
+{"text": "Open Firefox", "label": "open_application"}
+{"text": "Launch Firefox", "label": "open_application"}
+{"text": "Start Firefox", "label": "open_application"}
+{"text": "Run Firefox", "label": "open_application"}
+{"text": "Can you open Firefox?", "label": "open_application"}
+{"text": "Please open Firefox", "label": "open_application"}
+{"text": "Could you launch Firefox for me?", "label": "open_application"}
+{"text": "Bring up Firefox", "label": "open_application"}
+{"text": "Get Firefox running", "label": "open_application"}
+{"text": "I want Firefox open", "label": "open_application"}
+{"text": "I need Firefox", "label": "open_application"}
+{"text": "Open my Firefox browser", "label": "open_application"}
+{"text": "Start my Firefox browser", "label": "open_application"}
+{"text": "Can you get Firefox started?", "label": "open_application"}
+{"text": "Mira, open Firefox", "label": "open_application"}
+{"text": "Mira, launch Firefox", "label": "open_application"}
+{"text": "Mira, start Firefox", "label": "open_application"}
+{"text": "Hey Mira, bring up Firefox", "label": "open_application"}
+{"text": "Please get Firefox up", "label": "open_application"}
+{"text": "Get the Firefox browser open", "label": "open_application"}
+{"text": "Open Chrome", "label": "open_application"}
+{"text": "Launch Chrome", "label": "open_application"}
+{"text": "Start Chrome", "label": "open_application"}
+{"text": "Run Chrome", "label": "open_application"}
+{"text": "Can you open Chrome?", "label": "open_application"}
+{"text": "Please launch Chrome", "label": "open_application"}
+{"text": "Bring up Chrome", "label": "open_application"}
+{"text": "Get Chrome running", "label": "open_application"}
+{"text": "I want Chrome open", "label": "open_application"}
+{"text": "I need Chrome", "label": "open_application"}
+{"text": "Open my Chrome browser", "label": "open_application"}
+{"text": "Start the Chrome browser", "label": "open_application"}
+{"text": "Can you get Chrome started?", "label": "open_application"}
+{"text": "Mira, open Chrome", "label": "open_application"}
+{"text": "Mira, launch Chrome", "label": "open_application"}
+{"text": "Hey Mira, start Chrome", "label": "open_application"}
+{"text": "Bring my Chrome browser up", "label": "open_application"}
+{"text": "Get the Chrome browser open", "label": "open_application"}
+{"text": "I need the browser opened", "label": "open_application"}
+{"text": "Open the browser for me", "label": "open_application"}
+{"text": "Open Chromium", "label": "open_application"}
+{"text": "Launch Chromium", "label": "open_application"}
+{"text": "Start Chromium", "label": "open_application"}
+{"text": "Run Chromium", "label": "open_application"}
+{"text": "Bring Chromium up", "label": "open_application"}
+{"text": "Can you start Chromium?", "label": "open_application"}
+{"text": "Please open Chromium", "label": "open_application"}
+{"text": "Get Chromium running", "label": "open_application"}
+{"text": "I need Chromium open", "label": "open_application"}
+{"text": "Mira, open Chromium", "label": "open_application"}
+{"text": "Open Brave", "label": "open_application"}
+{"text": "Launch Brave browser", "label": "open_application"}
+{"text": "Start Brave", "label": "open_application"}
+{"text": "Run Brave", "label": "open_application"}
+{"text": "Bring Brave up", "label": "open_application"}
+{"text": "Can you open Brave?", "label": "open_application"}
+{"text": "Please start Brave", "label": "open_application"}
+{"text": "Get Brave running", "label": "open_application"}
+{"text": "I need Brave open", "label": "open_application"}
+{"text": "Open my Brave browser", "label": "open_application"}
+{"text": "Open Discord", "label": "open_application"}
+{"text": "Launch Discord", "label": "open_application"}
+{"text": "Start Discord", "label": "open_application"}
+{"text": "Run Discord", "label": "open_application"}
+{"text": "Bring Discord up", "label": "open_application"}
+{"text": "Can you open Discord?", "label": "open_application"}
+{"text": "Please launch Discord", "label": "open_application"}
+{"text": "Get Discord running", "label": "open_application"}
+{"text": "I need Discord open", "label": "open_application"}
+{"text": "Open my Discord app", "label": "open_application"}
+{"text": "Mira, start Discord", "label": "open_application"}
+{"text": "Hey Mira, open Discord", "label": "open_application"}
+{"text": "Open Telegram", "label": "open_application"}
+{"text": "Launch Telegram", "label": "open_application"}
+{"text": "Start Telegram", "label": "open_application"}
+{"text": "Run Telegram", "label": "open_application"}
+{"text": "Bring Telegram up", "label": "open_application"}
+{"text": "Can you open Telegram?", "label": "open_application"}
+{"text": "Please launch Telegram", "label": "open_application"}
+{"text": "Get Telegram running", "label": "open_application"}
+{"text": "I need Telegram open", "label": "open_application"}
+{"text": "Open my Telegram app", "label": "open_application"}
+{"text": "Open Spotify", "label": "open_application"}
+{"text": "Launch Spotify", "label": "open_application"}
+{"text": "Start Spotify", "label": "open_application"}
+{"text": "Run Spotify", "label": "open_application"}
+{"text": "Bring Spotify up", "label": "open_application"}
+{"text": "Can you open Spotify?", "label": "open_application"}
+{"text": "Please launch Spotify", "label": "open_application"}
+{"text": "Get Spotify running", "label": "open_application"}
+{"text": "I want Spotify open", "label": "open_application"}
+{"text": "Open my music player", "label": "open_application"}
+{"text": "Open Steam", "label": "open_application"}
+{"text": "Launch Steam", "label": "open_application"}
+{"text": "Start Steam", "label": "open_application"}
+{"text": "Run Steam", "label": "open_application"}
+{"text": "Bring Steam up", "label": "open_application"}
+{"text": "Can you open Steam?", "label": "open_application"}
+{"text": "Please launch Steam", "label": "open_application"}
+{"text": "Get Steam running", "label": "open_application"}
+{"text": "I need Steam open", "label": "open_application"}
+{"text": "Open my Steam client", "label": "open_application"}
+{"text": "Open VS Code", "label": "open_application"}
+{"text": "Launch VS Code", "label": "open_application"}
+{"text": "Start VS Code", "label": "open_application"}
+{"text": "Run VS Code", "label": "open_application"}
+{"text": "Bring VS Code up", "label": "open_application"}
+{"text": "Can you open VS Code?", "label": "open_application"}
+{"text": "Please launch VS Code", "label": "open_application"}
+{"text": "Get VS Code running", "label": "open_application"}
+{"text": "I need VS Code open", "label": "open_application"}
+{"text": "Open my code editor", "label": "open_application"}
+{"text": "Open Visual Studio Code", "label": "open_application"}
+{"text": "Launch Visual Studio Code", "label": "open_application"}
+{"text": "Start Visual Studio Code", "label": "open_application"}
+{"text": "Run Visual Studio Code", "label": "open_application"}
+{"text": "Bring Visual Studio Code up", "label": "open_application"}
+{"text": "Can you start Visual Studio Code?", "label": "open_application"}
+{"text": "Please open Visual Studio Code", "label": "open_application"}
+{"text": "Get Visual Studio Code running", "label": "open_application"}
+{"text": "I need my code editor", "label": "open_application"}
+{"text": "Mira, open VS Code", "label": "open_application"}
+{"text": "Open Blender", "label": "open_application"}
+{"text": "Launch Blender", "label": "open_application"}
+{"text": "Start Blender", "label": "open_application"}
+{"text": "Run Blender", "label": "open_application"}
+{"text": "Bring Blender up", "label": "open_application"}
+{"text": "Can you open Blender?", "label": "open_application"}
+{"text": "Please launch Blender", "label": "open_application"}
+{"text": "Get Blender running", "label": "open_application"}
+{"text": "I need Blender open", "label": "open_application"}
+{"text": "Open my 3D software", "label": "open_application"}
+{"text": "Open the terminal", "label": "open_application"}
+{"text": "Launch the terminal", "label": "open_application"}
+{"text": "Start the terminal", "label": "open_application"}
+{"text": "Run the terminal", "label": "open_application"}
+{"text": "Bring up the terminal", "label": "open_application"}
+{"text": "Can you open the terminal?", "label": "open_application"}
+{"text": "Please launch the terminal", "label": "open_application"}
+{"text": "Get the terminal running", "label": "open_application"}
+{"text": "I need a terminal", "label": "open_application"}
+{"text": "Open a terminal window", "label": "open_application"}
+{"text": "Open my file manager", "label": "open_application"}
+{"text": "Launch the file manager", "label": "open_application"}
+{"text": "Start the file manager", "label": "open_application"}
+{"text": "Run the file manager", "label": "open_application"}
+{"text": "Bring up the file manager", "label": "open_application"}
+{"text": "Can you open the file manager?", "label": "open_application"}
+{"text": "Please launch the file manager", "label": "open_application"}
+{"text": "Get the file manager running", "label": "open_application"}
+{"text": "I need the file manager", "label": "open_application"}
+{"text": "Open my files application", "label": "open_application"}
+{"text": "Open Steam for me", "label": "open_application"}
+{"text": "Could you bring up Steam?", "label": "open_application"}
+{"text": "Would you open Steam for me?", "label": "open_application"}
+{"text": "Can you get Steam up?", "label": "open_application"}
+{"text": "I want to use Steam", "label": "open_application"}
+{"text": "I want to play through Steam", "label": "open_application"}
+{"text": "Let's open Steam", "label": "open_application"}
+{"text": "Get Steam on screen", "label": "open_application"}
+{"text": "Put Steam on the screen", "label": "open_application"}
+{"text": "Mira, get Steam up", "label": "open_application"}
+{"text": "Could you bring up my browser?", "label": "open_application"}
+{"text": "Can you get my browser open?", "label": "open_application"}
+{"text": "I need a browser window", "label": "open_application"}
+{"text": "Get me a browser", "label": "open_application"}
+{"text": "Start a web browser", "label": "open_application"}
+{"text": "Bring up a web browser", "label": "open_application"}
+{"text": "Open a browser window", "label": "open_application"}
+{"text": "I want to browse the web", "label": "open_application"}
+{"text": "I need the web browser", "label": "open_application"}
+{"text": "Can you start my browser?", "label": "open_application"}
+{"text": "Open my editor", "label": "open_application"}
+{"text": "Launch my code editor", "label": "open_application"}
+{"text": "Start my coding editor", "label": "open_application"}
+{"text": "Bring up my IDE", "label": "open_application"}
+{"text": "Open the IDE", "label": "open_application"}
+{"text": "Launch the IDE", "label": "open_application"}
+{"text": "Start the IDE", "label": "open_application"}
+{"text": "Get my development environment open", "label": "open_application"}
+{"text": "I need my coding environment", "label": "open_application"}
+{"text": "Open the programming editor", "label": "open_application"}
+{"text": "Open Git", "label": "open_application"}
+{"text": "Launch Git", "label": "open_application"}
+{"text": "Start Git", "label": "open_application"}
+{"text": "Open GitHub Desktop", "label": "open_application"}
+{"text": "Launch GitHub Desktop", "label": "open_application"}
+{"text": "Start GitHub Desktop", "label": "open_application"}
+{"text": "Open Postman", "label": "open_application"}
+{"text": "Launch Postman", "label": "open_application"}
+{"text": "Start Postman", "label": "open_application"}
+{"text": "Bring Postman up", "label": "open_application"}
+{"text": "Can you open Postman?", "label": "open_application"}
+{"text": "Get Postman running", "label": "open_application"}
+{"text": "Open my API testing tool", "label": "open_application"}
+{"text": "Launch my API client", "label": "open_application"}
+{"text": "Open PyCharm", "label": "open_application"}
+{"text": "Launch PyCharm", "label": "open_application"}
+{"text": "Start PyCharm", "label": "open_application"}
+{"text": "Run PyCharm", "label": "open_application"}
+{"text": "Bring PyCharm up", "label": "open_application"}
+{"text": "Open IntelliJ", "label": "open_application"}
+{"text": "Launch IntelliJ IDEA", "label": "open_application"}
+{"text": "Start IntelliJ", "label": "open_application"}
+{"text": "Open Android Studio", "label": "open_application"}
+{"text": "Launch Android Studio", "label": "open_application"}
+{"text": "Start Android Studio", "label": "open_application"}
+{"text": "Bring Android Studio up", "label": "open_application"}
+{"text": "Open Eclipse", "label": "open_application"}
+{"text": "Launch Eclipse", "label": "open_application"}
+{"text": "Start Eclipse IDE", "label": "open_application"}
+{"text": "Open a programming IDE", "label": "open_application"}
+{"text": "Launch my IDE", "label": "open_application"}
+{"text": "Start my development IDE", "label": "open_application"}
+{"text": "Open Konsole", "label": "open_application"}
+{"text": "Launch Konsole", "label": "open_application"}
+{"text": "Start Konsole", "label": "open_application"}
+{"text": "Run Konsole", "label": "open_application"}
+{"text": "Bring Konsole up", "label": "open_application"}
+{"text": "Open GNOME Terminal", "label": "open_application"}
+{"text": "Launch GNOME Terminal", "label": "open_application"}
+{"text": "Start GNOME Terminal", "label": "open_application"}
+{"text": "Open Kitty", "label": "open_application"}
+{"text": "Launch Kitty terminal", "label": "open_application"}
+{"text": "Start Kitty", "label": "open_application"}
+{"text": "Open Alacritty", "label": "open_application"}
+{"text": "Launch Alacritty", "label": "open_application"}
+{"text": "Start Alacritty", "label": "open_application"}
+{"text": "Open my terminal emulator", "label": "open_application"}
+{"text": "Launch a terminal emulator", "label": "open_application"}
+{"text": "Start a terminal window", "label": "open_application"}
+{"text": "Bring up a terminal", "label": "open_application"}
+{"text": "I need a terminal window", "label": "open_application"}
+{"text": "Can you give me a terminal?", "label": "open_application"}
+{"text": "Get a shell open", "label": "open_application"}
+{"text": "Open a shell", "label": "open_application"}
+{"text": "Launch a shell", "label": "open_application"}
+{"text": "Start a shell window", "label": "open_application"}
+{"text": "Open Dolphin", "label": "open_application"}
+{"text": "Launch Dolphin", "label": "open_application"}
+{"text": "Start Dolphin", "label": "open_application"}
+{"text": "Run Dolphin", "label": "open_application"}
+{"text": "Bring Dolphin up", "label": "open_application"}
+{"text": "Open Nautilus", "label": "open_application"}
+{"text": "Launch Nautilus", "label": "open_application"}
+{"text": "Start Nautilus", "label": "open_application"}
+{"text": "Open Files", "label": "open_application"}
+{"text": "Launch Files", "label": "open_application"}
+{"text": "Start the Files app", "label": "open_application"}
+{"text": "Open my file browser", "label": "open_application"}
+{"text": "Launch the file browser", "label": "open_application"}
+{"text": "Start my file browser", "label": "open_application"}
+{"text": "Bring up the file browser", "label": "open_application"}
+{"text": "I need to browse my files", "label": "open_application"}
+{"text": "Get my files window open", "label": "open_application"}
+{"text": "Open the file explorer", "label": "open_application"}
+{"text": "Launch the file explorer", "label": "open_application"}
+{"text": "Open VLC", "label": "open_application"}
+{"text": "Launch VLC", "label": "open_application"}
+{"text": "Start VLC", "label": "open_application"}
+{"text": "Run VLC", "label": "open_application"}
+{"text": "Bring VLC up", "label": "open_application"}
+{"text": "Can you open VLC?", "label": "open_application"}
+{"text": "Get VLC running", "label": "open_application"}
+{"text": "I need VLC open", "label": "open_application"}
+{"text": "Open my video player", "label": "open_application"}
+{"text": "Launch my media player", "label": "open_application"}
+{"text": "Start the media player", "label": "open_application"}
+{"text": "Open Audacity", "label": "open_application"}
+{"text": "Launch Audacity", "label": "open_application"}
+{"text": "Start Audacity", "label": "open_application"}
+{"text": "Open OBS", "label": "open_application"}
+{"text": "Launch OBS Studio", "label": "open_application"}
+{"text": "Start OBS Studio", "label": "open_application"}
+{"text": "Bring OBS up", "label": "open_application"}
+{"text": "Open my recording software", "label": "open_application"}
+{"text": "Launch my streaming software", "label": "open_application"}
+{"text": "Open GIMP", "label": "open_application"}
+{"text": "Launch GIMP", "label": "open_application"}
+{"text": "Start GIMP", "label": "open_application"}
+{"text": "Run GIMP", "label": "open_application"}
+{"text": "Bring GIMP up", "label": "open_application"}
+{"text": "Can you open GIMP?", "label": "open_application"}
+{"text": "Get GIMP running", "label": "open_application"}
+{"text": "Open my image editor", "label": "open_application"}
+{"text": "Launch the image editor", "label": "open_application"}
+{"text": "Start my photo editor", "label": "open_application"}
+{"text": "Open Krita", "label": "open_application"}
+{"text": "Launch Krita", "label": "open_application"}
+{"text": "Start Krita", "label": "open_application"}
+{"text": "Open my drawing application", "label": "open_application"}
+{"text": "Launch the drawing program", "label": "open_application"}
+{"text": "Open Minecraft", "label": "open_application"}
+{"text": "Launch Minecraft", "label": "open_application"}
+{"text": "Start Minecraft", "label": "open_application"}
+{"text": "Run Minecraft", "label": "open_application"}
+{"text": "Bring Minecraft up", "label": "open_application"}
+{"text": "Can you launch Minecraft?", "label": "open_application"}
+{"text": "Get Minecraft running", "label": "open_application"}
+{"text": "I want Minecraft open", "label": "open_application"}
+{"text": "Open my game", "label": "open_application"}
+{"text": "Launch my game", "label": "open_application"}
+{"text": "Start the game", "label": "open_application"}
+{"text": "Open the game launcher", "label": "open_application"}
+{"text": "Launch the game launcher", "label": "open_application"}
+{"text": "Start my game launcher", "label": "open_application"}
+{"text": "Bring the game launcher up", "label": "open_application"}
+{"text": "Open Discord for me", "label": "open_application"}
+{"text": "Could you launch Discord?", "label": "open_application"}
+{"text": "Would you start Discord?", "label": "open_application"}
+{"text": "Get Discord up on the screen", "label": "open_application"}
+{"text": "I want to use Discord", "label": "open_application"}
+{"text": "I need to check Discord", "label": "open_application"}
+{"text": "Let's open Discord", "label": "open_application"}
+{"text": "Can we start Discord?", "label": "open_application"}
+{"text": "Mira, get Discord up", "label": "open_application"}
+{"text": "Hey Mira, launch Discord", "label": "open_application"}
+{"text": "Open Telegram for me", "label": "open_application"}
+{"text": "Could you launch Telegram?", "label": "open_application"}
+{"text": "Would you start Telegram?", "label": "open_application"}
+{"text": "Get Telegram up on the screen", "label": "open_application"}
+{"text": "I want to use Telegram", "label": "open_application"}
+{"text": "I need to check Telegram", "label": "open_application"}
+{"text": "Let's open Telegram", "label": "open_application"}
+{"text": "Can we start Telegram?", "label": "open_application"}
+{"text": "Open Spotify for me", "label": "open_application"}
+{"text": "Could you launch Spotify?", "label": "open_application"}
+{"text": "Would you start Spotify?", "label": "open_application"}
+{"text": "Get Spotify up on the screen", "label": "open_application"}
+{"text": "I want to listen to music", "label": "open_application"}
+{"text": "Start my music app", "label": "open_application"}
+{"text": "Open the music player", "label": "open_application"}
+{"text": "Let's start Spotify", "label": "open_application"}
+{"text": "Can we open Spotify?", "label": "open_application"}
+{"text": "Could you launch Steam?", "label": "open_application"}
+{"text": "Would you start Steam?", "label": "open_application"}
+{"text": "Get Steam up on the screen", "label": "open_application"}
+{"text": "I want to play a game", "label": "open_application"}
+{"text": "Start my game client", "label": "open_application"}
+{"text": "Open the game client", "label": "open_application"}
+{"text": "Let's start Steam", "label": "open_application"}
+{"text": "Can we open Steam?", "label": "open_application"}
+{"text": "Open Blender for me", "label": "open_application"}
+{"text": "Could you launch Blender?", "label": "open_application"}
+{"text": "Would you start Blender?", "label": "open_application"}
+{"text": "Get Blender up on the screen", "label": "open_application"}
+{"text": "I want to work on my 3D project", "label": "open_application"}
+{"text": "Start my 3D software", "label": "open_application"}
+{"text": "Open the 3D editor", "label": "open_application"}
+{"text": "Let's start Blender", "label": "open_application"}
+{"text": "Can we open Blender?", "label": "open_application"}
+{"text": "Open the settings", "label": "open_application"}
+{"text": "Launch system settings", "label": "open_application"}
+{"text": "Start the settings application", "label": "open_application"}
+{"text": "Bring up settings", "label": "open_application"}
+{"text": "Open my system settings", "label": "open_application"}
+{"text": "Launch the settings window", "label": "open_application"}
+{"text": "Can you open settings?", "label": "open_application"}
+{"text": "Get the settings app open", "label": "open_application"}
+{"text": "I need to open system settings", "label": "open_application"}
+{"text": "Mira, open settings", "label": "open_application"}
+{"text": "Open the calculator", "label": "open_application"}
+{"text": "Launch calculator", "label": "open_application"}
+{"text": "Start the calculator", "label": "open_application"}
+{"text": "Bring up the calculator", "label": "open_application"}
+{"text": "Can you open the calculator?", "label": "open_application"}
+{"text": "Get the calculator running", "label": "open_application"}
+{"text": "I need the calculator", "label": "open_application"}
+{"text": "Open a calculator window", "label": "open_application"}
+{"text": "Launch my calculator", "label": "open_application"}
+{"text": "Mira, start the calculator", "label": "open_application"}
+{"text": "Open the text editor", "label": "open_application"}
+{"text": "Launch the text editor", "label": "open_application"}
+{"text": "Start the text editor", "label": "open_application"}
+{"text": "Bring up my text editor", "label": "open_application"}
+{"text": "Can you open a text editor?", "label": "open_application"}
+{"text": "Get the text editor running", "label": "open_application"}
+{"text": "I need a text editor", "label": "open_application"}
+{"text": "Open a notepad", "label": "open_application"}
+{"text": "Launch a notepad", "label": "open_application"}
+{"text": "Start my notepad", "label": "open_application"}
+{"text": "Open Zoom", "label": "open_application"}
+{"text": "Launch Zoom", "label": "open_application"}
+{"text": "Start Zoom", "label": "open_application"}
+{"text": "Run Zoom", "label": "open_application"}
+{"text": "Bring Zoom up", "label": "open_application"}
+{"text": "Can you open Zoom?", "label": "open_application"}
+{"text": "Please launch Zoom", "label": "open_application"}
+{"text": "Get Zoom running", "label": "open_application"}
+{"text": "I need Zoom open", "label": "open_application"}
+{"text": "Open my meeting app", "label": "open_application"}
+{"text": "Launch the meeting application", "label": "open_application"}
+{"text": "Start my video meeting app", "label": "open_application"}
+{"text": "Bring up the video conference app", "label": "open_application"}
+{"text": "I need to join a meeting", "label": "open_application"}
+{"text": "Open the video calling app", "label": "open_application"}
+{"text": "Open Slack", "label": "open_application"}
+{"text": "Launch Slack", "label": "open_application"}
+{"text": "Start Slack", "label": "open_application"}
+{"text": "Run Slack", "label": "open_application"}
+{"text": "Bring Slack up", "label": "open_application"}
+{"text": "Can you open Slack?", "label": "open_application"}
+{"text": "Please launch Slack", "label": "open_application"}
+{"text": "Get Slack running", "label": "open_application"}
+{"text": "I need Slack open", "label": "open_application"}
+{"text": "Open my Slack workspace", "label": "open_application"}
+{"text": "Launch the Slack app", "label": "open_application"}
+{"text": "Start Slack for me", "label": "open_application"}
+{"text": "Bring up Slack", "label": "open_application"}
+{"text": "I need to check Slack", "label": "open_application"}
+{"text": "Mira, open Slack", "label": "open_application"}
+{"text": "Open WhatsApp", "label": "open_application"}
+{"text": "Launch WhatsApp", "label": "open_application"}
+{"text": "Start WhatsApp", "label": "open_application"}
+{"text": "Run WhatsApp", "label": "open_application"}
+{"text": "Bring WhatsApp up", "label": "open_application"}
+{"text": "Can you open WhatsApp?", "label": "open_application"}
+{"text": "Please launch WhatsApp", "label": "open_application"}
+{"text": "Get WhatsApp running", "label": "open_application"}
+{"text": "I need WhatsApp open", "label": "open_application"}
+{"text": "Open my messaging app", "label": "open_application"}
+{"text": "Launch the messaging application", "label": "open_application"}
+{"text": "Start WhatsApp for me", "label": "open_application"}
+{"text": "Bring up WhatsApp", "label": "open_application"}
+{"text": "I need to check my messages", "label": "open_application"}
+{"text": "Mira, open WhatsApp", "label": "open_application"}
+{"text": "Open Thunderbird", "label": "open_application"}
+{"text": "Launch Thunderbird", "label": "open_application"}
+{"text": "Start Thunderbird", "label": "open_application"}
+{"text": "Run Thunderbird", "label": "open_application"}
+{"text": "Bring Thunderbird up", "label": "open_application"}
+{"text": "Can you open Thunderbird?", "label": "open_application"}
+{"text": "Please launch Thunderbird", "label": "open_application"}
+{"text": "Get Thunderbird running", "label": "open_application"}
+{"text": "I need my email client open", "label": "open_application"}
+{"text": "Open my email application", "label": "open_application"}
+{"text": "Launch my mail client", "label": "open_application"}
+{"text": "Start the email program", "label": "open_application"}
+{"text": "Bring up my email app", "label": "open_application"}
+{"text": "Open the mail application", "label": "open_application"}
+{"text": "I want to check my email", "label": "open_application"}
+{"text": "Open LibreOffice", "label": "open_application"}
+{"text": "Launch LibreOffice", "label": "open_application"}
+{"text": "Start LibreOffice", "label": "open_application"}
+{"text": "Run LibreOffice", "label": "open_application"}
+{"text": "Bring LibreOffice up", "label": "open_application"}
+{"text": "Can you open LibreOffice?", "label": "open_application"}
+{"text": "Please launch LibreOffice", "label": "open_application"}
+{"text": "Get LibreOffice running", "label": "open_application"}
+{"text": "Open the office suite", "label": "open_application"}
+{"text": "Launch my office software", "label": "open_application"}
+{"text": "Start the document editor", "label": "open_application"}
+{"text": "Open the spreadsheet application", "label": "open_application"}
+{"text": "Launch the presentation software", "label": "open_application"}
+{"text": "Open my document editor", "label": "open_application"}
+{"text": "I need my office application", "label": "open_application"}
+{"text": "Can you get Steam open?", "label": "open_application"}
+{"text": "Please get Steam running", "label": "open_application"}
+{"text": "I want Steam open", "label": "open_application"}
+{"text": "Start my Steam client", "label": "open_application"}
+{"text": "Bring up the Steam client", "label": "open_application"}
+{"text": "Open my game library", "label": "open_application"}
+{"text": "Launch my game library", "label": "open_application"}
+{"text": "Start the game store", "label": "open_application"}
+{"text": "Open the gaming client", "label": "open_application"}
+{"text": "Get my gaming client up", "label": "open_application"}
+{"text": "Open Lutris", "label": "open_application"}
+{"text": "Launch Lutris", "label": "open_application"}
+{"text": "Start Lutris", "label": "open_application"}
+{"text": "Run Lutris", "label": "open_application"}
+{"text": "Bring Lutris up", "label": "open_application"}
+{"text": "Can you open Lutris?", "label": "open_application"}
+{"text": "Please launch Lutris", "label": "open_application"}
+{"text": "Get Lutris running", "label": "open_application"}
+{"text": "I need Lutris open", "label": "open_application"}
+{"text": "Open my Linux game launcher", "label": "open_application"}
+{"text": "Launch my game manager", "label": "open_application"}
+{"text": "Start the Linux game launcher", "label": "open_application"}
+{"text": "Bring up Lutris for me", "label": "open_application"}
+{"text": "I want to use Lutris", "label": "open_application"}
+{"text": "Mira, start Lutris", "label": "open_application"}
+{"text": "Open Heroic Games Launcher", "label": "open_application"}
+{"text": "Launch Heroic Games Launcher", "label": "open_application"}
+{"text": "Start Heroic", "label": "open_application"}
+{"text": "Run Heroic", "label": "open_application"}
+{"text": "Bring Heroic up", "label": "open_application"}
+{"text": "Can you open Heroic?", "label": "open_application"}
+{"text": "Please launch Heroic", "label": "open_application"}
+{"text": "Get Heroic running", "label": "open_application"}
+{"text": "I need Heroic open", "label": "open_application"}
+{"text": "Open my Epic game launcher", "label": "open_application"}
+{"text": "Launch my game launcher", "label": "open_application"}
+{"text": "Start the Epic Games launcher", "label": "open_application"}
+{"text": "Open Heroic for me", "label": "open_application"}
+{"text": "I want to use Heroic", "label": "open_application"}
+{"text": "Mira, launch Heroic", "label": "open_application"}
+{"text": "Open Minecraft Launcher", "label": "open_application"}
+{"text": "Launch Minecraft Launcher", "label": "open_application"}
+{"text": "Start Minecraft Launcher", "label": "open_application"}
+{"text": "Run Minecraft Launcher", "label": "open_application"}
+{"text": "Bring the Minecraft launcher up", "label": "open_application"}
+{"text": "Can you open Minecraft Launcher?", "label": "open_application"}
+{"text": "Please launch the Minecraft launcher", "label": "open_application"}
+{"text": "Get Minecraft Launcher running", "label": "open_application"}
+{"text": "I need the Minecraft launcher", "label": "open_application"}
+{"text": "Open my Minecraft launcher", "label": "open_application"}
+{"text": "Open Godot", "label": "open_application"}
+{"text": "Launch Godot", "label": "open_application"}
+{"text": "Start Godot", "label": "open_application"}
+{"text": "Run Godot", "label": "open_application"}
+{"text": "Bring Godot up", "label": "open_application"}
+{"text": "Can you open Godot?", "label": "open_application"}
+{"text": "Please launch Godot", "label": "open_application"}
+{"text": "Get Godot running", "label": "open_application"}
+{"text": "I need Godot open", "label": "open_application"}
+{"text": "Open my game engine", "label": "open_application"}
+{"text": "Launch the game engine", "label": "open_application"}
+{"text": "Start my game development software", "label": "open_application"}
+{"text": "Open the game development editor", "label": "open_application"}
+{"text": "Bring up Godot for me", "label": "open_application"}
+{"text": "Mira, start Godot", "label": "open_application"}
+{"text": "Open Unity", "label": "open_application"}
+{"text": "Launch Unity", "label": "open_application"}
+{"text": "Start Unity", "label": "open_application"}
+{"text": "Run Unity", "label": "open_application"}
+{"text": "Bring Unity up", "label": "open_application"}
+{"text": "Can you open Unity?", "label": "open_application"}
+{"text": "Please launch Unity", "label": "open_application"}
+{"text": "Get Unity running", "label": "open_application"}
+{"text": "I need Unity open", "label": "open_application"}
+{"text": "Open the Unity editor", "label": "open_application"}
+{"text": "Launch my Unity project", "label": "open_application"}
+{"text": "Start the Unity editor", "label": "open_application"}
+{"text": "Bring up the Unity game engine", "label": "open_application"}
+{"text": "Open my game development environment", "label": "open_application"}
+{"text": "Mira, launch Unity", "label": "open_application"}
+{"text": "Open Unreal Engine", "label": "open_application"}
+{"text": "Launch Unreal Engine", "label": "open_application"}
+{"text": "Start Unreal Engine", "label": "open_application"}
+{"text": "Run Unreal Engine", "label": "open_application"}
+{"text": "Bring Unreal Engine up", "label": "open_application"}
+{"text": "Can you open Unreal Engine?", "label": "open_application"}
+{"text": "Please launch Unreal", "label": "open_application"}
+{"text": "Get Unreal running", "label": "open_application"}
+{"text": "I need Unreal Engine open", "label": "open_application"}
+{"text": "Open the Unreal editor", "label": "open_application"}
+{"text": "Launch my Unreal project", "label": "open_application"}
+{"text": "Start the Unreal game engine", "label": "open_application"}
+{"text": "Bring up the Unreal development environment", "label": "open_application"}
+{"text": "Open Unreal for me", "label": "open_application"}
+{"text": "Mira, start Unreal Engine", "label": "open_application"}
+{"text": "Open MATLAB", "label": "open_application"}
+{"text": "Launch MATLAB", "label": "open_application"}
+{"text": "Start MATLAB", "label": "open_application"}
+{"text": "Run MATLAB", "label": "open_application"}
+{"text": "Bring MATLAB up", "label": "open_application"}
+{"text": "Can you open MATLAB?", "label": "open_application"}
+{"text": "Please launch MATLAB", "label": "open_application"}
+{"text": "Get MATLAB running", "label": "open_application"}
+{"text": "I need MATLAB open", "label": "open_application"}
+{"text": "Open my MATLAB environment", "label": "open_application"}
+{"text": "Open Jupyter", "label": "open_application"}
+{"text": "Launch Jupyter", "label": "open_application"}
+{"text": "Start Jupyter", "label": "open_application"}
+{"text": "Run Jupyter Notebook", "label": "open_application"}
+{"text": "Bring Jupyter up", "label": "open_application"}
+{"text": "Can you open Jupyter?", "label": "open_application"}
+{"text": "Please launch Jupyter Notebook", "label": "open_application"}
+{"text": "Get Jupyter running", "label": "open_application"}
+{"text": "I need Jupyter open", "label": "open_application"}
+{"text": "Open my notebook environment", "label": "open_application"}
+{"text": "Launch the notebook application", "label": "open_application"}
+{"text": "Start Jupyter Lab", "label": "open_application"}
+{"text": "Open Jupyter Lab", "label": "open_application"}
+{"text": "Launch Jupyter Lab", "label": "open_application"}
+{"text": "Bring up my Python notebook", "label": "open_application"}
+{"text": "Open OBS Studio for me", "label": "open_application"}
+{"text": "Launch OBS for me", "label": "open_application"}
+{"text": "Start OBS Studio please", "label": "open_application"}
+{"text": "Can you get OBS open?", "label": "open_application"}
+{"text": "I need OBS running", "label": "open_application"}
+{"text": "Bring my streaming software up", "label": "open_application"}
+{"text": "Open the screen recorder", "label": "open_application"}
+{"text": "Launch the screen recording software", "label": "open_application"}
+{"text": "Start my recording application", "label": "open_application"}
+{"text": "Get my streaming application running", "label": "open_application"}
+{"text": "Open the browser", "label": "open_application"}
+{"text": "Launch the browser", "label": "open_application"}
+{"text": "Start the browser", "label": "open_application"}
+{"text": "Run the browser", "label": "open_application"}
+{"text": "Bring my browser up", "label": "open_application"}
+{"text": "Can you get the browser open?", "label": "open_application"}
+{"text": "Please start the web browser", "label": "open_application"}
+{"text": "Get my web browser running", "label": "open_application"}
+{"text": "I need a browser open", "label": "open_application"}
+{"text": "Put the browser on screen", "label": "open_application"}
+{"text": "Get me a browser window", "label": "open_application"}
+{"text": "Start browsing application", "label": "open_application"}
+{"text": "Open the web application", "label": "open_application"}
+{"text": "Mira, bring up my browser", "label": "open_application"}
+{"text": "Open an application", "label": "open_application"}
+{"text": "Launch an application", "label": "open_application"}
+{"text": "Start an app", "label": "open_application"}
+{"text": "Run an application", "label": "open_application"}
+{"text": "Bring an app up", "label": "open_application"}
+{"text": "Can you open an app?", "label": "open_application"}
+{"text": "Please launch an app", "label": "open_application"}
+{"text": "Get an application running", "label": "open_application"}
+{"text": "I need an application opened", "label": "open_application"}
+{"text": "Start the application", "label": "open_application"}
+{"text": "Open the program", "label": "open_application"}
+{"text": "Launch the program", "label": "open_application"}
+{"text": "Start the program", "label": "open_application"}
+{"text": "Run the program", "label": "open_application"}
+{"text": "Bring the program up", "label": "open_application"}
+{"text": "Open FileZilla", "label": "open_application"}
+{"text": "Launch FileZilla", "label": "open_application"}
+{"text": "Start FileZilla", "label": "open_application"}
+{"text": "Run FileZilla", "label": "open_application"}
+{"text": "Bring FileZilla up", "label": "open_application"}
+{"text": "Can you open FileZilla?", "label": "open_application"}
+{"text": "Please launch FileZilla", "label": "open_application"}
+{"text": "Get FileZilla running", "label": "open_application"}
+{"text": "I need FileZilla open", "label": "open_application"}
+{"text": "Open my FTP client", "label": "open_application"}
+{"text": "Launch my FTP client", "label": "open_application"}
+{"text": "Start the FTP application", "label": "open_application"}
+{"text": "Open KeePassXC", "label": "open_application"}
+{"text": "Launch KeePassXC", "label": "open_application"}
+{"text": "Start KeePassXC", "label": "open_application"}
+{"text": "Run KeePassXC", "label": "open_application"}
+{"text": "Bring KeePassXC up", "label": "open_application"}
+{"text": "Can you open KeePassXC?", "label": "open_application"}
+{"text": "Please launch KeePassXC", "label": "open_application"}
+{"text": "Get KeePassXC running", "label": "open_application"}
+{"text": "I need my password manager open", "label": "open_application"}
+{"text": "Open the password manager", "label": "open_application"}
+{"text": "Launch my password manager", "label": "open_application"}
+{"text": "Start the password manager", "label": "open_application"}
+{"text": "Can you start Thunderbird?", "label": "open_application"}
+{"text": "Please open Thunderbird", "label": "open_application"}
+{"text": "I want my email client open", "label": "open_application"}
+{"text": "Bring up my mail client", "label": "open_application"}
+{"text": "Start my email application", "label": "open_application"}
+{"text": "Open my email program", "label": "open_application"}
+{"text": "Open Evolution", "label": "open_application"}
+{"text": "Launch Evolution", "label": "open_application"}
+{"text": "Start Evolution mail", "label": "open_application"}
+{"text": "Run Evolution", "label": "open_application"}
+{"text": "Bring Evolution up", "label": "open_application"}
+{"text": "Can you open Evolution?", "label": "open_application"}
+{"text": "Please launch Evolution", "label": "open_application"}
+{"text": "Get Evolution running", "label": "open_application"}
+{"text": "Open the Evolution mail client", "label": "open_application"}
+{"text": "Launch my desktop mail client", "label": "open_application"}
+{"text": "Open Calculator", "label": "open_application"}
+{"text": "Launch Calculator", "label": "open_application"}
+{"text": "Start Calculator", "label": "open_application"}
+{"text": "Run Calculator", "label": "open_application"}
+{"text": "Bring Calculator up", "label": "open_application"}
+{"text": "Can you start Calculator?", "label": "open_application"}
+{"text": "Please open the calculator app", "label": "open_application"}
+{"text": "Get Calculator running", "label": "open_application"}
+{"text": "I need the calculator app", "label": "open_application"}
+{"text": "Put the calculator on screen", "label": "open_application"}
+{"text": "Open the calendar", "label": "open_application"}
+{"text": "Launch the calendar app", "label": "open_application"}
+{"text": "Start the calendar", "label": "open_application"}
+{"text": "Run the calendar application", "label": "open_application"}
+{"text": "Bring up my calendar", "label": "open_application"}
+{"text": "Can you open the calendar?", "label": "open_application"}
+{"text": "Please launch the calendar", "label": "open_application"}
+{"text": "Get the calendar app running", "label": "open_application"}
+{"text": "I need my calendar open", "label": "open_application"}
+{"text": "Open my calendar application", "label": "open_application"}
+{"text": "Open the clock", "label": "open_application"}
+{"text": "Launch the clock app", "label": "open_application"}
+{"text": "Start the clock application", "label": "open_application"}
+{"text": "Run the clock", "label": "open_application"}
+{"text": "Bring up the clock", "label": "open_application"}
+{"text": "Can you open the clock?", "label": "open_application"}
+{"text": "Please launch the clock", "label": "open_application"}
+{"text": "Get the clock app running", "label": "open_application"}
+{"text": "I need the clock open", "label": "open_application"}
+{"text": "Open my clock application", "label": "open_application"}
+{"text": "Open the system monitor", "label": "open_application"}
+{"text": "Launch the system monitor", "label": "open_application"}
+{"text": "Start system monitor", "label": "open_application"}
+{"text": "Run the system monitor", "label": "open_application"}
+{"text": "Bring up system monitor", "label": "open_application"}
+{"text": "Can you open the system monitor?", "label": "open_application"}
+{"text": "Please launch system monitor", "label": "open_application"}
+{"text": "Get the system monitor running", "label": "open_application"}
+{"text": "I need to see system resources", "label": "open_application"}
+{"text": "Open the resource monitor", "label": "open_application"}
+{"text": "Open Task Manager", "label": "open_application"}
+{"text": "Launch Task Manager", "label": "open_application"}
+{"text": "Start Task Manager", "label": "open_application"}
+{"text": "Run Task Manager", "label": "open_application"}
+{"text": "Bring Task Manager up", "label": "open_application"}
+{"text": "Can you open Task Manager?", "label": "open_application"}
+{"text": "Please launch Task Manager", "label": "open_application"}
+{"text": "Get Task Manager running", "label": "open_application"}
+{"text": "I need to check running processes", "label": "open_application"}
+{"text": "Open the process manager", "label": "open_application"}
+{"text": "Open the disk utility", "label": "open_application"}
+{"text": "Launch the disk utility", "label": "open_application"}
+{"text": "Start the disk manager", "label": "open_application"}
+{"text": "Run the disk utility", "label": "open_application"}
+{"text": "Bring up the disk manager", "label": "open_application"}
+{"text": "Can you open the disk utility?", "label": "open_application"}
+{"text": "Please launch the disk manager", "label": "open_application"}
+{"text": "Get the disk utility running", "label": "open_application"}
+{"text": "I need the disk management tool", "label": "open_application"}
+{"text": "Open my disk management application", "label": "open_application"}
+{"text": "Open Network Manager", "label": "open_application"}
+{"text": "Launch Network Manager", "label": "open_application"}
+{"text": "Start the network manager", "label": "open_application"}
+{"text": "Run Network Manager", "label": "open_application"}
+{"text": "Bring up Network Manager", "label": "open_application"}
+{"text": "Can you open Network Manager?", "label": "open_application"}
+{"text": "Please launch the network manager", "label": "open_application"}
+{"text": "Get Network Manager running", "label": "open_application"}
+{"text": "Open the network settings tool", "label": "open_application"}
+{"text": "Launch my network management application", "label": "open_application"}
+{"text": "Open Bluetooth settings", "label": "open_application"}
+{"text": "Launch Bluetooth settings", "label": "open_application"}
+{"text": "Start the Bluetooth manager", "label": "open_application"}
+{"text": "Bring up Bluetooth settings", "label": "open_application"}
+{"text": "Can you open Bluetooth settings?", "label": "open_application"}
+{"text": "Please launch the Bluetooth application", "label": "open_application"}
+{"text": "Open my Bluetooth manager", "label": "open_application"}
+{"text": "Launch the Bluetooth manager", "label": "open_application"}
+{"text": "Start the Bluetooth configuration tool", "label": "open_application"}
+{"text": "Get the Bluetooth settings window open", "label": "open_application"}
+{"text": "Open the screenshot tool", "label": "open_application"}
+{"text": "Launch the screenshot application", "label": "open_application"}
+{"text": "Start the screenshot tool", "label": "open_application"}
+{"text": "Run the screenshot application", "label": "open_application"}
+{"text": "Bring up the screenshot tool", "label": "open_application"}
+{"text": "Can you open the screenshot app?", "label": "open_application"}
+{"text": "Please launch the screenshot tool", "label": "open_application"}
+{"text": "Get the screenshot application running", "label": "open_application"}
+{"text": "I need my screenshot tool", "label": "open_application"}
+{"text": "Open the screen capture application", "label": "open_application"}
+{"text": "Open Flameshot", "label": "open_application"}
+{"text": "Launch Flameshot", "label": "open_application"}
+{"text": "Start Flameshot", "label": "open_application"}
+{"text": "Run Flameshot", "label": "open_application"}
+{"text": "Bring Flameshot up", "label": "open_application"}
+{"text": "Can you open Flameshot?", "label": "open_application"}
+{"text": "Please launch Flameshot", "label": "open_application"}
+{"text": "Get Flameshot running", "label": "open_application"}
+{"text": "I need Flameshot open", "label": "open_application"}
+{"text": "Open my screenshot program", "label": "open_application"}
+{"text": "Open Kdenlive", "label": "open_application"}
+{"text": "Launch Kdenlive", "label": "open_application"}
+{"text": "Start Kdenlive", "label": "open_application"}
+{"text": "Run Kdenlive", "label": "open_application"}
+{"text": "Bring Kdenlive up", "label": "open_application"}
+{"text": "Can you open Kdenlive?", "label": "open_application"}
+{"text": "Please launch Kdenlive", "label": "open_application"}
+{"text": "Get Kdenlive running", "label": "open_application"}
+{"text": "I need my video editor open", "label": "open_application"}
+{"text": "Open the video editing application", "label": "open_application"}
+{"text": "Open Inkscape", "label": "open_application"}
+{"text": "Launch Inkscape", "label": "open_application"}
+{"text": "Start Inkscape", "label": "open_application"}
+{"text": "Run Inkscape", "label": "open_application"}
+{"text": "Bring Inkscape up", "label": "open_application"}
+{"text": "Can you open Inkscape?", "label": "open_application"}
+{"text": "Please launch Inkscape", "label": "open_application"}
+{"text": "Get Inkscape running", "label": "open_application"}
+{"text": "I need my vector editor open", "label": "open_application"}
+{"text": "Open the vector graphics editor", "label": "open_application"}
+{"text": "Open Okular", "label": "open_application"}
+{"text": "Launch Okular", "label": "open_application"}
+{"text": "Start Okular", "label": "open_application"}
+{"text": "Run Okular", "label": "open_application"}
+{"text": "Bring Okular up", "label": "open_application"}
+{"text": "Can you open Okular?", "label": "open_application"}
+{"text": "Please launch Okular", "label": "open_application"}
+{"text": "Get Okular running", "label": "open_application"}
+{"text": "I need my PDF reader open", "label": "open_application"}
+{"text": "Open the document viewer", "label": "open_application"}
+{"text": "Open Evince", "label": "open_application"}
+{"text": "Launch Evince", "label": "open_application"}
+{"text": "Start Evince", "label": "open_application"}
+{"text": "Run Evince", "label": "open_application"}
+{"text": "Bring Evince up", "label": "open_application"}
+{"text": "Can you open Evince?", "label": "open_application"}
+{"text": "Please launch Evince", "label": "open_application"}
+{"text": "Get Evince running", "label": "open_application"}
+{"text": "I need the PDF viewer", "label": "open_application"}
+{"text": "Open my document viewer", "label": "open_application"}
+{"text": "Open Archive Manager", "label": "open_application"}
+{"text": "Launch Archive Manager", "label": "open_application"}
+{"text": "Start the archive manager", "label": "open_application"}
+{"text": "Run Archive Manager", "label": "open_application"}
+{"text": "Bring up the archive manager", "label": "open_application"}
+{"text": "Can you open the archive manager?", "label": "open_application"}
+{"text": "Please launch the archive application", "label": "open_application"}
+{"text": "Get the archive tool running", "label": "open_application"}
+{"text": "I need my archive manager", "label": "open_application"}
+{"text": "Open the compression utility", "label": "open_application"}
+{"text": "Open VLC Media Player", "label": "open_application"}
+{"text": "Launch VLC Media Player", "label": "open_application"}
+{"text": "Start VLC Media Player", "label": "open_application"}
+{"text": "Run VLC Media Player", "label": "open_application"}
+{"text": "Bring VLC Media Player up", "label": "open_application"}
+{"text": "Can you open VLC Media Player?", "label": "open_application"}
+{"text": "Please launch VLC Media Player", "label": "open_application"}
+{"text": "Get VLC Media Player running", "label": "open_application"}
+{"text": "I need my media player open", "label": "open_application"}
+{"text": "Open the video player", "label": "open_application"}
+{"text": "Open Rhythmbox", "label": "open_application"}
+{"text": "Launch Rhythmbox", "label": "open_application"}
+{"text": "Start Rhythmbox", "label": "open_application"}
+{"text": "Run Rhythmbox", "label": "open_application"}
+{"text": "Bring Rhythmbox up", "label": "open_application"}
+{"text": "Can you open Rhythmbox?", "label": "open_application"}
+{"text": "Please launch Rhythmbox", "label": "open_application"}
+{"text": "Get Rhythmbox running", "label": "open_application"}
+{"text": "I need my music player open", "label": "open_application"}
+{"text": "Open the music application", "label": "open_application"}
+{"text": "Open Transmission", "label": "open_application"}
+{"text": "Launch Transmission", "label": "open_application"}
+{"text": "Start Transmission", "label": "open_application"}
+{"text": "Run Transmission", "label": "open_application"}
+{"text": "Bring Transmission up", "label": "open_application"}
+{"text": "Can you open Transmission?", "label": "open_application"}
+{"text": "Please launch Transmission", "label": "open_application"}
+{"text": "Get Transmission running", "label": "open_application"}
+{"text": "I need my torrent client open", "label": "open_application"}
+{"text": "Open the torrent application", "label": "open_application"}
+{"text": "Open qBittorrent", "label": "open_application"}
+{"text": "Launch qBittorrent", "label": "open_application"}
+{"text": "Start qBittorrent", "label": "open_application"}
+{"text": "Run qBittorrent", "label": "open_application"}
+{"text": "Bring qBittorrent up", "label": "open_application"}
+{"text": "Can you open qBittorrent?", "label": "open_application"}
+{"text": "Please launch qBittorrent", "label": "open_application"}
+{"text": "Get qBittorrent running", "label": "open_application"}
+{"text": "Open the qBittorrent application", "label": "open_application"}
+{"text": "I need my code editor open", "label": "open_application"}
+{"text": "Open my programming editor", "label": "open_application"}
+{"text": "Launch the code editor", "label": "open_application"}
+{"text": "Start my development editor", "label": "open_application"}
+{"text": "Open Sublime Text", "label": "open_application"}
+{"text": "Launch Sublime Text", "label": "open_application"}
+{"text": "Start Sublime Text", "label": "open_application"}
+{"text": "Run Sublime Text", "label": "open_application"}
+{"text": "Bring Sublime Text up", "label": "open_application"}
+{"text": "Can you open Sublime Text?", "label": "open_application"}
+{"text": "Please launch Sublime Text", "label": "open_application"}
+{"text": "Get Sublime Text running", "label": "open_application"}
+{"text": "I need Sublime open", "label": "open_application"}
+{"text": "Open my text editor", "label": "open_application"}
+{"text": "Open Kate", "label": "open_application"}
+{"text": "Launch Kate", "label": "open_application"}
+{"text": "Start Kate", "label": "open_application"}
+{"text": "Run Kate", "label": "open_application"}
+{"text": "Bring Kate up", "label": "open_application"}
+{"text": "Can you open Kate?", "label": "open_application"}
+{"text": "Please launch Kate", "label": "open_application"}
+{"text": "Get Kate running", "label": "open_application"}
+{"text": "I need the Kate editor open", "label": "open_application"}
+{"text": "Open the KDE text editor", "label": "open_application"}
+{"text": "Open Geany", "label": "open_application"}
+{"text": "Launch Geany", "label": "open_application"}
+{"text": "Start Geany", "label": "open_application"}
+{"text": "Run Geany", "label": "open_application"}
+{"text": "Bring Geany up", "label": "open_application"}
+{"text": "Can you open Geany?", "label": "open_application"}
+{"text": "Please launch Geany", "label": "open_application"}
+{"text": "Get Geany running", "label": "open_application"}
+{"text": "I need Geany open", "label": "open_application"}
+{"text": "Open my lightweight code editor", "label": "open_application"}
+{"text": "Open Neovim", "label": "open_application"}
+{"text": "Launch Neovim", "label": "open_application"}
+{"text": "Start Neovim", "label": "open_application"}
+{"text": "Run Neovim", "label": "open_application"}
+{"text": "Bring Neovim up", "label": "open_application"}
+{"text": "Can you open Neovim?", "label": "open_application"}
+{"text": "Please launch Neovim", "label": "open_application"}
+{"text": "Get Neovim running", "label": "open_application"}
+{"text": "I want to use Neovim", "label": "open_application"}
+{"text": "Open my terminal editor", "label": "open_application"}
+{"text": "Open Emacs", "label": "open_application"}
+{"text": "Launch Emacs", "label": "open_application"}
+{"text": "Start Emacs", "label": "open_application"}
+{"text": "Run Emacs", "label": "open_application"}
+{"text": "Bring Emacs up", "label": "open_application"}
+{"text": "Can you open Emacs?", "label": "open_application"}
+{"text": "Please launch Emacs", "label": "open_application"}
+{"text": "Get Emacs running", "label": "open_application"}
+{"text": "I need Emacs open", "label": "open_application"}
+{"text": "Open the Emacs editor", "label": "open_application"}
+{"text": "Open Qt Creator", "label": "open_application"}
+{"text": "Launch Qt Creator", "label": "open_application"}
+{"text": "Start Qt Creator", "label": "open_application"}
+{"text": "Run Qt Creator", "label": "open_application"}
+{"text": "Bring Qt Creator up", "label": "open_application"}
+{"text": "Can you open Qt Creator?", "label": "open_application"}
+{"text": "Please launch Qt Creator", "label": "open_application"}
+{"text": "Get Qt Creator running", "label": "open_application"}
+{"text": "I need my Qt development environment", "label": "open_application"}
+{"text": "Open the Qt IDE", "label": "open_application"}
+{"text": "Open Code::Blocks", "label": "open_application"}
+{"text": "Launch Code::Blocks", "label": "open_application"}
+{"text": "Start Code::Blocks", "label": "open_application"}
+{"text": "Run Code::Blocks", "label": "open_application"}
+{"text": "Bring Code::Blocks up", "label": "open_application"}
+{"text": "Can you open Code::Blocks?", "label": "open_application"}
+{"text": "Please launch Code::Blocks", "label": "open_application"}
+{"text": "Get Code::Blocks running", "label": "open_application"}
+{"text": "I need Code::Blocks open", "label": "open_application"}
+{"text": "Open my C++ IDE", "label": "open_application"}
+{"text": "Open DBeaver", "label": "open_application"}
+{"text": "Launch DBeaver", "label": "open_application"}
+{"text": "Start DBeaver", "label": "open_application"}
+{"text": "Run DBeaver", "label": "open_application"}
+{"text": "Bring DBeaver up", "label": "open_application"}
+{"text": "Can you open DBeaver?", "label": "open_application"}
+{"text": "Please launch DBeaver", "label": "open_application"}
+{"text": "Get DBeaver running", "label": "open_application"}
+{"text": "I need my database client open", "label": "open_application"}
+{"text": "Open the database manager", "label": "open_application"}
+{"text": "Open MySQL Workbench", "label": "open_application"}
+{"text": "Launch MySQL Workbench", "label": "open_application"}
+{"text": "Start MySQL Workbench", "label": "open_application"}
+{"text": "Run MySQL Workbench", "label": "open_application"}
+{"text": "Bring MySQL Workbench up", "label": "open_application"}
+{"text": "Can you open MySQL Workbench?", "label": "open_application"}
+{"text": "Please launch MySQL Workbench", "label": "open_application"}
+{"text": "Get MySQL Workbench running", "label": "open_application"}
+{"text": "I need the MySQL GUI open", "label": "open_application"}
+{"text": "Open my MySQL application", "label": "open_application"}
+{"text": "Run Postman", "label": "open_application"}
+{"text": "Please launch Postman", "label": "open_application"}
+{"text": "I need Postman open", "label": "open_application"}
+{"text": "Open my API testing application", "label": "open_application"}
+{"text": "Open Insomnia", "label": "open_application"}
+{"text": "Launch Insomnia", "label": "open_application"}
+{"text": "Start Insomnia", "label": "open_application"}
+{"text": "Run Insomnia", "label": "open_application"}
+{"text": "Bring Insomnia up", "label": "open_application"}
+{"text": "Can you open Insomnia?", "label": "open_application"}
+{"text": "Please launch Insomnia", "label": "open_application"}
+{"text": "Get Insomnia running", "label": "open_application"}
+{"text": "I need my API client open", "label": "open_application"}
+{"text": "Open the REST client", "label": "open_application"}
+{"text": "Open Wireshark", "label": "open_application"}
+{"text": "Launch Wireshark", "label": "open_application"}
+{"text": "Start Wireshark", "label": "open_application"}
+{"text": "Run Wireshark", "label": "open_application"}
+{"text": "Bring Wireshark up", "label": "open_application"}
+{"text": "Can you open Wireshark?", "label": "open_application"}
+{"text": "Please launch Wireshark", "label": "open_application"}
+{"text": "Get Wireshark running", "label": "open_application"}
+{"text": "I need the network analyzer open", "label": "open_application"}
+{"text": "Open the packet analyzer", "label": "open_application"}
+{"text": "Open GitKraken", "label": "open_application"}
+{"text": "Launch GitKraken", "label": "open_application"}
+{"text": "Start GitKraken", "label": "open_application"}
+{"text": "Run GitKraken", "label": "open_application"}
+{"text": "Bring GitKraken up", "label": "open_application"}
+{"text": "Can you open GitKraken?", "label": "open_application"}
+{"text": "Please launch GitKraken", "label": "open_application"}
+{"text": "Get GitKraken running", "label": "open_application"}
+{"text": "I need my Git client open", "label": "open_application"}
+{"text": "Open the Git GUI", "label": "open_application"}
+{"text": "Open my 3D editor", "label": "open_application"}
+{"text": "Open Unity Hub", "label": "open_application"}
+{"text": "Launch Unity Hub", "label": "open_application"}
+{"text": "Start Unity Hub", "label": "open_application"}
+{"text": "Run Unity Hub", "label": "open_application"}
+{"text": "Bring Unity Hub up", "label": "open_application"}
+{"text": "Can you open Unity Hub?", "label": "open_application"}
+{"text": "Please launch Unity Hub", "label": "open_application"}
+{"text": "Get Unity Hub running", "label": "open_application"}
+{"text": "I need Unity Hub open", "label": "open_application"}
+{"text": "Open my Unity launcher", "label": "open_application"}
+{"text": "Open OBS Studio", "label": "open_application"}
+{"text": "Run OBS Studio", "label": "open_application"}
+{"text": "Bring OBS Studio up", "label": "open_application"}
+{"text": "Can you open OBS?", "label": "open_application"}
+{"text": "Please launch OBS Studio", "label": "open_application"}
+{"text": "Get OBS running", "label": "open_application"}
+{"text": "I need OBS open", "label": "open_application"}
+{"text": "Open my streaming application", "label": "open_application"}
+{"text": "Run Audacity", "label": "open_application"}
+{"text": "Bring Audacity up", "label": "open_application"}
+{"text": "Can you open Audacity?", "label": "open_application"}
+{"text": "Please launch Audacity", "label": "open_application"}
+{"text": "Get Audacity running", "label": "open_application"}
+{"text": "I need Audacity open", "label": "open_application"}
+{"text": "Open the audio editor", "label": "open_application"}
+{"text": "Please launch GIMP", "label": "open_application"}
+{"text": "I need my image editor open", "label": "open_application"}
+{"text": "Open the photo editor", "label": "open_application"}
+{"text": "Open LibreOffice Writer", "label": "open_application"}
+{"text": "Launch LibreOffice Writer", "label": "open_application"}
+{"text": "Start LibreOffice Writer", "label": "open_application"}
+{"text": "Run LibreOffice Writer", "label": "open_application"}
+{"text": "Bring LibreOffice Writer up", "label": "open_application"}
+{"text": "Can you open Writer?", "label": "open_application"}
+{"text": "Please launch LibreOffice Writer", "label": "open_application"}
+{"text": "Get Writer running", "label": "open_application"}
+{"text": "I need my word processor open", "label": "open_application"}
+{"text": "Open the document editor", "label": "open_application"}
+{"text": "Open LibreOffice Calc", "label": "open_application"}
+{"text": "Launch LibreOffice Calc", "label": "open_application"}
+{"text": "Start LibreOffice Calc", "label": "open_application"}
+{"text": "Run LibreOffice Calc", "label": "open_application"}
+{"text": "Bring Calc up", "label": "open_application"}
+{"text": "Can you open Calc?", "label": "open_application"}
+{"text": "Please launch LibreOffice Calc", "label": "open_application"}
+{"text": "Get Calc running", "label": "open_application"}
+{"text": "I need my spreadsheet application open", "label": "open_application"}
+{"text": "Open the spreadsheet editor", "label": "open_application"}
+{"text": "Open LibreOffice Impress", "label": "open_application"}
+{"text": "Launch LibreOffice Impress", "label": "open_application"}
+{"text": "Start LibreOffice Impress", "label": "open_application"}
+{"text": "Run LibreOffice Impress", "label": "open_application"}
+{"text": "Bring Impress up", "label": "open_application"}
+{"text": "Can you open Impress?", "label": "open_application"}
+{"text": "Please launch LibreOffice Impress", "label": "open_application"}
+{"text": "Get Impress running", "label": "open_application"}
+{"text": "I need my presentation software open", "label": "open_application"}
+{"text": "Open the presentation editor", "label": "open_application"}
+{"text": "Open File Manager", "label": "open_application"}
+{"text": "Launch File Manager", "label": "open_application"}
+{"text": "Bring the file manager up", "label": "open_application"}
+{"text": "Please launch my file manager", "label": "open_application"}
+{"text": "Please launch a terminal window", "label": "open_application"}
+{"text": "I need a terminal open", "label": "open_application"}
+{"text": "Open a command line", "label": "open_application"}
+{"text": "Launch the command line", "label": "open_application"}
+{"text": "Open Settings", "label": "open_application"}
+{"text": "Launch Settings", "label": "open_application"}
+{"text": "Start Settings", "label": "open_application"}
+{"text": "Run the settings application", "label": "open_application"}
+{"text": "Bring Settings up", "label": "open_application"}
+{"text": "Can you open Settings?", "label": "open_application"}
+{"text": "Please launch system settings", "label": "open_application"}
+{"text": "Get the settings window open", "label": "open_application"}
+{"text": "I need system settings", "label": "open_application"}
+{"text": "Open the configuration application", "label": "open_application"}
+{"text": "Open the software center", "label": "open_application"}
+{"text": "Launch the software center", "label": "open_application"}
+{"text": "Start the software manager", "label": "open_application"}
+{"text": "Run the software center", "label": "open_application"}
+{"text": "Bring up the software manager", "label": "open_application"}
+{"text": "Can you open the software center?", "label": "open_application"}
+{"text": "Please launch the software manager", "label": "open_application"}
+{"text": "Get the software center running", "label": "open_application"}
+{"text": "I need to browse installed software", "label": "open_application"}
+{"text": "Open the application manager", "label": "open_application"}
+{"text": "Run the text editor", "label": "open_application"}
+{"text": "Bring the text editor up", "label": "open_application"}
+{"text": "Please launch a text editor", "label": "open_application"}
+{"text": "Get my text editor running", "label": "open_application"}
+{"text": "I need a text editor open", "label": "open_application"}
+{"text": "Open a simple editor", "label": "open_application"}
+{"text": "Can you open PyCharm?", "label": "open_application"}
+{"text": "Please launch PyCharm", "label": "open_application"}
+{"text": "Get PyCharm running", "label": "open_application"}
+{"text": "I need PyCharm open", "label": "open_application"}
+{"text": "Open my Python IDE", "label": "open_application"}
+{"text": "Open IntelliJ IDEA", "label": "open_application"}
+{"text": "Start IntelliJ IDEA", "label": "open_application"}
+{"text": "Run IntelliJ IDEA", "label": "open_application"}
+{"text": "Bring IntelliJ IDEA up", "label": "open_application"}
+{"text": "Can you open IntelliJ?", "label": "open_application"}
+{"text": "Please launch IntelliJ IDEA", "label": "open_application"}
+{"text": "Get IntelliJ running", "label": "open_application"}
+{"text": "I need my Java IDE open", "label": "open_application"}
+{"text": "Open the Java development environment", "label": "open_application"}
+{"text": "Run Android Studio", "label": "open_application"}
+{"text": "Can you open Android Studio?", "label": "open_application"}
+{"text": "Please launch Android Studio", "label": "open_application"}
+{"text": "Get Android Studio running", "label": "open_application"}
+{"text": "I need Android Studio open", "label": "open_application"}
+{"text": "Open my Android development environment", "label": "open_application"}
+{"text": "Open the MATLAB application", "label": "open_application"}
+{"text": "Open RStudio", "label": "open_application"}
+{"text": "Launch RStudio", "label": "open_application"}
+{"text": "Start RStudio", "label": "open_application"}
+{"text": "Run RStudio", "label": "open_application"}
+{"text": "Bring RStudio up", "label": "open_application"}
+{"text": "Can you open RStudio?", "label": "open_application"}
+{"text": "Please launch RStudio", "label": "open_application"}
+{"text": "Get RStudio running", "label": "open_application"}
+{"text": "I need my R development environment open", "label": "open_application"}
+{"text": "Open the R IDE", "label": "open_application"}
+{"text": "Open my chat application", "label": "open_application"}
+{"text": "Open Telegram Desktop", "label": "open_application"}
+{"text": "Launch Telegram Desktop", "label": "open_application"}
+{"text": "Run Telegram Desktop", "label": "open_application"}
+{"text": "Please launch Telegram Desktop", "label": "open_application"}
+{"text": "Open my Telegram application", "label": "open_application"}
+{"text": "Open my game launcher", "label": "open_application"}
+{"text": "Open Wine", "label": "open_application"}
+{"text": "Launch Wine", "label": "open_application"}
+{"text": "Start Wine", "label": "open_application"}
+{"text": "Run Wine", "label": "open_application"}
+{"text": "Can you open Wine?", "label": "open_application"}
+{"text": "Please launch Wine", "label": "open_application"}
+{"text": "Get Wine running", "label": "open_application"}
+{"text": "Open the Windows compatibility application", "label": "open_application"}
+{"text": "Open VirtualBox", "label": "open_application"}
+{"text": "Launch VirtualBox", "label": "open_application"}
+{"text": "Start VirtualBox", "label": "open_application"}
+{"text": "Run VirtualBox", "label": "open_application"}
+{"text": "Bring VirtualBox up", "label": "open_application"}
+{"text": "Can you open VirtualBox?", "label": "open_application"}
+{"text": "Please launch VirtualBox", "label": "open_application"}
+{"text": "Get VirtualBox running", "label": "open_application"}
+{"text": "I need my virtual machine manager open", "label": "open_application"}
+{"text": "Open the virtualization application", "label": "open_application"}
+{"text": "Open Docker Desktop", "label": "open_application"}
+{"text": "Launch Docker Desktop", "label": "open_application"}
+{"text": "Start Docker Desktop", "label": "open_application"}
+{"text": "Run Docker Desktop", "label": "open_application"}
+{"text": "Bring Docker Desktop up", "label": "open_application"}
+{"text": "Can you open Docker Desktop?", "label": "open_application"}
+{"text": "Please launch Docker Desktop", "label": "open_application"}
+{"text": "Get Docker Desktop running", "label": "open_application"}
+{"text": "I need Docker Desktop open", "label": "open_application"}
+{"text": "Open my Docker application", "label": "open_application"}
+{"text": "Open VMware", "label": "open_application"}
+{"text": "Launch VMware", "label": "open_application"}
+{"text": "Start VMware", "label": "open_application"}
+{"text": "Run VMware", "label": "open_application"}
+{"text": "Bring VMware up", "label": "open_application"}
+{"text": "Can you open VMware?", "label": "open_application"}
+{"text": "Please launch VMware", "label": "open_application"}
+{"text": "Get VMware running", "label": "open_application"}
+{"text": "I need VMware open", "label": "open_application"}
+{"text": "Open the VMware application", "label": "open_application"}
+{"text": "Launch OBS", "label": "open_application"}
+{"text": "Start OBS", "label": "open_application"}
+{"text": "Run OBS", "label": "open_application"}
+{"text": "Please launch OBS", "label": "open_application"}
+{"text": "Open my recording application", "label": "open_application"}
+{"text": "Run Krita", "label": "open_application"}
+{"text": "Bring Krita up", "label": "open_application"}
+{"text": "Can you open Krita?", "label": "open_application"}
+{"text": "Please launch Krita", "label": "open_application"}
+{"text": "Get Krita running", "label": "open_application"}
+{"text": "I need Krita open", "label": "open_application"}
+{"text": "Open the digital painting application", "label": "open_application"}
+{"text": "Open Discord and leave it ready", "label": "open_application"}
+{"text": "Launch Steam for me", "label": "open_application"}
+{"text": "Start Blender for me", "label": "open_application"}
+{"text": "Please get VS Code open", "label": "open_application"}
+{"text": "Can you bring Firefox up?", "label": "open_application"}
+{"text": "Get Chrome open", "label": "open_application"}
+{"text": "Please start my browser", "label": "open_application"}
+{"text": "Bring the browser up", "label": "open_application"}
+{"text": "Launch my web browser", "label": "open_application"}
+{"text": "Start the browser application", "label": "open_application"}
+{"text": "I want my browser open", "label": "open_application"}
+{"text": "Get my browser running", "label": "open_application"}

@@ -1,0 +1,7 @@
+{"text": "Write hello into the current application", "label": "type_text"}
+{"text": "Turn up the brightness", "label": "system_control"}
+{"text": "What do you think about programming?", "label": "conversation"}
+{"text": "Move this file to Documents", "label": "file_operation"}
+{"text": "Can you open Discord?", "label": "open_application"}
+{"text": "Check my current screen", "label": "read_screen"}
+{"text": "Look up the latest Python version", "label": "search_web"}

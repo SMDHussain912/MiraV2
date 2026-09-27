@@ -1,0 +1,7 @@
+{"text": "Decrease the volume", "label": "system_control"}
+{"text": "What can you do?", "label": "conversation"}
+{"text": "What application is currently open?", "label": "read_screen"}
+{"text": "Put this sentence in the text box", "label": "type_text"}
+{"text": "Launch Chrome", "label": "open_application"}
+{"text": "Copy this file", "label": "file_operation"}
+{"text": "Can you search the internet for this?", "label": "search_web"}

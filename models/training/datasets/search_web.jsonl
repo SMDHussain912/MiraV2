@@ -1,0 +1,1016 @@
+{"text":"Search the web for Python tutorials","label":"search_web"}
+{"text":"Search online for Python tutorials","label":"search_web"}
+{"text":"Look up Python tutorials","label":"search_web"}
+{"text":"Find Python tutorials online","label":"search_web"}
+{"text":"Can you search for Python tutorials?","label":"search_web"}
+{"text":"Please search the web for Python tutorials","label":"search_web"}
+{"text":"Find some Python tutorials for me","label":"search_web"}
+{"text":"Look online for Python tutorials","label":"search_web"}
+{"text":"Search for tutorials on Python","label":"search_web"}
+{"text":"I want to find Python tutorials","label":"search_web"}
+{"text":"Look up some Python learning resources","label":"search_web"}
+{"text":"Find resources for learning Python","label":"search_web"}
+{"text":"Search for machine learning tutorials","label":"search_web"}
+{"text":"Look up machine learning tutorials","label":"search_web"}
+{"text":"Find machine learning tutorials online","label":"search_web"}
+{"text":"Search the web for machine learning courses","label":"search_web"}
+{"text":"Can you find machine learning courses?","label":"search_web"}
+{"text":"Please search online for ML tutorials","label":"search_web"}
+{"text":"Look for machine learning learning resources","label":"search_web"}
+{"text":"Find resources to learn machine learning","label":"search_web"}
+{"text":"Search online for machine learning guides","label":"search_web"}
+{"text":"I need some machine learning tutorials","label":"search_web"}
+{"text":"Look up beginner machine learning courses","label":"search_web"}
+{"text":"Find a good machine learning tutorial online","label":"search_web"}
+{"text":"Search for Linux tutorials","label":"search_web"}
+{"text":"Look up Linux tutorials","label":"search_web"}
+{"text":"Find Linux guides online","label":"search_web"}
+{"text":"Search the web for Linux documentation","label":"search_web"}
+{"text":"Can you find Linux tutorials?","label":"search_web"}
+{"text":"Please search online for Linux guides","label":"search_web"}
+{"text":"Look for Linux learning resources","label":"search_web"}
+{"text":"Find resources for learning Linux","label":"search_web"}
+{"text":"Search online for Linux commands","label":"search_web"}
+{"text":"I want to find Linux tutorials","label":"search_web"}
+{"text":"Look up Linux administration guides","label":"search_web"}
+{"text":"Find a Linux tutorial for beginners","label":"search_web"}
+{"text":"Search for C++ tutorials","label":"search_web"}
+{"text":"Look up C++ tutorials","label":"search_web"}
+{"text":"Find C++ programming guides","label":"search_web"}
+{"text":"Search the web for C++ documentation","label":"search_web"}
+{"text":"Can you find C++ tutorials online?","label":"search_web"}
+{"text":"Please search for C++ learning resources","label":"search_web"}
+{"text":"Look online for C++ tutorials","label":"search_web"}
+{"text":"Find resources for learning C++","label":"search_web"}
+{"text":"Search online for C++ examples","label":"search_web"}
+{"text":"I need a C++ tutorial","label":"search_web"}
+{"text":"Look up beginner C++ courses","label":"search_web"}
+{"text":"Find a C++ programming guide","label":"search_web"}
+{"text":"Search for JavaScript tutorials","label":"search_web"}
+{"text":"Look up JavaScript tutorials","label":"search_web"}
+{"text":"Find JavaScript guides online","label":"search_web"}
+{"text":"Search the web for JavaScript documentation","label":"search_web"}
+{"text":"Can you find JavaScript tutorials?","label":"search_web"}
+{"text":"Please search online for JavaScript courses","label":"search_web"}
+{"text":"Look for JavaScript learning resources","label":"search_web"}
+{"text":"Find resources for learning JavaScript","label":"search_web"}
+{"text":"Search online for JavaScript examples","label":"search_web"}
+{"text":"I want to find JavaScript tutorials","label":"search_web"}
+{"text":"Look up beginner JavaScript courses","label":"search_web"}
+{"text":"Find a JavaScript programming guide","label":"search_web"}
+{"text":"Search for C# tutorials","label":"search_web"}
+{"text":"Look up C# tutorials","label":"search_web"}
+{"text":"Find C# guides online","label":"search_web"}
+{"text":"Search the web for C# documentation","label":"search_web"}
+{"text":"Can you find C# tutorials?","label":"search_web"}
+{"text":"Please search online for C# courses","label":"search_web"}
+{"text":"Look for C# learning resources","label":"search_web"}
+{"text":"Find resources for learning C#","label":"search_web"}
+{"text":"Search online for C# examples","label":"search_web"}
+{"text":"I want to find C# tutorials","label":"search_web"}
+{"text":"Look up beginner C# courses","label":"search_web"}
+{"text":"Find a C# programming guide","label":"search_web"}
+{"text":"Search for Java tutorials","label":"search_web"}
+{"text":"Look up Java tutorials","label":"search_web"}
+{"text":"Find Java programming guides online","label":"search_web"}
+{"text":"Search the web for Java documentation","label":"search_web"}
+{"text":"Can you find Java tutorials?","label":"search_web"}
+{"text":"Please search online for Java courses","label":"search_web"}
+{"text":"Look for Java learning resources","label":"search_web"}
+{"text":"Find resources for learning Java","label":"search_web"}
+{"text":"Search online for Java examples","label":"search_web"}
+{"text":"I want to find Java tutorials","label":"search_web"}
+{"text":"Look up beginner Java courses","label":"search_web"}
+{"text":"Find a Java programming guide","label":"search_web"}
+{"text":"Search for React tutorials","label":"search_web"}
+{"text":"Look up React tutorials","label":"search_web"}
+{"text":"Find React guides online","label":"search_web"}
+{"text":"Search the web for React documentation","label":"search_web"}
+{"text":"Can you find React tutorials?","label":"search_web"}
+{"text":"Please search online for React courses","label":"search_web"}
+{"text":"Look for React learning resources","label":"search_web"}
+{"text":"Find resources for learning React","label":"search_web"}
+{"text":"Search online for React examples","label":"search_web"}
+{"text":"I want to find React tutorials","label":"search_web"}
+{"text":"Look up beginner React courses","label":"search_web"}
+{"text":"Find a React programming guide","label":"search_web"}
+{"text":"Search for Node.js tutorials","label":"search_web"}
+{"text":"Look up Node.js tutorials","label":"search_web"}
+{"text":"Find Node.js guides online","label":"search_web"}
+{"text":"Search the web for Node.js documentation","label":"search_web"}
+{"text":"Can you find Node.js tutorials?","label":"search_web"}
+{"text":"Please search online for Node.js courses","label":"search_web"}
+{"text":"Look for Node.js learning resources","label":"search_web"}
+{"text":"Find resources for learning Node.js","label":"search_web"}
+{"text":"Search online for Node.js examples","label":"search_web"}
+{"text":"I want to find Node.js tutorials","label":"search_web"}
+{"text":"Look up beginner Node.js courses","label":"search_web"}
+{"text":"Find a Node.js programming guide","label":"search_web"}
+{"text":"Search for Docker tutorials","label":"search_web"}
+{"text":"Look up Docker tutorials","label":"search_web"}
+{"text":"Find Docker guides online","label":"search_web"}
+{"text":"Search the web for Docker documentation","label":"search_web"}
+{"text":"Can you find Docker tutorials?","label":"search_web"}
+{"text":"Please search online for Docker courses","label":"search_web"}
+{"text":"Look for Docker learning resources","label":"search_web"}
+{"text":"Find resources for learning Docker","label":"search_web"}
+{"text":"Search online for Docker examples","label":"search_web"}
+{"text":"I want to find Docker tutorials","label":"search_web"}
+{"text":"Look up beginner Docker courses","label":"search_web"}
+{"text":"Find a Docker guide","label":"search_web"}
+{"text":"Search for Git tutorials","label":"search_web"}
+{"text":"Look up Git tutorials","label":"search_web"}
+{"text":"Find Git guides online","label":"search_web"}
+{"text":"Search the web for Git documentation","label":"search_web"}
+{"text":"Can you find Git tutorials?","label":"search_web"}
+{"text":"Please search online for Git courses","label":"search_web"}
+{"text":"Look for Git learning resources","label":"search_web"}
+{"text":"Find resources for learning Git","label":"search_web"}
+{"text":"Search online for Git commands","label":"search_web"}
+{"text":"I want to find Git tutorials","label":"search_web"}
+{"text":"Look up beginner Git courses","label":"search_web"}
+{"text":"Find a Git guide","label":"search_web"}
+{"text":"Search for Blender tutorials","label":"search_web"}
+{"text":"Look up Blender tutorials","label":"search_web"}
+{"text":"Find Blender guides online","label":"search_web"}
+{"text":"Search the web for Blender documentation","label":"search_web"}
+{"text":"Can you find Blender tutorials?","label":"search_web"}
+{"text":"Please search online for Blender courses","label":"search_web"}
+{"text":"Look for Blender learning resources","label":"search_web"}
+{"text":"Find resources for learning Blender","label":"search_web"}
+{"text":"Search online for Blender examples","label":"search_web"}
+{"text":"I want to find Blender tutorials","label":"search_web"}
+{"text":"Look up beginner Blender courses","label":"search_web"}
+{"text":"Find a Blender guide","label":"search_web"}
+{"text":"Search for Unity tutorials","label":"search_web"}
+{"text":"Look up Unity tutorials","label":"search_web"}
+{"text":"Find Unity guides online","label":"search_web"}
+{"text":"Search the web for Unity documentation","label":"search_web"}
+{"text":"Can you find Unity tutorials?","label":"search_web"}
+{"text":"Please search online for Unity courses","label":"search_web"}
+{"text":"Look for Unity learning resources","label":"search_web"}
+{"text":"Find resources for learning Unity","label":"search_web"}
+{"text":"Search online for Unity examples","label":"search_web"}
+{"text":"I want to find Unity tutorials","label":"search_web"}
+{"text":"Look up beginner Unity courses","label":"search_web"}
+{"text":"Find a Unity game development guide","label":"search_web"}
+{"text":"Search for cybersecurity tutorials","label":"search_web"}
+{"text":"Look up cybersecurity tutorials","label":"search_web"}
+{"text":"Find cybersecurity guides online","label":"search_web"}
+{"text":"Search the web for cybersecurity resources","label":"search_web"}
+{"text":"Can you find cybersecurity courses?","label":"search_web"}
+{"text":"Please search online for cybersecurity tutorials","label":"search_web"}
+{"text":"Look for cybersecurity learning resources","label":"search_web"}
+{"text":"Find resources for learning cybersecurity","label":"search_web"}
+{"text":"Search online for ethical hacking tutorials","label":"search_web"}
+{"text":"I want to find cybersecurity courses","label":"search_web"}
+{"text":"Look up beginner cybersecurity guides","label":"search_web"}
+{"text":"Find an ethical hacking tutorial","label":"search_web"}
+{"text":"Search for OpenCV tutorials","label":"search_web"}
+{"text":"Look up OpenCV tutorials","label":"search_web"}
+{"text":"Find OpenCV guides online","label":"search_web"}
+{"text":"Search the web for OpenCV documentation","label":"search_web"}
+{"text":"Can you find OpenCV tutorials?","label":"search_web"}
+{"text":"Please search online for OpenCV courses","label":"search_web"}
+{"text":"Look for OpenCV learning resources","label":"search_web"}
+{"text":"Find resources for learning OpenCV","label":"search_web"}
+{"text":"Search online for OpenCV examples","label":"search_web"}
+{"text":"I want to find OpenCV tutorials","label":"search_web"}
+{"text":"Look up beginner OpenCV courses","label":"search_web"}
+{"text":"Find an OpenCV programming guide","label":"search_web"}
+{"text":"Search for PyTorch tutorials","label":"search_web"}
+{"text":"Look up PyTorch tutorials","label":"search_web"}
+{"text":"Find PyTorch guides online","label":"search_web"}
+{"text":"Search the web for PyTorch documentation","label":"search_web"}
+{"text":"Can you find PyTorch tutorials?","label":"search_web"}
+{"text":"Please search online for PyTorch courses","label":"search_web"}
+{"text":"Look for PyTorch learning resources","label":"search_web"}
+{"text":"Find resources for learning PyTorch","label":"search_web"}
+{"text":"Search online for PyTorch examples","label":"search_web"}
+{"text":"I want to find PyTorch tutorials","label":"search_web"}
+{"text":"Look up beginner PyTorch courses","label":"search_web"}
+{"text":"Find a PyTorch programming guide","label":"search_web"}
+{"text":"Search for today's technology news","label":"search_web"}
+{"text":"Look up today's tech news","label":"search_web"}
+{"text":"Find the latest technology news","label":"search_web"}
+{"text":"Search online for today's technology news","label":"search_web"}
+{"text":"What's the latest tech news? Search for it","label":"search_web"}
+{"text":"Please find today's technology headlines","label":"search_web"}
+{"text":"Look for the latest technology updates","label":"search_web"}
+{"text":"Find recent technology news online","label":"search_web"}
+{"text":"Search for the latest AI news","label":"search_web"}
+{"text":"Look up recent AI developments","label":"search_web"}
+{"text":"Find today's artificial intelligence news","label":"search_web"}
+{"text":"Search online for recent AI updates","label":"search_web"}
+{"text":"Search for the latest Linux news","label":"search_web"}
+{"text":"Look up recent Linux news","label":"search_web"}
+{"text":"Find today's Linux news","label":"search_web"}
+{"text":"Search online for Linux updates","label":"search_web"}
+{"text":"Please find recent Linux announcements","label":"search_web"}
+{"text":"Look for the latest Linux developments","label":"search_web"}
+{"text":"Find recent Linux news articles","label":"search_web"}
+{"text":"Search for new Linux releases","label":"search_web"}
+{"text":"Look up the latest Linux release news","label":"search_web"}
+{"text":"Find recent Linux updates online","label":"search_web"}
+{"text":"Search for today's gaming news","label":"search_web"}
+{"text":"Look up the latest gaming news","label":"search_web"}
+{"text":"Find recent gaming news","label":"search_web"}
+{"text":"Search online for gaming updates","label":"search_web"}
+{"text":"Please find today's gaming headlines","label":"search_web"}
+{"text":"Look for the latest game development news","label":"search_web"}
+{"text":"Find recent gaming announcements","label":"search_web"}
+{"text":"Search for new game releases","label":"search_web"}
+{"text":"Look up recent video game news","label":"search_web"}
+{"text":"Find the latest gaming updates online","label":"search_web"}
+{"text":"Search for the latest news about NVIDIA","label":"search_web"}
+{"text":"Look up recent NVIDIA news","label":"search_web"}
+{"text":"Find the latest NVIDIA announcements","label":"search_web"}
+{"text":"Search online for NVIDIA updates","label":"search_web"}
+{"text":"What's new with NVIDIA? Search the web","label":"search_web"}
+{"text":"Find recent NVIDIA developments","label":"search_web"}
+{"text":"Look online for NVIDIA news","label":"search_web"}
+{"text":"Search for recent NVIDIA articles","label":"search_web"}
+{"text":"Search for the latest AMD news","label":"search_web"}
+{"text":"Look up recent AMD announcements","label":"search_web"}
+{"text":"Find the latest AMD updates","label":"search_web"}
+{"text":"Search online for AMD news","label":"search_web"}
+{"text":"What's new with AMD?","label":"search_web"}
+{"text":"Find recent AMD developments","label":"search_web"}
+{"text":"Look online for AMD announcements","label":"search_web"}
+{"text":"Search for recent AMD articles","label":"search_web"}
+{"text":"Search for the latest Intel news","label":"search_web"}
+{"text":"Look up recent Intel announcements","label":"search_web"}
+{"text":"Find the latest Intel updates","label":"search_web"}
+{"text":"Search online for Intel news","label":"search_web"}
+{"text":"What's new with Intel?","label":"search_web"}
+{"text":"Find recent Intel developments","label":"search_web"}
+{"text":"Look online for Intel announcements","label":"search_web"}
+{"text":"Search for recent Intel articles","label":"search_web"}
+{"text":"Search for the latest Microsoft news","label":"search_web"}
+{"text":"Look up recent Microsoft announcements","label":"search_web"}
+{"text":"Find the latest Microsoft updates","label":"search_web"}
+{"text":"Search online for Microsoft news","label":"search_web"}
+{"text":"What's new with Microsoft?","label":"search_web"}
+{"text":"Find recent Microsoft developments","label":"search_web"}
+{"text":"Look online for Microsoft announcements","label":"search_web"}
+{"text":"Search for recent Microsoft articles","label":"search_web"}
+{"text":"Search for the latest Linux kernel news","label":"search_web"}
+{"text":"Look up recent Linux kernel developments","label":"search_web"}
+{"text":"Find the latest Linux kernel updates","label":"search_web"}
+{"text":"Search online for Linux kernel announcements","label":"search_web"}
+{"text":"What's new in the Linux kernel?","label":"search_web"}
+{"text":"Find recent Linux kernel changes","label":"search_web"}
+{"text":"Look online for Linux kernel news","label":"search_web"}
+{"text":"Search for recent Linux kernel articles","label":"search_web"}
+{"text":"Search for recent Python releases","label":"search_web"}
+{"text":"Look up the latest Python version","label":"search_web"}
+{"text":"Find the newest Python release","label":"search_web"}
+{"text":"Search online for Python release news","label":"search_web"}
+{"text":"What's new in Python?","label":"search_web"}
+{"text":"Find recent Python updates","label":"search_web"}
+{"text":"Look for the latest Python changes","label":"search_web"}
+{"text":"Search for Python release information","label":"search_web"}
+{"text":"Search for the latest Ubuntu release","label":"search_web"}
+{"text":"Look up the newest Ubuntu version","label":"search_web"}
+{"text":"Find recent Ubuntu release information","label":"search_web"}
+{"text":"Search online for Ubuntu updates","label":"search_web"}
+{"text":"What's new in Ubuntu?","label":"search_web"}
+{"text":"Find the latest Ubuntu announcements","label":"search_web"}
+{"text":"Look for recent Ubuntu developments","label":"search_web"}
+{"text":"Search for Ubuntu release news","label":"search_web"}
+{"text":"Search for the latest Android version","label":"search_web"}
+{"text":"Look up the newest Android release","label":"search_web"}
+{"text":"Find recent Android updates","label":"search_web"}
+{"text":"Search online for Android news","label":"search_web"}
+{"text":"What's new in Android?","label":"search_web"}
+{"text":"Find the latest Android announcements","label":"search_web"}
+{"text":"Look for recent Android developments","label":"search_web"}
+{"text":"Search for Android release information","label":"search_web"}
+{"text":"Search for the latest iPhone news","label":"search_web"}
+{"text":"Look up recent iPhone announcements","label":"search_web"}
+{"text":"Find the latest iPhone updates","label":"search_web"}
+{"text":"Search online for iPhone news","label":"search_web"}
+{"text":"What's new with the iPhone?","label":"search_web"}
+{"text":"Find recent iPhone developments","label":"search_web"}
+{"text":"Look online for iPhone announcements","label":"search_web"}
+{"text":"Search for recent iPhone articles","label":"search_web"}
+{"text":"Search for the latest PlayStation news","label":"search_web"}
+{"text":"Look up recent PlayStation announcements","label":"search_web"}
+{"text":"Find the latest PlayStation updates","label":"search_web"}
+{"text":"Search online for PlayStation news","label":"search_web"}
+{"text":"What's new with PlayStation?","label":"search_web"}
+{"text":"Find recent PlayStation developments","label":"search_web"}
+{"text":"Look online for PlayStation announcements","label":"search_web"}
+{"text":"Search for recent PlayStation articles","label":"search_web"}
+{"text":"Search for the latest Xbox news","label":"search_web"}
+{"text":"Look up recent Xbox announcements","label":"search_web"}
+{"text":"Find the latest Xbox updates","label":"search_web"}
+{"text":"Search online for Xbox news","label":"search_web"}
+{"text":"What's new with Xbox?","label":"search_web"}
+{"text":"Find recent Xbox developments","label":"search_web"}
+{"text":"Look online for Xbox announcements","label":"search_web"}
+{"text":"Search for recent Xbox articles","label":"search_web"}
+{"text":"Search for the latest Steam news","label":"search_web"}
+{"text":"Look up recent Steam announcements","label":"search_web"}
+{"text":"Find the latest Steam updates","label":"search_web"}
+{"text":"Search online for Steam news","label":"search_web"}
+{"text":"What's new on Steam?","label":"search_web"}
+{"text":"Find recent Steam developments","label":"search_web"}
+{"text":"Look online for Steam announcements","label":"search_web"}
+{"text":"Search for recent Steam articles","label":"search_web"}
+{"text":"Search for the latest Blender news","label":"search_web"}
+{"text":"Look up recent Blender announcements","label":"search_web"}
+{"text":"Find the latest Blender updates","label":"search_web"}
+{"text":"Search online for Blender news","label":"search_web"}
+{"text":"What's new in Blender?","label":"search_web"}
+{"text":"Find recent Blender developments","label":"search_web"}
+{"text":"Look online for Blender announcements","label":"search_web"}
+{"text":"Search for recent Blender articles","label":"search_web"}
+{"text":"Search for the latest Unity news","label":"search_web"}
+{"text":"Look up recent Unity announcements","label":"search_web"}
+{"text":"Find the latest Unity updates","label":"search_web"}
+{"text":"Search online for Unity news","label":"search_web"}
+{"text":"What's new in Unity?","label":"search_web"}
+{"text":"Find recent Unity developments","label":"search_web"}
+{"text":"Look online for Unity announcements","label":"search_web"}
+{"text":"Search for recent Unity articles","label":"search_web"}
+{"text":"Search for the latest Unreal Engine news","label":"search_web"}
+{"text":"Look up recent Unreal Engine announcements","label":"search_web"}
+{"text":"Find the latest Unreal Engine updates","label":"search_web"}
+{"text":"Search online for Unreal Engine news","label":"search_web"}
+{"text":"What's new in Unreal Engine?","label":"search_web"}
+{"text":"Find recent Unreal Engine developments","label":"search_web"}
+{"text":"Look online for Unreal Engine announcements","label":"search_web"}
+{"text":"Search for recent Unreal Engine articles","label":"search_web"}
+{"text":"Search for the latest cybersecurity news","label":"search_web"}
+{"text":"Look up recent cybersecurity incidents","label":"search_web"}
+{"text":"Find the latest cybersecurity updates","label":"search_web"}
+{"text":"Search online for cybersecurity news","label":"search_web"}
+{"text":"What's new in cybersecurity?","label":"search_web"}
+{"text":"Find recent cybersecurity developments","label":"search_web"}
+{"text":"Look online for security announcements","label":"search_web"}
+{"text":"Search for recent cybersecurity articles","label":"search_web"}
+{"text":"Search for the latest AI research","label":"search_web"}
+{"text":"Look up recent artificial intelligence research","label":"search_web"}
+{"text":"Find the newest AI papers","label":"search_web"}
+{"text":"Search online for recent AI papers","label":"search_web"}
+{"text":"What's new in AI research?","label":"search_web"}
+{"text":"Find recent artificial intelligence developments","label":"search_web"}
+{"text":"Look online for new machine learning papers","label":"search_web"}
+{"text":"Search for recent machine learning research","label":"search_web"}
+{"text":"Search for recent robotics research","label":"search_web"}
+{"text":"Look up new robotics papers","label":"search_web"}
+{"text":"Find the latest robotics research","label":"search_web"}
+{"text":"Search online for robotics developments","label":"search_web"}
+{"text":"What's new in robotics?","label":"search_web"}
+{"text":"Find recent robotics projects","label":"search_web"}
+{"text":"Look online for robotics papers","label":"search_web"}
+{"text":"Search for recent robot technology news","label":"search_web"}
+{"text":"Search for the latest game development news","label":"search_web"}
+{"text":"Look up recent game development articles","label":"search_web"}
+{"text":"Find new game development tutorials","label":"search_web"}
+{"text":"Search online for game development resources","label":"search_web"}
+{"text":"What's new in game development?","label":"search_web"}
+{"text":"Find recent game development techniques","label":"search_web"}
+{"text":"Look online for game development news","label":"search_web"}
+{"text":"Search for new game development tools","label":"search_web"}
+{"text":"Search for a GitHub project about voice assistants","label":"search_web"}
+{"text":"Find GitHub repositories for voice assistants","label":"search_web"}
+{"text":"Look up voice assistant projects on GitHub","label":"search_web"}
+{"text":"Search GitHub for C++ voice assistant projects","label":"search_web"}
+{"text":"Find open source voice assistant repositories","label":"search_web"}
+{"text":"Search online for open source voice assistant projects","label":"search_web"}
+{"text":"Look for GitHub projects related to Mira","label":"search_web"}
+{"text":"Find repositories for local AI assistants","label":"search_web"}
+{"text":"Search GitHub for local AI assistant projects","label":"search_web"}
+{"text":"Look up open source desktop assistant projects","label":"search_web"}
+{"text":"Search GitHub for C++ machine learning projects","label":"search_web"}
+{"text":"Find C++ AI projects on GitHub","label":"search_web"}
+{"text":"Look up open source C++ AI repositories","label":"search_web"}
+{"text":"Search GitHub for OpenCV projects","label":"search_web"}
+{"text":"Find OpenCV projects on GitHub","label":"search_web"}
+{"text":"Look up C++ computer vision repositories","label":"search_web"}
+{"text":"Search GitHub for robotics projects","label":"search_web"}
+{"text":"Find open source robotics repositories","label":"search_web"}
+{"text":"Search GitHub for Unity projects","label":"search_web"}
+{"text":"Find open source Unity game projects","label":"search_web"}
+{"text":"Search Stack Overflow for a Python error","label":"search_web"}
+{"text":"Look up this Python error on Stack Overflow","label":"search_web"}
+{"text":"Find solutions to my Python error online","label":"search_web"}
+{"text":"Search the web for a solution to this C++ error","label":"search_web"}
+{"text":"Look up a solution for my JavaScript error","label":"search_web"}
+{"text":"Find answers to this programming problem online","label":"search_web"}
+{"text":"Search Stack Overflow for this programming question","label":"search_web"}
+{"text":"Look for solutions to this compiler error","label":"search_web"}
+{"text":"Find discussions about this Linux error","label":"search_web"}
+{"text":"Search online for this error message","label":"search_web"}
+{"text":"Search Reddit for Linux advice","label":"search_web"}
+{"text":"Look up Linux discussions on Reddit","label":"search_web"}
+{"text":"Find Reddit posts about Linux gaming","label":"search_web"}
+{"text":"Search Reddit for Blender tips","label":"search_web"}
+{"text":"Look for Python discussions on Reddit","label":"search_web"}
+{"text":"Find Reddit posts about machine learning","label":"search_web"}
+{"text":"Search Reddit for Unity development advice","label":"search_web"}
+{"text":"Look up Reddit discussions about programming","label":"search_web"}
+{"text":"Find Reddit threads about Linux problems","label":"search_web"}
+{"text":"Search Reddit for recommendations about game development","label":"search_web"}
+{"text":"Search for reviews of a laptop","label":"search_web"}
+{"text":"Look up laptop reviews","label":"search_web"}
+{"text":"Find reviews for this laptop model","label":"search_web"}
+{"text":"Search online for laptop reviews","label":"search_web"}
+{"text":"Find user reviews of this laptop","label":"search_web"}
+{"text":"Look for professional reviews of this laptop","label":"search_web"}
+{"text":"Search for benchmarks of this processor","label":"search_web"}
+{"text":"Find benchmark results for this graphics card","label":"search_web"}
+{"text":"Look up performance tests for this laptop","label":"search_web"}
+{"text":"Search online for reviews and benchmarks","label":"search_web"}
+{"text":"Search for the price of a laptop","label":"search_web"}
+{"text":"Look up the current price of this laptop","label":"search_web"}
+{"text":"Find current prices for this phone","label":"search_web"}
+{"text":"Search online for the price of this monitor","label":"search_web"}
+{"text":"Look up current prices for graphics cards","label":"search_web"}
+{"text":"Find the latest price of this processor","label":"search_web"}
+{"text":"Search for current SSD prices","label":"search_web"}
+{"text":"Look up the price of this keyboard","label":"search_web"}
+{"text":"Find current prices for computer parts","label":"search_web"}
+{"text":"Search online for today's laptop prices","label":"search_web"}
+{"text":"Search for how to use Python lists","label":"search_web"}
+{"text":"Look up Python list methods","label":"search_web"}
+{"text":"Find examples of Python dictionaries","label":"search_web"}
+{"text":"Search online for Python file handling examples","label":"search_web"}
+{"text":"Look up how Python decorators work","label":"search_web"}
+{"text":"Find a Python threading tutorial","label":"search_web"}
+{"text":"Search for Python multiprocessing examples","label":"search_web"}
+{"text":"Look up Python asyncio documentation","label":"search_web"}
+{"text":"Find examples of Python sockets","label":"search_web"}
+{"text":"Search online for Python JSON parsing examples","label":"search_web"}
+{"text":"Search for C++ smart pointer examples","label":"search_web"}
+{"text":"Look up how unique_ptr works in C++","label":"search_web"}
+{"text":"Find examples of C++ shared_ptr","label":"search_web"}
+{"text":"Search online for C++ multithreading tutorials","label":"search_web"}
+{"text":"Look up C++ filesystem examples","label":"search_web"}
+{"text":"Find documentation for C++ vectors","label":"search_web"}
+{"text":"Search for C++ lambda function examples","label":"search_web"}
+{"text":"Look up C++ templates tutorials","label":"search_web"}
+{"text":"Find examples of C++ inheritance","label":"search_web"}
+{"text":"Search online for C++ socket programming","label":"search_web"}
+{"text":"Search for JavaScript promises examples","label":"search_web"}
+{"text":"Look up JavaScript async await","label":"search_web"}
+{"text":"Find examples of JavaScript fetch","label":"search_web"}
+{"text":"Search online for JavaScript event listeners","label":"search_web"}
+{"text":"Look up JavaScript array methods","label":"search_web"}
+{"text":"Find examples of JavaScript classes","label":"search_web"}
+{"text":"Search for JavaScript modules documentation","label":"search_web"}
+{"text":"Look up JavaScript closures explained","label":"search_web"}
+{"text":"Find examples of JavaScript WebSockets","label":"search_web"}
+{"text":"Search online for JavaScript DOM manipulation","label":"search_web"}
+{"text":"Search for Node.js Express tutorials","label":"search_web"}
+{"text":"Look up Express middleware examples","label":"search_web"}
+{"text":"Find Node.js REST API examples","label":"search_web"}
+{"text":"Search online for Node.js authentication tutorials","label":"search_web"}
+{"text":"Look up Express routing documentation","label":"search_web"}
+{"text":"Find examples of Node.js file uploads","label":"search_web"}
+{"text":"Search for Node.js WebSocket examples","label":"search_web"}
+{"text":"Look up Express error handling","label":"search_web"}
+{"text":"Find Node.js environment variable tutorials","label":"search_web"}
+{"text":"Search online for Node.js MongoDB examples","label":"search_web"}
+{"text":"Search for React hooks documentation","label":"search_web"}
+{"text":"Look up React useEffect examples","label":"search_web"}
+{"text":"Find examples of React components","label":"search_web"}
+{"text":"Search online for React state management tutorials","label":"search_web"}
+{"text":"Look up React routing examples","label":"search_web"}
+{"text":"Find React form handling tutorials","label":"search_web"}
+{"text":"Search for React context API examples","label":"search_web"}
+{"text":"Look up React performance optimization","label":"search_web"}
+{"text":"Find examples of React custom hooks","label":"search_web"}
+{"text":"Search online for React authentication examples","label":"search_web"}
+{"text":"Search for Docker Compose examples","label":"search_web"}
+{"text":"Look up Docker networking tutorials","label":"search_web"}
+{"text":"Find Dockerfile examples","label":"search_web"}
+{"text":"Search online for Docker volume documentation","label":"search_web"}
+{"text":"Look up Docker container commands","label":"search_web"}
+{"text":"Find examples of Docker multi-stage builds","label":"search_web"}
+{"text":"Search for Docker image optimization tips","label":"search_web"}
+{"text":"Look up Docker healthcheck examples","label":"search_web"}
+{"text":"Find Docker troubleshooting guides","label":"search_web"}
+{"text":"Search online for Docker security best practices","label":"search_web"}
+{"text":"Search for Git branching tutorials","label":"search_web"}
+{"text":"Look up Git rebase examples","label":"search_web"}
+{"text":"Find Git merge conflict tutorials","label":"search_web"}
+{"text":"Search online for Git reset examples","label":"search_web"}
+{"text":"Look up Git stash documentation","label":"search_web"}
+{"text":"Find examples of Git hooks","label":"search_web"}
+{"text":"Search for Git submodule tutorials","label":"search_web"}
+{"text":"Look up Git remote commands","label":"search_web"}
+{"text":"Find Git troubleshooting guides","label":"search_web"}
+{"text":"Search online for Git commit history commands","label":"search_web"}
+{"text":"Search for Linux systemd tutorials","label":"search_web"}
+{"text":"Look up systemctl command examples","label":"search_web"}
+{"text":"Find Linux process management tutorials","label":"search_web"}
+{"text":"Search online for Linux permissions explained","label":"search_web"}
+{"text":"Look up chmod examples","label":"search_web"}
+{"text":"Find Linux networking commands","label":"search_web"}
+{"text":"Search for Linux SSH configuration tutorials","label":"search_web"}
+{"text":"Look up Linux environment variables","label":"search_web"}
+{"text":"Find Linux shell scripting examples","label":"search_web"}
+{"text":"Search online for Bash scripting tutorials","label":"search_web"}
+{"text":"Search for OpenCV image processing examples","label":"search_web"}
+{"text":"Look up OpenCV contour detection tutorials","label":"search_web"}
+{"text":"Find OpenCV face detection examples","label":"search_web"}
+{"text":"Search online for OpenCV camera tutorials","label":"search_web"}
+{"text":"Look up OpenCV thresholding examples","label":"search_web"}
+{"text":"Find OpenCV object tracking tutorials","label":"search_web"}
+{"text":"Search for OpenCV feature detection examples","label":"search_web"}
+{"text":"Look up OpenCV video processing documentation","label":"search_web"}
+{"text":"Find OpenCV OCR tutorials","label":"search_web"}
+{"text":"Search online for OpenCV image segmentation","label":"search_web"}
+{"text":"Search for PyTorch tensor tutorials","label":"search_web"}
+{"text":"Look up PyTorch model training examples","label":"search_web"}
+{"text":"Find PyTorch Dataset examples","label":"search_web"}
+{"text":"Search online for PyTorch DataLoader documentation","label":"search_web"}
+{"text":"Look up PyTorch CNN tutorials","label":"search_web"}
+{"text":"Find PyTorch transformer examples","label":"search_web"}
+{"text":"Search for PyTorch inference tutorials","label":"search_web"}
+{"text":"Look up PyTorch quantization examples","label":"search_web"}
+{"text":"Find PyTorch CPU optimization guides","label":"search_web"}
+{"text":"Search online for PyTorch ONNX tutorials","label":"search_web"}
+{"text":"Search for scikit-learn classification examples","label":"search_web"}
+{"text":"Look up scikit-learn random forest documentation","label":"search_web"}
+{"text":"Find scikit-learn preprocessing tutorials","label":"search_web"}
+{"text":"Search online for scikit-learn pipelines","label":"search_web"}
+{"text":"Look up scikit-learn cross validation examples","label":"search_web"}
+{"text":"Find examples of logistic regression in scikit-learn","label":"search_web"}
+{"text":"Search for scikit-learn clustering tutorials","label":"search_web"}
+{"text":"Look up scikit-learn metrics documentation","label":"search_web"}
+{"text":"Find examples of model evaluation in scikit-learn","label":"search_web"}
+{"text":"Search online for scikit-learn hyperparameter tuning","label":"search_web"}
+{"text":"Search for SQL JOIN examples","label":"search_web"}
+{"text":"Look up SQL GROUP BY tutorials","label":"search_web"}
+{"text":"Find MySQL indexing documentation","label":"search_web"}
+{"text":"Search online for PostgreSQL tutorials","label":"search_web"}
+{"text":"Look up MongoDB query examples","label":"search_web"}
+{"text":"Find MongoDB aggregation tutorials","label":"search_web"}
+{"text":"Search for Redis examples","label":"search_web"}
+{"text":"Look up database normalization tutorials","label":"search_web"}
+{"text":"Find SQL transaction examples","label":"search_web"}
+{"text":"Search online for database optimization techniques","label":"search_web"}
+{"text":"Search for HTML form examples","label":"search_web"}
+{"text":"Look up CSS flexbox tutorials","label":"search_web"}
+{"text":"Find CSS grid examples","label":"search_web"}
+{"text":"Search online for responsive web design tutorials","label":"search_web"}
+{"text":"Look up HTML semantic elements","label":"search_web"}
+{"text":"Find CSS animation examples","label":"search_web"}
+{"text":"Search for JavaScript browser APIs","label":"search_web"}
+{"text":"Look up WebSocket browser examples","label":"search_web"}
+{"text":"Find web accessibility tutorials","label":"search_web"}
+{"text":"Search online for web performance optimization","label":"search_web"}
+{"text":"Search for REST API design guidelines","label":"search_web"}
+{"text":"Look up HTTP status codes","label":"search_web"}
+{"text":"Find JWT authentication examples","label":"search_web"}
+{"text":"Search online for OAuth documentation","label":"search_web"}
+{"text":"Look up API rate limiting techniques","label":"search_web"}
+{"text":"Find REST API pagination examples","label":"search_web"}
+{"text":"Search for API versioning strategies","label":"search_web"}
+{"text":"Look up HTTP caching documentation","label":"search_web"}
+{"text":"Find examples of API error responses","label":"search_web"}
+{"text":"Search online for API security tutorials","label":"search_web"}
+{"text":"Search for ROS2 tutorials","label":"search_web"}
+{"text":"Look up ROS2 publisher subscriber examples","label":"search_web"}
+{"text":"Find ROS2 navigation tutorials","label":"search_web"}
+{"text":"Search online for ROS2 Python examples","label":"search_web"}
+{"text":"Look up ROS2 C++ examples","label":"search_web"}
+{"text":"Find ROS2 package creation tutorials","label":"search_web"}
+{"text":"Search for Webots tutorials","label":"search_web"}
+{"text":"Look up Webots robot simulation examples","label":"search_web"}
+{"text":"Find robotics simulation projects","label":"search_web"}
+{"text":"Search online for ROS2 Webots integration","label":"search_web"}
+{"text":"Search for Unity C# scripting tutorials","label":"search_web"}
+{"text":"Look up Unity physics examples","label":"search_web"}
+{"text":"Find Unity animation tutorials","label":"search_web"}
+{"text":"Search online for Unity AI navigation examples","label":"search_web"}
+{"text":"Look up Unity NavMesh documentation","label":"search_web"}
+{"text":"Find Unity shader tutorials","label":"search_web"}
+{"text":"Search for Unity multiplayer tutorials","label":"search_web"}
+{"text":"Look up Unity UI documentation","label":"search_web"}
+{"text":"Find Unity optimization guides","label":"search_web"}
+{"text":"Search online for Unity input system examples","label":"search_web"}
+{"text":"Search for Blender Python scripting tutorials","label":"search_web"}
+{"text":"Look up Blender animation tutorials","label":"search_web"}
+{"text":"Find Blender rigging guides","label":"search_web"}
+{"text":"Search online for Blender geometry nodes tutorials","label":"search_web"}
+{"text":"Look up Blender shader tutorials","label":"search_web"}
+{"text":"Find Blender character modeling guides","label":"search_web"}
+{"text":"Search for Blender rendering tutorials","label":"search_web"}
+{"text":"Look up Blender UV mapping tutorials","label":"search_web"}
+{"text":"Find Blender procedural modeling examples","label":"search_web"}
+{"text":"Search online for Blender optimization tips","label":"search_web"}
+{"text":"Search for machine learning datasets","label":"search_web"}
+{"text":"Look up public datasets for image classification","label":"search_web"}
+{"text":"Find datasets for natural language processing","label":"search_web"}
+{"text":"Search online for speech recognition datasets","label":"search_web"}
+{"text":"Look up computer vision datasets","label":"search_web"}
+{"text":"Find datasets for intent classification","label":"search_web"}
+{"text":"Search for text classification datasets","label":"search_web"}
+{"text":"Look up datasets for object detection","label":"search_web"}
+{"text":"Find public speech datasets","label":"search_web"}
+{"text":"Search online for robotics datasets","label":"search_web"}
+{"text":"Search for transformer architecture explanations","label":"search_web"}
+{"text":"Look up attention mechanism tutorials","label":"search_web"}
+{"text":"Find embeddings explained with examples","label":"search_web"}
+{"text":"Search online for tokenization tutorials","label":"search_web"}
+{"text":"Look up BERT architecture documentation","label":"search_web"}
+{"text":"Find TinyBERT tutorials","label":"search_web"}
+{"text":"Search for ONNX Runtime examples","label":"search_web"}
+{"text":"Look up ONNX model optimization tutorials","label":"search_web"}
+{"text":"Find INT8 quantization tutorials","label":"search_web"}
+{"text":"Search online for CPU inference optimization","label":"search_web"}
+{"text":"Can you find information about Python generators?","label":"search_web"}
+{"text":"Can you look up how Python decorators work?","label":"search_web"}
+{"text":"Could you find a tutorial for Python multiprocessing?","label":"search_web"}
+{"text":"I want to know how Python virtual environments work","label":"search_web"}
+{"text":"Find some resources that explain Python packaging","label":"search_web"}
+{"text":"Can you look online for Python type hints?","label":"search_web"}
+{"text":"I need examples of Python context managers","label":"search_web"}
+{"text":"Look online and explain Python dataclasses","label":"search_web"}
+{"text":"Find documentation about Python exceptions","label":"search_web"}
+{"text":"Can you find a guide to Python unit testing?","label":"search_web"}
+{"text":"Can you find information about C++ move semantics?","label":"search_web"}
+{"text":"Look online for an explanation of C++ smart pointers","label":"search_web"}
+{"text":"Could you find a C++ networking tutorial?","label":"search_web"}
+{"text":"I want to learn how C++ threads work","label":"search_web"}
+{"text":"Find some examples of C++ memory management","label":"search_web"}
+{"text":"Can you look up C++ STL algorithms?","label":"search_web"}
+{"text":"I need a tutorial for C++ templates","label":"search_web"}
+{"text":"Find documentation for C++ file streams","label":"search_web"}
+{"text":"Can you find examples of C++ operator overloading?","label":"search_web"}
+{"text":"Look online for C++ debugging techniques","label":"search_web"}
+{"text":"Can you find information about JavaScript promises?","label":"search_web"}
+{"text":"Look online for JavaScript closures","label":"search_web"}
+{"text":"Could you find a JavaScript DOM tutorial?","label":"search_web"}
+{"text":"I want examples of JavaScript async programming","label":"search_web"}
+{"text":"Find some resources for learning JavaScript modules","label":"search_web"}
+{"text":"Can you look up JavaScript event bubbling?","label":"search_web"}
+{"text":"I need examples of JavaScript fetch requests","label":"search_web"}
+{"text":"Find documentation about browser storage APIs","label":"search_web"}
+{"text":"Can you find a JavaScript WebSocket tutorial?","label":"search_web"}
+{"text":"Look online for JavaScript performance tips","label":"search_web"}
+{"text":"Can you find an Express.js authentication tutorial?","label":"search_web"}
+{"text":"Look online for Node.js file system examples","label":"search_web"}
+{"text":"Could you find a tutorial for Express middleware?","label":"search_web"}
+{"text":"I want to know how Node.js streams work","label":"search_web"}
+{"text":"Find some Node.js REST API examples","label":"search_web"}
+{"text":"Can you look up Express session authentication?","label":"search_web"}
+{"text":"I need documentation for Node.js child processes","label":"search_web"}
+{"text":"Find examples of Express error handling","label":"search_web"}
+{"text":"Can you find a Node.js deployment guide?","label":"search_web"}
+{"text":"Look online for Node.js performance optimization","label":"search_web"}
+{"text":"Can you find information about React state?","label":"search_web"}
+{"text":"Look online for React component examples","label":"search_web"}
+{"text":"Could you find a React hooks tutorial?","label":"search_web"}
+{"text":"I want to learn how React context works","label":"search_web"}
+{"text":"Find some resources for React routing","label":"search_web"}
+{"text":"Can you look up React server components?","label":"search_web"}
+{"text":"I need examples of React forms","label":"search_web"}
+{"text":"Find documentation about React rendering","label":"search_web"}
+{"text":"Can you find React performance guides?","label":"search_web"}
+{"text":"Look online for React testing tutorials","label":"search_web"}
+{"text":"Can you find a Docker networking guide?","label":"search_web"}
+{"text":"Look online for Docker Compose examples","label":"search_web"}
+{"text":"Could you find information about Docker volumes?","label":"search_web"}
+{"text":"I want to understand Docker containers","label":"search_web"}
+{"text":"Find some Docker security resources","label":"search_web"}
+{"text":"Can you look up Docker image optimization?","label":"search_web"}
+{"text":"I need examples of Docker health checks","label":"search_web"}
+{"text":"Find documentation about Docker networking","label":"search_web"}
+{"text":"Can you find a Docker troubleshooting guide?","label":"search_web"}
+{"text":"Look online for Docker deployment examples","label":"search_web"}
+{"text":"Can you find information about Git rebase?","label":"search_web"}
+{"text":"Look online for Git merge conflicts","label":"search_web"}
+{"text":"Could you find a Git branching tutorial?","label":"search_web"}
+{"text":"I want to understand Git reset","label":"search_web"}
+{"text":"Find some resources about Git workflows","label":"search_web"}
+{"text":"Can you look up Git stash examples?","label":"search_web"}
+{"text":"I need documentation about Git hooks","label":"search_web"}
+{"text":"Find examples of Git submodules","label":"search_web"}
+{"text":"Can you find a guide for recovering deleted Git commits?","label":"search_web"}
+{"text":"Look online for Git troubleshooting advice","label":"search_web"}
+{"text":"Can you find information about Linux services?","label":"search_web"}
+{"text":"Look online for systemd tutorials","label":"search_web"}
+{"text":"Could you find a guide to Linux permissions?","label":"search_web"}
+{"text":"I want to learn Linux networking","label":"search_web"}
+{"text":"Find some resources about Bash scripting","label":"search_web"}
+{"text":"Can you look up Linux process management?","label":"search_web"}
+{"text":"I need examples of Linux shell commands","label":"search_web"}
+{"text":"Find documentation about Linux environment variables","label":"search_web"}
+{"text":"Can you find a Linux SSH tutorial?","label":"search_web"}
+{"text":"Look online for Linux disk management guides","label":"search_web"}
+{"text":"Can you find information about OpenCV contours?","label":"search_web"}
+{"text":"Look online for OpenCV camera examples","label":"search_web"}
+{"text":"Could you find an OpenCV object detection tutorial?","label":"search_web"}
+{"text":"I want to learn OpenCV image filtering","label":"search_web"}
+{"text":"Find some resources about OpenCV feature detection","label":"search_web"}
+{"text":"Can you look up OpenCV template matching?","label":"search_web"}
+{"text":"I need examples of OpenCV image transformations","label":"search_web"}
+{"text":"Find documentation about OpenCV video capture","label":"search_web"}
+{"text":"Can you find an OpenCV OCR tutorial?","label":"search_web"}
+{"text":"Look online for OpenCV camera calibration","label":"search_web"}
+{"text":"Can you find information about PyTorch tensors?","label":"search_web"}
+{"text":"Look online for PyTorch training examples","label":"search_web"}
+{"text":"Could you find a PyTorch CNN tutorial?","label":"search_web"}
+{"text":"I want to learn how PyTorch datasets work","label":"search_web"}
+{"text":"Find some resources about PyTorch transformers","label":"search_web"}
+{"text":"Can you look up PyTorch quantization?","label":"search_web"}
+{"text":"I need examples of PyTorch model inference","label":"search_web"}
+{"text":"Find documentation about PyTorch optimizers","label":"search_web"}
+{"text":"Can you find a PyTorch ONNX export guide?","label":"search_web"}
+{"text":"Look online for PyTorch CPU optimization","label":"search_web"}
+{"text":"Can you find information about machine learning classification?","label":"search_web"}
+{"text":"Look online for machine learning datasets","label":"search_web"}
+{"text":"Could you find a tutorial about regression algorithms?","label":"search_web"}
+{"text":"I want to learn about decision trees","label":"search_web"}
+{"text":"Find some resources explaining random forests","label":"search_web"}
+{"text":"Can you look up support vector machines?","label":"search_web"}
+{"text":"I need examples of machine learning preprocessing","label":"search_web"}
+{"text":"Find documentation about model evaluation metrics","label":"search_web"}
+{"text":"Can you find information about cross validation?","label":"search_web"}
+{"text":"Look online for machine learning feature engineering","label":"search_web"}
+{"text":"Can you find information about transformers?","label":"search_web"}
+{"text":"Look online for BERT architecture explanations","label":"search_web"}
+{"text":"Could you find a tutorial about attention mechanisms?","label":"search_web"}
+{"text":"I want to understand tokenization","label":"search_web"}
+{"text":"Find some resources about word embeddings","label":"search_web"}
+{"text":"Can you look up TinyBERT?","label":"search_web"}
+{"text":"I need documentation about ONNX Runtime","label":"search_web"}
+{"text":"Find examples of ONNX inference","label":"search_web"}
+{"text":"Can you find information about INT8 quantization?","label":"search_web"}
+{"text":"Look online for CPU machine learning inference","label":"search_web"}
+{"text":"Can you find information about Unity NavMesh?","label":"search_web"}
+{"text":"Look online for Unity animation examples","label":"search_web"}
+{"text":"Could you find a Unity physics tutorial?","label":"search_web"}
+{"text":"I want to learn Unity C# scripting","label":"search_web"}
+{"text":"Find some resources about Unity shaders","label":"search_web"}
+{"text":"Can you look up Unity multiplayer networking?","label":"search_web"}
+{"text":"I need examples of Unity UI systems","label":"search_web"}
+{"text":"Find documentation about Unity input systems","label":"search_web"}
+{"text":"Can you find Unity optimization techniques?","label":"search_web"}
+{"text":"Look online for Unity AI tutorials","label":"search_web"}
+{"text":"Can you find information about Blender rigging?","label":"search_web"}
+{"text":"Look online for Blender animation tutorials","label":"search_web"}
+{"text":"Could you find a Blender character modeling guide?","label":"search_web"}
+{"text":"I want to learn Blender Python scripting","label":"search_web"}
+{"text":"Find some resources about Blender geometry nodes","label":"search_web"}
+{"text":"Can you look up Blender materials tutorials?","label":"search_web"}
+{"text":"I need examples of Blender procedural modeling","label":"search_web"}
+{"text":"Find documentation about Blender rendering","label":"search_web"}
+{"text":"Can you find Blender UV mapping tutorials?","label":"search_web"}
+{"text":"Look online for Blender optimization tips","label":"search_web"}
+{"text":"Can you find information about ROS2?","label":"search_web"}
+{"text":"Look online for ROS2 navigation tutorials","label":"search_web"}
+{"text":"Could you find examples of ROS2 publishers and subscribers?","label":"search_web"}
+{"text":"I want to learn ROS2 with Python","label":"search_web"}
+{"text":"Find some resources about ROS2 with C++","label":"search_web"}
+{"text":"Can you look up ROS2 package development?","label":"search_web"}
+{"text":"I need examples of ROS2 services","label":"search_web"}
+{"text":"Find documentation about ROS2 actions","label":"search_web"}
+{"text":"Can you find ROS2 launch file examples?","label":"search_web"}
+{"text":"Look online for ROS2 troubleshooting guides","label":"search_web"}
+{"text":"Can you find information about SQL joins?","label":"search_web"}
+{"text":"Look online for MySQL tutorials","label":"search_web"}
+{"text":"Could you find examples of PostgreSQL queries?","label":"search_web"}
+{"text":"I want to learn MongoDB aggregation","label":"search_web"}
+{"text":"Find some resources about database indexing","label":"search_web"}
+{"text":"Can you look up SQL transactions?","label":"search_web"}
+{"text":"I need examples of Redis commands","label":"search_web"}
+{"text":"Find documentation about database normalization","label":"search_web"}
+{"text":"Can you find database optimization guides?","label":"search_web"}
+{"text":"Look online for MongoDB schema design","label":"search_web"}
+{"text":"Can you find information about REST APIs?","label":"search_web"}
+{"text":"Look online for HTTP status code documentation","label":"search_web"}
+{"text":"Could you find a JWT authentication tutorial?","label":"search_web"}
+{"text":"I want to understand OAuth","label":"search_web"}
+{"text":"Find some resources about API rate limiting","label":"search_web"}
+{"text":"Can you look up REST API pagination?","label":"search_web"}
+{"text":"I need examples of API versioning","label":"search_web"}
+{"text":"Find documentation about HTTP caching","label":"search_web"}
+{"text":"Can you find API security guides?","label":"search_web"}
+{"text":"Look online for REST API design best practices","label":"search_web"}
+{"text":"Can you find information about cybersecurity?","label":"search_web"}
+{"text":"Look online for ethical hacking tutorials","label":"search_web"}
+{"text":"Could you find resources about penetration testing?","label":"search_web"}
+{"text":"I want to learn about network security","label":"search_web"}
+{"text":"Find some resources about web application security","label":"search_web"}
+{"text":"Can you look up OWASP documentation?","label":"search_web"}
+{"text":"I need examples of cybersecurity labs","label":"search_web"}
+{"text":"Find documentation about Linux security","label":"search_web"}
+{"text":"Can you find resources for learning ethical hacking?","label":"search_web"}
+{"text":"Look online for cybersecurity certifications","label":"search_web"}
+{"text":"Can you find information about the latest AI models?","label":"search_web"}
+{"text":"Look online for new language models","label":"search_web"}
+{"text":"Could you find recent AI model releases?","label":"search_web"}
+{"text":"I want to know about new open source AI models","label":"search_web"}
+{"text":"Find some recent machine learning announcements","label":"search_web"}
+{"text":"Can you look up newly released AI papers?","label":"search_web"}
+{"text":"I need information about recent computer vision models","label":"search_web"}
+{"text":"Find the latest speech recognition models","label":"search_web"}
+{"text":"Can you find recent local AI projects?","label":"search_web"}
+{"text":"Look online for new small language models","label":"search_web"}
+{"text":"Can you find information about today's technology news?","label":"search_web"}
+{"text":"Look online for today's AI news","label":"search_web"}
+{"text":"Could you find today's Linux news?","label":"search_web"}
+{"text":"I want to know what happened in technology today","label":"search_web"}
+{"text":"Find the latest programming news","label":"search_web"}
+{"text":"Can you look up today's gaming news?","label":"search_web"}
+{"text":"I need the latest cybersecurity news","label":"search_web"}
+{"text":"Find today's software development news","label":"search_web"}
+{"text":"Can you find the latest hardware announcements?","label":"search_web"}
+{"text":"Look online for today's developer news","label":"search_web"}
+{"text":"Can you find reviews of this laptop?","label":"search_web"}
+{"text":"Look online for opinions about this phone","label":"search_web"}
+{"text":"Could you find benchmark results for this processor?","label":"search_web"}
+{"text":"I want to know how this GPU performs","label":"search_web"}
+{"text":"Find user experiences with this laptop","label":"search_web"}
+{"text":"Can you look up reviews of this graphics card?","label":"search_web"}
+{"text":"I need performance benchmarks for this CPU","label":"search_web"}
+{"text":"Find comparisons between these two laptops","label":"search_web"}
+{"text":"Can you find long-term reviews of this phone?","label":"search_web"}
+{"text":"Look online for gaming benchmarks for this laptop","label":"search_web"}
+{"text":"Can you find the current price of this laptop?","label":"search_web"}
+{"text":"Look online to see how much this phone costs","label":"search_web"}
+{"text":"Could you find today's price for this SSD?","label":"search_web"}
+{"text":"I want to know the current price of this GPU","label":"search_web"}
+{"text":"Find current prices for these headphones","label":"search_web"}
+{"text":"Can you look up the price of this monitor?","label":"search_web"}
+{"text":"I need today's price for this processor","label":"search_web"}
+{"text":"Find current prices for mechanical keyboards","label":"search_web"}
+{"text":"Can you find the latest price of this laptop?","label":"search_web"}
+{"text":"Look online and check how much this RAM costs","label":"search_web"}
+{"text":"Find restaurants near me","label":"search_web"}
+{"text":"Look up restaurants in my area","label":"search_web"}
+{"text":"Search online for good restaurants nearby","label":"search_web"}
+{"text":"Find places to eat near me","label":"search_web"}
+{"text":"Look for cafes nearby","label":"search_web"}
+{"text":"Search for pizza restaurants near me","label":"search_web"}
+{"text":"Find some good biryani restaurants nearby","label":"search_web"}
+{"text":"Look up vegetarian restaurants in the area","label":"search_web"}
+{"text":"Search online for restaurants open now","label":"search_web"}
+{"text":"Find highly rated restaurants nearby","label":"search_web"}
+{"text":"Find hotels near me","label":"search_web"}
+{"text":"Look up hotels in this city","label":"search_web"}
+{"text":"Search online for cheap hotels nearby","label":"search_web"}
+{"text":"Find hotels near the airport","label":"search_web"}
+{"text":"Look for places to stay in Hyderabad","label":"search_web"}
+{"text":"Search for hotels with free WiFi","label":"search_web"}
+{"text":"Find budget hotels near the railway station","label":"search_web"}
+{"text":"Look up hotels with swimming pools","label":"search_web"}
+{"text":"Search online for hotels in Bangalore","label":"search_web"}
+{"text":"Find accommodation near the beach","label":"search_web"}
+{"text":"Find the nearest pharmacy","label":"search_web"}
+{"text":"Look up pharmacies near me","label":"search_web"}
+{"text":"Search online for hospitals nearby","label":"search_web"}
+{"text":"Find a hospital near my location","label":"search_web"}
+{"text":"Look for a dentist nearby","label":"search_web"}
+{"text":"Search for clinics near me","label":"search_web"}
+{"text":"Find an eye hospital nearby","label":"search_web"}
+{"text":"Look up emergency hospitals in the area","label":"search_web"}
+{"text":"Search online for medical stores nearby","label":"search_web"}
+{"text":"Find a diagnostic center near me","label":"search_web"}
+{"text":"Find a grocery store near me","label":"search_web"}
+{"text":"Look up supermarkets nearby","label":"search_web"}
+{"text":"Search online for shopping malls near me","label":"search_web"}
+{"text":"Find clothing stores nearby","label":"search_web"}
+{"text":"Look for electronics shops in the area","label":"search_web"}
+{"text":"Search for computer stores near me","label":"search_web"}
+{"text":"Find mobile phone shops nearby","label":"search_web"}
+{"text":"Look up bookstores near me","label":"search_web"}
+{"text":"Search online for hardware stores nearby","label":"search_web"}
+{"text":"Find a nearby supermarket that is open now","label":"search_web"}
+{"text":"Search for the weather forecast in Hyderabad","label":"search_web"}
+{"text":"Look up tomorrow's weather","label":"search_web"}
+{"text":"Find the weather forecast for this weekend","label":"search_web"}
+{"text":"Search online for rain predictions","label":"search_web"}
+{"text":"Look up the temperature in Delhi","label":"search_web"}
+{"text":"Find the weather in Bangalore today","label":"search_web"}
+{"text":"Search for weather conditions in Mumbai","label":"search_web"}
+{"text":"Look online for a seven day weather forecast","label":"search_web"}
+{"text":"Find out if it will rain tomorrow","label":"search_web"}
+{"text":"Search for the weather forecast for next week","label":"search_web"}
+{"text":"Find directions to the airport","label":"search_web"}
+{"text":"Look up the route to the railway station","label":"search_web"}
+{"text":"Search online for directions to Hyderabad airport","label":"search_web"}
+{"text":"Find the fastest route to the city center","label":"search_web"}
+{"text":"Look for directions to this address","label":"search_web"}
+{"text":"Search for the route between Hyderabad and Bangalore","label":"search_web"}
+{"text":"Find nearby bus stations","label":"search_web"}
+{"text":"Look up railway stations near me","label":"search_web"}
+{"text":"Search online for the nearest petrol station","label":"search_web"}
+{"text":"Find parking near this location","label":"search_web"}
+{"text":"Search for the latest movie releases","label":"search_web"}
+{"text":"Look up new movies coming this month","label":"search_web"}
+{"text":"Find reviews for this movie","label":"search_web"}
+{"text":"Search online for the cast of this movie","label":"search_web"}
+{"text":"Look up the release date of this movie","label":"search_web"}
+{"text":"Find where I can watch this movie","label":"search_web"}
+{"text":"Search for the latest anime releases","label":"search_web"}
+{"text":"Look up information about this anime","label":"search_web"}
+{"text":"Find the episode list for this anime","label":"search_web"}
+{"text":"Search online for anime recommendations","label":"search_web"}
+{"text":"Find information about this song","label":"search_web"}
+{"text":"Look up the lyrics of this song","label":"search_web"}
+{"text":"Search online for this artist","label":"search_web"}
+{"text":"Find albums by this singer","label":"search_web"}
+{"text":"Look up the release date of this album","label":"search_web"}
+{"text":"Search for popular songs from this artist","label":"search_web"}
+{"text":"Find information about this band","label":"search_web"}
+{"text":"Look online for music recommendations","label":"search_web"}
+{"text":"Search for the latest music releases","label":"search_web"}
+{"text":"Find songs similar to this one","label":"search_web"}
+{"text":"Search for the meaning of this word","label":"search_web"}
+{"text":"Look up the definition of this term","label":"search_web"}
+{"text":"Find synonyms for this word","label":"search_web"}
+{"text":"Search online for the antonym of this word","label":"search_web"}
+{"text":"Look up the pronunciation of this word","label":"search_web"}
+{"text":"Find examples using this word","label":"search_web"}
+{"text":"Search for the meaning of this phrase","label":"search_web"}
+{"text":"Look online for the origin of this word","label":"search_web"}
+{"text":"Find the translation of this phrase","label":"search_web"}
+{"text":"Search for English vocabulary examples","label":"search_web"}
+{"text":"Search for today's gold price","label":"search_web"}
+{"text":"Look up the current silver price","label":"search_web"}
+{"text":"Find the current USD to INR exchange rate","label":"search_web"}
+{"text":"Search online for today's cryptocurrency prices","label":"search_web"}
+{"text":"Look up the current Bitcoin price","label":"search_web"}
+{"text":"Find the latest stock market news","label":"search_web"}
+{"text":"Search for the current price of gold per gram","label":"search_web"}
+{"text":"Look up today's currency exchange rates","label":"search_web"}
+{"text":"Find the latest financial news","label":"search_web"}
+{"text":"Search online for commodity prices","label":"search_web"}
+{"text":"Find information about this company","label":"search_web"}
+{"text":"Look up the official website of this company","label":"search_web"}
+{"text":"Search online for this company's careers page","label":"search_web"}
+{"text":"Find job openings at this company","label":"search_web"}
+{"text":"Look up internships at this company","label":"search_web"}
+{"text":"Search for remote jobs for Python developers","label":"search_web"}
+{"text":"Find software engineering internships","label":"search_web"}
+{"text":"Look online for entry level developer jobs","label":"search_web"}
+{"text":"Search for machine learning internships","label":"search_web"}
+{"text":"Find remote programming jobs","label":"search_web"}
+{"text":"Search for scholarships for students","label":"search_web"}
+{"text":"Look up engineering scholarships","label":"search_web"}
+{"text":"Find information about diploma scholarships","label":"search_web"}
+{"text":"Search online for student internships","label":"search_web"}
+{"text":"Look up free programming courses","label":"search_web"}
+{"text":"Find free certificates for Python","label":"search_web"}
+{"text":"Search for online computer science courses","label":"search_web"}
+{"text":"Look online for free machine learning courses","label":"search_web"}
+{"text":"Find resources for learning English","label":"search_web"}
+{"text":"Search for free typing practice websites","label":"search_web"}
+{"text":"Find information about this product","label":"search_web"}
+{"text":"Look up reviews for these headphones","label":"search_web"}
+{"text":"Search online for this keyboard","label":"search_web"}
+{"text":"Find specifications for this laptop","label":"search_web"}
+{"text":"Look up the features of this phone","label":"search_web"}
+{"text":"Search for comparisons between these monitors","label":"search_web"}
+{"text":"Find alternatives to this product","label":"search_web"}
+{"text":"Look online for similar products","label":"search_web"}
+{"text":"Search for the best SSDs for gaming","label":"search_web"}
+{"text":"Find budget mechanical keyboards","label":"search_web"}
+{"text":"Search for a recipe for chicken biryani","label":"search_web"}
+{"text":"Look up how to make pancakes","label":"search_web"}
+{"text":"Find an easy pasta recipe","label":"search_web"}
+{"text":"Search online for vegetarian recipes","label":"search_web"}
+{"text":"Look up recipes using eggs","label":"search_web"}
+{"text":"Find high protein meal recipes","label":"search_web"}
+{"text":"Search for quick breakfast recipes","label":"search_web"}
+{"text":"Look online for cheap student meals","label":"search_web"}
+{"text":"Find recipes that don't need an oven","label":"search_web"}
+{"text":"Search for easy hostel food recipes","label":"search_web"}
+{"text":"Find information about today's cricket matches","label":"search_web"}
+{"text":"Look up the latest football results","label":"search_web"}
+{"text":"Search online for today's sports news","label":"search_web"}
+{"text":"Find the latest cricket news","label":"search_web"}
+{"text":"Look up the football match schedule","label":"search_web"}
+{"text":"Search for the latest Formula One news","label":"search_web"}
+{"text":"Find information about this cricket player","label":"search_web"}
+{"text":"Look online for the latest IPL updates","label":"search_web"}
+{"text":"Search for today's sports scores","label":"search_web"}
+{"text":"Find the upcoming match schedule","label":"search_web"}
+{"text":"Search for the latest space news","label":"search_web"}
+{"text":"Look up recent NASA announcements","label":"search_web"}
+{"text":"Find information about recent rocket launches","label":"search_web"}
+{"text":"Search online for astronomy news","label":"search_web"}
+{"text":"Look up information about this planet","label":"search_web"}
+{"text":"Find recent discoveries in astronomy","label":"search_web"}
+{"text":"Search for the latest SpaceX news","label":"search_web"}
+{"text":"Look online for satellite launch news","label":"search_web"}
+{"text":"Find information about upcoming eclipses","label":"search_web"}
+{"text":"Search for recent space missions","label":"search_web"}
+{"text":"Can you find information about this topic online?","label":"search_web"}
+{"text":"Look this up on the internet","label":"search_web"}
+{"text":"Find more information about this","label":"search_web"}
+{"text":"Search the web for this","label":"search_web"}
+{"text":"Can you look this up for me?","label":"search_web"}
+{"text":"Find something about this online","label":"search_web"}
+{"text":"Look online and tell me about this","label":"search_web"}
+{"text":"Search the internet for more details","label":"search_web"}
+{"text":"Can you find more details about this?","label":"search_web"}
+{"text":"Look this information up online","label":"search_web"}

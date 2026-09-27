@@ -1,0 +1,56 @@
+{"text": "Mute the computer", "label": "system_control"}
+{"text": "Restart my computer", "label": "system_control"}
+{"text": "Good morning Mira", "label": "conversation"}
+{"text": "Increase the volume", "label": "system_control"}
+{"text": "Find a tutorial for C++", "label": "search_web"}
+{"text": "Open Firefox", "label": "open_application"}
+{"text": "Read the text on the screen", "label": "read_screen"}
+{"text": "Show my files", "label": "file_operation"}
+{"text": "Let's talk", "label": "conversation"}
+{"text": "Open my Documents folder", "label": "file_operation"}
+{"text": "Open Spotify", "label": "open_application"}
+{"text": "Type this message", "label": "type_text"}
+{"text": "Read my screen", "label": "read_screen"}
+{"text": "Turn off the computer", "label": "system_control"}
+{"text": "Write this into the terminal", "label": "type_text"}
+{"text": "Launch Blender", "label": "open_application"}
+{"text": "I want to chat with you", "label": "conversation"}
+{"text": "Run the terminal", "label": "open_application"}
+{"text": "Enter the password", "label": "type_text"}
+{"text": "Create a new file", "label": "file_operation"}
+{"text": "Write Python code into the editor", "label": "type_text"}
+{"text": "Can you see what is displayed?", "label": "read_screen"}
+{"text": "Look up the weather", "label": "search_web"}
+{"text": "Shut down the system", "label": "system_control"}
+{"text": "Rename the file", "label": "file_operation"}
+{"text": "Find this file on my computer", "label": "file_operation"}
+{"text": "Start Steam", "label": "open_application"}
+{"text": "Search the web for Linux commands", "label": "search_web"}
+{"text": "What is on my screen?", "label": "read_screen"}
+{"text": "Tell me what this window says", "label": "read_screen"}
+{"text": "Open my browser", "label": "open_application"}
+{"text": "Search for Python tutorials", "label": "search_web"}
+{"text": "Paste this text", "label": "type_text"}
+{"text": "Move the folder", "label": "file_operation"}
+{"text": "Look at my screen", "label": "read_screen"}
+{"text": "Type my name", "label": "type_text"}
+{"text": "Type hello world", "label": "type_text"}
+{"text": "Delete this file", "label": "file_operation"}
+{"text": "Search YouTube for Python tutorials", "label": "search_web"}
+{"text": "Analyze what's on my monitor", "label": "read_screen"}
+{"text": "Start VS Code", "label": "open_application"}
+{"text": "Tell me what I am looking at", "label": "read_screen"}
+{"text": "Enter this text", "label": "type_text"}
+{"text": "Lock the screen", "label": "system_control"}
+{"text": "Tell me something interesting", "label": "conversation"}
+{"text": "Hello Mira", "label": "conversation"}
+{"text": "How are you?", "label": "conversation"}
+{"text": "Find information about machine learning", "label": "search_web"}
+{"text": "Search for Linux gaming fixes", "label": "search_web"}
+{"text": "Bring up Firefox", "label": "open_application"}
+{"text": "Create a folder called projects", "label": "file_operation"}
+{"text": "Google how to install Docker", "label": "search_web"}
+{"text": "Restart Linux", "label": "system_control"}
+{"text": "I am feeling bored", "label": "conversation"}
+{"text": "Turn down the brightness", "label": "system_control"}
+{"text": "Tell me a joke", "label": "conversation"}
