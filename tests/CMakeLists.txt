@@ -40,5 +40,8 @@ mira_add_test(cmdmgr_baseline
 # Phase 3: Application configuration schema and resolver.
 mira_add_test(app_config test_app_config.cpp)
 mira_add_test(app_resolver test_app_resolver.cpp)
+# Phase 4: Application manager.
+mira_add_test(appmgr test_appmgr.cpp)
+
 
 

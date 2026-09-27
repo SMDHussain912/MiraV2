@@ -60,6 +60,7 @@ add_library(mira_core STATIC
     tokenizer/tokenizer.cpp
     resolver/application_config.cpp
     resolver/app_resolver.cpp
+    appmgr/appmgr.cpp
 )
 
 target_link_libraries(mira_core PUBLIC
