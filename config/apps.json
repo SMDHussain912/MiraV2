@@ -1,0 +1,76 @@
+{
+    "version": 1,
+    "applications": [
+        {
+            "name": "Firefox",
+            "aliases": ["firefox", "mozilla firefox", "browser", "web browser"],
+            "launch": {
+                "method": "command",
+                "command": "firefox",
+                "working_directory": null
+            }
+        },
+        {
+            "name": "Visual Studio Code",
+            "aliases": ["vscode", "code", "editor"],
+            "launch": {
+                "method": "command",
+                "command": "code",
+                "working_directory": null
+            }
+        },
+        {
+            "name": "Blender",
+            "aliases": ["blender", "3d modeling"],
+            "launch": {
+                "method": "command",
+                "command": "blender",
+                "working_directory": null
+            }
+        },
+        {
+            "name": "Steam",
+            "aliases": ["steam", "steam client"],
+            "launch": {
+                "method": "command",
+                "command": "steam",
+                "working_directory": null
+            }
+        },
+        {
+            "name": "7-Zip File Manager",
+            "aliases": ["7-zip", "7zip", "file archiver"],
+            "launch": {
+                "method": "executable",
+                "path": "/usr/bin/7z",
+                "working_directory": null
+            }
+        },
+        {
+            "name": "GIMP",
+            "aliases": ["gimp", "gnu image manipulation program"],
+            "launch": {
+                "method": "desktop",
+                "desktop_file": "gimp.desktop"
+            }
+        },
+        {
+            "name": "System Backup Script",
+            "aliases": ["backup script", "run backup"],
+            "launch": {
+                "method": "script",
+                "path": "/usr/local/bin/backup.sh",
+                "working_directory": "/tmp"
+            }
+        },
+        {
+            "name": "Portable Tool AppImage",
+            "aliases": ["portable tool", "tool appimage"],
+            "launch": {
+                "method": "appimage",
+                "path": "/opt/appimages/tool.AppImage",
+                "working_directory": null
+            }
+        }
+    ]
+}

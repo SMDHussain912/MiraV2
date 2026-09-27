@@ -37,3 +37,8 @@ mira_add_test(cmdmgr_baseline
     ${CMAKE_SOURCE_DIR}/cmdmgr/cmdmgr.cpp
 )
 
+# Phase 3: Application configuration schema and resolver.
+mira_add_test(app_config test_app_config.cpp)
+mira_add_test(app_resolver test_app_resolver.cpp)
+
+

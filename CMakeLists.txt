@@ -32,8 +32,18 @@ pkg_check_modules(PIPEWIRE REQUIRED libpipewire-0.3)
 # for the pinned revision and the available configuration knobs.
 include(cmake/whisper.cmake)
 
+# nlohmann_json is used for configuration loading (ROADMAP.md Phase 3).
+find_package(nlohmann_json QUIET)
+if(NOT TARGET nlohmann_json::nlohmann_json)
+    add_library(mira_nlohmann_json INTERFACE)
+    target_include_directories(mira_nlohmann_json INTERFACE
+        ${CMAKE_SOURCE_DIR}/third_party
+    )
+    add_library(nlohmann_json::nlohmann_json ALIAS mira_nlohmann_json)
+endif()
+
 # ---------------------------------------------------------------- mira_core
-# MiraV2's own C++ library: the core interfaces and the intent-aware tokenizer.
+# MiraV2's own C++ library: the core interfaces, tokenizer, and application resolver.
 # Kept separate from the executable so components can be unit tested without the
 # audio, input or speech code, and so the executable and the tests link exactly
 # the same code.
@@ -48,6 +58,12 @@ add_library(mira_core STATIC
     core/text_utils.cpp
     core/paths.cpp
     tokenizer/tokenizer.cpp
+    resolver/application_config.cpp
+    resolver/app_resolver.cpp
+)
+
+target_link_libraries(mira_core PUBLIC
+    nlohmann_json::nlohmann_json
 )
 
 target_include_directories(mira_core PUBLIC
