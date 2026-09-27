@@ -1,0 +1,70 @@
+# ============================================================
+# MiraV2 .gitignore
+#
+# Rule: source code, scripts and configuration are tracked.
+# Model weights, build output and caches are NOT.
+#
+# Model weights are provisioned separately (see models/ and
+# ROADMAP.md Phase 0 "Whisper library policy" / Phase 7).
+# ============================================================
+
+# ------------------------------------------------------------
+# Model weights and large model artifacts  (never commit these)
+# ------------------------------------------------------------
+*.bin
+*.onnx
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+*.tflite
+*.msgpack
+
+# ------------------------------------------------------------
+# Model download caches / locks (transformers, huggingface_hub)
+# ------------------------------------------------------------
+.cache/
+**/.cache/
+*.lock
+
+# ------------------------------------------------------------
+# Build output
+# ------------------------------------------------------------
+/build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.o
+*.obj
+*.lo
+*.a
+*.mod
+miraV2
+miraV2.stripped
+
+# Hand-compiled test binaries (see tokenizer/test_tokenizer.cpp)
+/tokenizer/test_tokenizer
+
+# ------------------------------------------------------------
+# Python
+# ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ------------------------------------------------------------
+# Editor / OS junk
+# ------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
