@@ -42,6 +42,7 @@ include(cmake/whisper.cmake)
 # compiled into the executable and its characterisation test only, and is removed
 # in ROADMAP Phase 8.
 add_library(mira_core STATIC
+    core/action.cpp
     core/intent.cpp
     core/result.cpp
     core/text_utils.cpp

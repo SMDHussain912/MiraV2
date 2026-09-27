@@ -8,13 +8,13 @@ namespace mira
 namespace
 {
 
-// Leading command verbs that carry no information for the OpenApplication
-// intent and are removed before the application reference is returned.
+// Leading command verbs for the OpenApplication intent that carry no information
+// about the target itself and are stripped before handoff to resolution.
 const char* const kApplicationCommandVerbs[] = {
-    "open ",
-    "launch ",
-    "start ",
-    "run "
+    "open",
+    "launch",
+    "start",
+    "run"
 };
 
 } // namespace
@@ -26,12 +26,15 @@ TokenResult Tokenizer::process(const std::string& text, Intent intent)
         return extract_application(text);
     }
 
-    // Extraction for this intent is not implemented yet (ROADMAP Phase 8).
-    // Returning an invalid result is deliberate: callers must not act on a value
-    // the tokenizer did not actually extract.
+    // Extraction for the other intents is defined in tokenizer/README.md and
+    // implemented in ROADMAP Phase 8.
+    //
+    // Returning an invalid result with UnsupportedIntent is deliberate: downstream
+    // stages (resolver, executor) must never act on an unextracted request.
     TokenResult result;
     result.type = TokenType::UNKNOWN;
     result.value.clear();
+    result.status = TokenStatus::UnsupportedIntent;
     result.valid = false;
 
     return result;
@@ -40,23 +43,52 @@ TokenResult Tokenizer::process(const std::string& text, Intent intent)
 TokenResult Tokenizer::extract_application(const std::string& text)
 {
     TokenResult result;
-
     result.type = TokenType::TARGET;
-    result.value = trim(text);
+    result.value.clear();
     result.valid = false;
+
+    const std::string trimmed = trim(text);
+    if (trimmed.empty())
+    {
+        result.status = TokenStatus::EmptyInput;
+        return result;
+    }
+
+    std::string candidate = trimmed;
 
     for (const char* verb : kApplicationCommandVerbs)
     {
-        if (strip_prefix_case_insensitive(result.value, verb))
+        // 1. Bare verb without target: e.g. "open", "Launch"
+        if (equals_case_insensitive(candidate, verb))
         {
+            result.status = TokenStatus::MissingTarget;
+            return result;
+        }
+
+        // 2. Verb followed by space: e.g. "open ", "launch  "
+        const std::string verb_prefix = std::string(verb) + " ";
+        if (strip_prefix_case_insensitive(candidate, verb_prefix))
+        {
+            // Clean up any remaining leading whitespace between verb and target
+            // while preserving interior spacing, target casing, and punctuation.
+            candidate = trim(candidate);
             break;
         }
     }
 
-    result.valid = !result.value.empty();
+    if (candidate.empty())
+    {
+        result.status = TokenStatus::MissingTarget;
+        return result;
+    }
+
+    result.value = candidate;
+    result.status = TokenStatus::Success;
+    result.valid = true;
 
     return result;
 }
 
 } // namespace mira
+
 

@@ -22,19 +22,36 @@ enum class TokenType
     UNKNOWN
 };
 
+std::string to_string(TokenType type);
+
+// Canonical status states for token extraction failure and success.
+//
+// Kept small, typed, and consistent across all intent extractors to eliminate
+// arbitrary error strings in the extraction stage.
+enum class TokenStatus
+{
+    Success,
+    EmptyInput,
+    MissingTarget,
+    UnsupportedIntent
+};
+
+std::string to_string(TokenStatus status);
+
 struct TokenResult
 {
     TokenType type = TokenType::UNKNOWN;
     std::string value;
+    TokenStatus status = TokenStatus::EmptyInput;
     bool valid = false;
 };
 
 // A single unit of work: the decided intent, what was extracted for it, and the
 // original transcript (for logging and for clarification prompts).
 //
-// This is the type that crosses from the decision/extraction stages into
-// execution. Defined here rather than in the tokenizer so that the executor does
-// not have to depend on a particular extraction implementation.
+// This is the handoff type crossing from classification/extraction into
+// resolution. Defined here rather than in the tokenizer so that resolvers
+// and executors do not have to depend on a specific tokenizer implementation.
 struct ActionRequest
 {
     Intent intent = Intent::Unknown;
@@ -43,3 +60,4 @@ struct ActionRequest
 };
 
 } // namespace mira
+
