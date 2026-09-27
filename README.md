@@ -325,7 +325,7 @@ MiraV2 performs real operations on the user's machine, so security constraints a
 | **C++ (C++17)** | Implementation language; the standard is set in `CMakeLists.txt`. |
 | **CMake** (≥ 3.16) + pkg-config | Build system; `libpipewire-0.3` is currently a required dependency at configure time. |
 | **PipeWire** | Microphone capture (`audio/`). |
-| **whisper.cpp** | Speech recognition; prebuilt shared libraries and headers are vendored under `speech/whisper_lib/`. The GGML `base.en` model is provisioned locally and is not tracked in the repository. |
+| **whisper.cpp** | Speech recognition. Fetched and built from source at a pinned revision as part of the MiraV2 build, and linked statically into the executable (no runtime library to install). The GGML `base.en` model is provisioned locally and is not tracked in the repository. |
 | **Linux evdev** (`linux/input.h`) | Reading the activation hotkey from an input device. |
 | **Python 3** | Modelling, training and evaluation tooling under `models/`. |
 | **PyTorch + Transformers** | TAMEV model definition, fine-tuning and evaluation scripts. |
@@ -356,7 +356,13 @@ ctest --test-dir build        # run the test suite
 
 The build type defaults to `RelWithDebInfo` when none is specified, and the test suite is built by default (`-DMIRA_BUILD_TESTS=OFF` disables it).
 
-Requirements: a C++17 compiler, CMake ≥ 3.16, `pkg-config`, and the `libpipewire-0.3` development headers. The whisper.cpp libraries are vendored in the repository and linked from `speech/whisper_lib/`.
+Requirements: a C++17 compiler, CMake ≥ 3.16, `pkg-config`, and the `libpipewire-0.3` development headers.
+
+whisper.cpp is not shipped as a binary: it is fetched and built from source at a pinned revision as part of the MiraV2 build, so the first configure needs network access to its git repository. The resulting library is linked statically into `miraV2`, so there is no shared library to install or resolve at runtime. To build without network access, point the build at an existing checkout instead of cloning:
+
+```bash
+cmake -S . -B build -DFETCHCONTENT_SOURCE_DIR_WHISPER=/path/to/whisper.cpp
+```
 
 **Model weights are not stored in the repository** (see below), so a fresh clone cannot run the speech pipeline until they are provisioned locally:
 
@@ -374,8 +380,10 @@ No license file is currently included in this repository.
 ```
 miraV2/
 ├── CMakeLists.txt          Build configuration for the single `miraV2` target
+├── cmake/                  Dependency configuration (whisper.cmake: pinned whisper.cpp source build)
 ├── ROADMAP.md              Full architecture and phased development plan
 ├── .gitignore
+├── tests/                  Test suite, built and run through ctest
 ├── main.cpp                Current entry point: hotkey -> capture -> Whisper -> legacy splitter -> stdout
 │
 ├── appmgr/                 PLACEHOLDER — empty files; planned application launching
@@ -387,7 +395,7 @@ miraV2/
 ├── speech/                 Whisper integration
 │   ├── whisper.hpp
 │   ├── whisper.cpp
-│   └── whisper_lib/        Vendored whisper.cpp headers and prebuilt shared libraries
+│   └── whisper_lib/        Snapshot of the whisper.cpp public headers used by the wrapper
 ├── input/                  Activation-hotkey listener (Linux evdev)
 │   ├── hotkey.hpp
 │   └── hotkey.cpp
@@ -427,7 +435,7 @@ Every item below is based on the state of the source tree, not on the roadmap's 
 | Item | Notes |
 |---|---|
 | Microphone capture (`audio/`) | PipeWire capture at 16 kHz mono float, suitable as Whisper input. Capture is a fixed-length window and the lifecycle has known limitations that are tracked for hardening. |
-| Speech recognition (`speech/`) | Thin C++ wrapper over the vendored `whisper.cpp` library: loads a GGML model and returns the concatenated transcript. Language, thread count and model path are currently fixed in code. |
+| Speech recognition (`speech/`) | Thin C++ wrapper over `whisper.cpp`: loads a GGML model and returns the concatenated transcript. Language, thread count and model path are currently fixed in code. |
 | Activation hotkey (`input/`) | Reads key events from a Linux input device and waits for the activation chord. The device path is hardcoded, which makes this development-machine specific. |
 | Command splitter (`cmdmgr/`) | Normalises text and splits it into "first word" and "remainder". This is a placeholder for intent routing and is scheduled for retirement. |
 | Intent-aware tokenizer (`tokenizer/`) | Extraction for `open_application`: recognises `open`, `launch`, `start`, `run` (case-insensitive) and returns the remaining application reference, with trimming and validity checking. Not yet part of the CMake build or the runtime pipeline. |
