@@ -12,6 +12,8 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <type_traits>
+#include <utility>
 
 namespace mira_test
 {
@@ -57,12 +59,40 @@ inline std::string to_text(bool value)
     return value ? "true" : "false";
 }
 
+// Detects whether a value can be written to an ostream, so that enums and other
+// non-streamable types can still be used with MIRA_CHECK_EQ.
+template <typename T, typename = void>
+struct is_streamable : std::false_type
+{
+};
+
+template <typename T>
+struct is_streamable<
+    T,
+    std::void_t<
+        decltype(std::declval<std::ostream&>() << std::declval<const T&>())
+    >>
+    : std::true_type
+{
+};
+
 template <typename T>
 inline std::string to_text(const T& value)
 {
-    std::ostringstream out;
-    out << value;
-    return out.str();
+    if constexpr (std::is_enum<T>::value)
+    {
+        return std::to_string(static_cast<long long>(value));
+    }
+    else if constexpr (is_streamable<T>::value)
+    {
+        std::ostringstream out;
+        out << value;
+        return out.str();
+    }
+    else
+    {
+        return "<unprintable>";
+    }
 }
 
 inline int finish(const std::string& suite)

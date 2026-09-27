@@ -1,23 +1,38 @@
-#include "tokenizer.hpp"
+#include "tokenizer/tokenizer.hpp"
 
-#include <algorithm>
-#include <cctype>
+#include "core/text_utils.hpp"
 
-TokenResult Tokenizer::process(
-    const std::string& text,
-    const std::string& intent
-)
+namespace mira
 {
-    TokenResult result;
 
-    result.type = TokenType::UNKNOWN;
-    result.value = "";
-    result.valid = false;
+namespace
+{
 
-    if (intent == "OPEN_APPLICATION")
+// Leading command verbs that carry no information for the OpenApplication
+// intent and are removed before the application reference is returned.
+const char* const kApplicationCommandVerbs[] = {
+    "open ",
+    "launch ",
+    "start ",
+    "run "
+};
+
+} // namespace
+
+TokenResult Tokenizer::process(const std::string& text, Intent intent)
+{
+    if (intent == Intent::OpenApplication)
     {
         return extract_application(text);
     }
+
+    // Extraction for this intent is not implemented yet (ROADMAP Phase 8).
+    // Returning an invalid result is deliberate: callers must not act on a value
+    // the tokenizer did not actually extract.
+    TokenResult result;
+    result.type = TokenType::UNKNOWN;
+    result.value.clear();
+    result.valid = false;
 
     return result;
 }
@@ -27,69 +42,21 @@ TokenResult Tokenizer::extract_application(const std::string& text)
     TokenResult result;
 
     result.type = TokenType::TARGET;
-    result.value = "";
+    result.value = trim(text);
     result.valid = false;
 
-    std::string value = text;
-
-    // Remove leading and trailing spaces
-    value.erase(
-        value.begin(),
-        std::find_if(
-            value.begin(),
-            value.end(),
-            [](unsigned char ch)
-            {
-                return !std::isspace(ch);
-            }
-        )
-    );
-
-    value.erase(
-        std::find_if(
-            value.rbegin(),
-            value.rend(),
-            [](unsigned char ch)
-            {
-                return !std::isspace(ch);
-            }
-        ).base(),
-        value.end()
-    );
-
-    // Remove the command word
-    const std::string commands[] = {
-        "open ",
-        "launch ",
-        "start ",
-        "run "
-    };
-
-    for (const std::string& command : commands)
+    for (const char* verb : kApplicationCommandVerbs)
     {
-        if (value.size() >= command.size() &&
-            std::equal(
-                command.begin(),
-                command.end(),
-                value.begin(),
-                [](char a, char b)
-                {
-                    return std::tolower(
-                        static_cast<unsigned char>(a)
-                    ) ==
-                    std::tolower(
-                        static_cast<unsigned char>(b)
-                    );
-                }
-            ))
+        if (strip_prefix_case_insensitive(result.value, verb))
         {
-            value.erase(0, command.size());
             break;
         }
     }
 
-    result.value = value;
-    result.valid = !value.empty();
+    result.valid = !result.value.empty();
 
     return result;
 }
+
+} // namespace mira
+
