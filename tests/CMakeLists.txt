@@ -45,6 +45,11 @@ mira_add_test(appmgr test_appmgr.cpp)
 # Phase 5: Action dispatcher and executor.
 mira_add_test(action_dispatcher test_action_dispatcher.cpp)
 
+# Phase 6: TAMEV intent classification (WordPiece tokenizer + ONNX classifier).
+mira_add_test(tamev_tokenizer test_tamev_tokenizer.cpp)
+mira_add_test(tamev_classifier test_tamev_classifier.cpp)
+mira_add_test(tamev_parity test_tamev_parity.cpp)
+
 
 
 

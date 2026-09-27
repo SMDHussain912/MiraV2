@@ -42,6 +42,23 @@ if(NOT TARGET nlohmann_json::nlohmann_json)
     add_library(nlohmann_json::nlohmann_json ALIAS mira_nlohmann_json)
 endif()
 
+# ONNX Runtime for TAMEV intent classification (ROADMAP.md Phase 6).
+# Optional so the app still builds and tests without a model or the library.
+find_package(onnxruntime QUIET)
+if(onnxruntime_FOUND)
+    set(MIRA_HAVE_ONNXRUNTIME TRUE)
+    message(STATUS "Found onnxruntime; TAMEV inference enabled")
+else()
+    pkg_check_modules(ONNXRUNTIME QUIET libonnxruntime)
+    if(ONNXRUNTIME_FOUND)
+        set(MIRA_HAVE_ONNXRUNTIME TRUE)
+        message(STATUS "Found libonnxruntime via pkg-config; TAMEV inference enabled")
+    else()
+        set(MIRA_HAVE_ONNXRUNTIME FALSE)
+        message(STATUS "onnxruntime not found; TAMEV inference disabled (classifier returns Unavailable)")
+    endif()
+endif()
+
 # ---------------------------------------------------------------- mira_core
 # MiraV2's own C++ library: the core interfaces, tokenizer, and application resolver.
 # Kept separate from the executable so components can be unit tested without the
@@ -63,11 +80,25 @@ add_library(mira_core STATIC
     appmgr/appmgr.cpp
     executor/action_dispatcher.cpp
     executor/actions/open_application_action.cpp
+    tamev/bert_wordpiece_tokenizer.cpp
+    tamev/option_catalog.cpp
+    tamev/tamev_classifier.cpp
 )
 
 target_link_libraries(mira_core PUBLIC
     nlohmann_json::nlohmann_json
 )
+
+if(MIRA_HAVE_ONNXRUNTIME)
+    target_compile_definitions(mira_core PUBLIC MIRA_HAVE_ONNXRUNTIME=1)
+    if(onnxruntime_FOUND)
+        target_link_libraries(mira_core PUBLIC onnxruntime::onnxruntime)
+    else()
+        target_include_directories(mira_core PUBLIC ${ONNXRUNTIME_INCLUDE_DIRS})
+        target_link_libraries(mira_core PUBLIC ${ONNXRUNTIME_LIBRARIES})
+        target_link_directories(mira_core PUBLIC ${ONNXRUNTIME_LIBRARY_DIRS})
+    endif()
+endif()
 
 target_include_directories(mira_core PUBLIC
     ${CMAKE_SOURCE_DIR}
