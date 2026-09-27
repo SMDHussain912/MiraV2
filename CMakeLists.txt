@@ -61,6 +61,8 @@ add_library(mira_core STATIC
     resolver/application_config.cpp
     resolver/app_resolver.cpp
     appmgr/appmgr.cpp
+    executor/action_dispatcher.cpp
+    executor/actions/open_application_action.cpp
 )
 
 target_link_libraries(mira_core PUBLIC

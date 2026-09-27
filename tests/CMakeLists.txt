@@ -42,6 +42,9 @@ mira_add_test(app_config test_app_config.cpp)
 mira_add_test(app_resolver test_app_resolver.cpp)
 # Phase 4: Application manager.
 mira_add_test(appmgr test_appmgr.cpp)
+# Phase 5: Action dispatcher and executor.
+mira_add_test(action_dispatcher test_action_dispatcher.cpp)
+
 
 
 
