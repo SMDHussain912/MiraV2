@@ -351,7 +351,10 @@ MiraV2 performs real operations on the user's machine, so security constraints a
 ```bash
 cmake -S . -B build
 cmake --build build
+ctest --test-dir build        # run the test suite
 ```
+
+The build type defaults to `RelWithDebInfo` when none is specified, and the test suite is built by default (`-DMIRA_BUILD_TESTS=OFF` disables it).
 
 Requirements: a C++17 compiler, CMake ≥ 3.16, `pkg-config`, and the `libpipewire-0.3` development headers. The whisper.cpp libraries are vendored in the repository and linked from `speech/whisper_lib/`.
 
