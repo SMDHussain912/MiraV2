@@ -1,8 +1,8 @@
 // Unit tests for the shared text helpers (core/text_utils.*).
 //
-// These helpers replaced two private copies of the same logic (one in cmdmgr,
-// one in the tokenizer), so their behaviour is pinned here as well as through
-// tests/test_cmdmgr_baseline.cpp.
+// These helpers replaced two private copies of the same logic (one in the
+// legacy CommandManager, one in the tokenizer), so their behaviour is pinned
+// here.
 
 #include "core/text_utils.hpp"
 #include "test_util.hpp"

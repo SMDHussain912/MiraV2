@@ -65,9 +65,8 @@ endif()
 # audio, input or speech code, and so the executable and the tests link exactly
 # the same code.
 #
-# The legacy cmdmgr/ splitter is deliberately not part of this library: it is
-# compiled into the executable and its characterisation test only, and is removed
-# in ROADMAP Phase 8.
+# The legacy cmdmgr/ splitter was kept out of this library and removed in
+# ROADMAP Phase 8, when the pipeline took over intent routing.
 add_library(mira_core STATIC
     core/action.cpp
     core/intent.cpp
@@ -80,6 +79,7 @@ add_library(mira_core STATIC
     appmgr/appmgr.cpp
     executor/action_dispatcher.cpp
     executor/actions/open_application_action.cpp
+    pipeline/pipeline.cpp
     tamev/bert_wordpiece_tokenizer.cpp
     tamev/option_catalog.cpp
     tamev/tamev_classifier.cpp
@@ -118,7 +118,6 @@ add_executable(miraV2
 	speech/whisper.cpp
 	audio/microphone.cpp
 	input/hotkey.cpp
-	cmdmgr/cmdmgr.cpp
 )
 
 target_include_directories(miraV2 PRIVATE

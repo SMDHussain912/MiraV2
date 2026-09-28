@@ -102,8 +102,7 @@ The status column reflects the actual state of the repository, not the design in
 | **Speech recognition (Whisper)** | Convert captured audio into text using `whisper.cpp`. | Implemented (`speech/`) |
 | **Audio capture** | Capture microphone audio as 16 kHz mono float for Whisper, via PipeWire. | Implemented (`audio/`); lifecycle and device-selection limitations are tracked in the roadmap |
 | **Activation hotkey** | Wait for the user's activation chord before recording. | Implemented (`input/`); currently bound to one hardcoded input device on the development machine |
-| **Command splitter (legacy)** | Temporary first-word/text-remainder splitter used by the current runtime. | Implemented (`cmdmgr/`); scheduled for retirement once the intent pipeline is connected |
-| **Tokenizer** | Intent-aware extraction of the target/query/text/path for a known intent. | Partial (`tokenizer/`); implemented for `open_application` only, not yet wired into the build or runtime |
+| **Tokenizer** | Intent-aware extraction of the target/query/text/path for a known intent. | Partial (`tokenizer/`); implemented for `open_application` only; wired into the runtime through `pipeline/` (Phase 8) |
 | **TAMEV** | Decision/routing layer that selects the user's intent. | Partial: model definition, configuration and Python training/evaluation tooling are present in `models/` (weights are not tracked); C++ inference integration is planned |
 | **Resolver** | Turn an extracted reference into a concrete configured resource and produce a launch specification. | Planned |
 | **Application manager** | Launch applications from a resolved specification using the configured launch method. | Placeholder (`appmgr/appmgr.{hpp,cpp}` are empty); planned |
@@ -399,9 +398,9 @@ miraV2/
 ├── input/                  Activation-hotkey listener (Linux evdev)
 │   ├── hotkey.hpp
 │   └── hotkey.cpp
-├── cmdmgr/                 Legacy command splitter (scheduled for retirement)
-│   ├── cmdmgr.hpp
-│   └── cmdmgr.cpp
+├── pipeline/               Full runtime pipeline (Phase 8)
+│   ├── pipeline.hpp
+│   └── pipeline.cpp
 ├── tokenizer/              Intent-aware extraction
 │   ├── tokenizer.hpp
 │   ├── tokenizer.cpp
@@ -416,9 +415,9 @@ miraV2/
 └── build/                  Local build output (not tracked)
 ```
 
-Only the following are compiled into the `miraV2` target today: `main.cpp`, `speech/whisper.cpp`, `audio/microphone.cpp`, `input/hotkey.cpp`, `cmdmgr/cmdmgr.cpp`. The tokenizer is not part of the build yet, and `appmgr/` and `screen_reader/` contain no implementation.
+Only the following are compiled into the `miraV2` target itself today: `main.cpp`, `speech/whisper.cpp`, `audio/microphone.cpp`, `input/hotkey.cpp` — everything else (`pipeline/`, `tokenizer/`, `tamev/`, `resolver/`, `executor/`, `appmgr/`, `core/`) comes from the shared `mira_core` library. `screen_reader/` contains no implementation.
 
-Directories described in the roadmap but **not present in the repository**: `core/`, `tamev/`, `resolver/`, `executor/`, `vision/`, `verification/`, `tts/`, `config/` and `tests/`.
+Directories described in the roadmap but **not present in the repository**: `vision/`, `verification/` and `tts/`.
 
 ### Model weights
 
@@ -437,8 +436,7 @@ Every item below is based on the state of the source tree, not on the roadmap's 
 | Microphone capture (`audio/`) | PipeWire capture at 16 kHz mono float, suitable as Whisper input. Capture is a fixed-length window and the lifecycle has known limitations that are tracked for hardening. |
 | Speech recognition (`speech/`) | Thin C++ wrapper over `whisper.cpp`: loads a GGML model and returns the concatenated transcript. Language, thread count and model path are currently fixed in code. |
 | Activation hotkey (`input/`) | Reads key events from a Linux input device and waits for the activation chord. The device path is hardcoded, which makes this development-machine specific. |
-| Command splitter (`cmdmgr/`) | Normalises text and splits it into "first word" and "remainder". This is a placeholder for intent routing and is scheduled for retirement. |
-| Intent-aware tokenizer (`tokenizer/`) | Extraction for `open_application`: recognises `open`, `launch`, `start`, `run` (case-insensitive) and returns the remaining application reference, with trimming and validity checking. Not yet part of the CMake build or the runtime pipeline. |
+| Intent-aware tokenizer (`tokenizer/`) | Extraction for `open_application`: recognises `open`, `launch`, `start`, `run` (case-insensitive) and returns the remaining application reference, with trimming and validity checking. Wired into the runtime through `pipeline/` (Phase 8). |
 | Intent model assets and tooling (`models/`) | TAMEV base model definition and configuration, a locally fine-tuned model, an int8 ONNX export, plus Python scripts for inference/evaluation and training-data handling. Model weights are not tracked in the repository. |
 
 **What actually runs today:** MiraV2 is a single executable that waits for the activation hotkey, records a short fixed-length clip, transcribes it with Whisper, splits the transcript with the legacy splitter, prints the result to stdout, and exits. **No action is performed** — no application is launched, nothing is typed, nothing is captured from the screen.

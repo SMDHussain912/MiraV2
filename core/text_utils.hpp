@@ -9,9 +9,9 @@ namespace mira
 // Shared text handling for MiraV2.
 //
 // These helpers exist so that normalisation lives in exactly one place. The
-// legacy CommandManager and the tokenizer previously carried their own copies;
-// both now delegate here. Behaviour is pinned by tests/test_cmdmgr_baseline.cpp
-// and tests/test_text_utils.cpp.
+// legacy CommandManager (removed in Phase 8) and the tokenizer previously
+// carried their own copies; the tokenizer and pipeline now delegate here.
+// Behaviour is pinned by tests/test_text_utils.cpp.
 
 // Lowercases ASCII characters and replaces punctuation with spaces.
 std::string normalize_for_matching(const std::string& text);

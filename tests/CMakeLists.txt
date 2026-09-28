@@ -29,14 +29,6 @@ mira_add_test(paths test_paths.cpp)
 # the pre-Phase-1 implementation.
 mira_add_test(tokenizer test_tokenizer.cpp)
 
-# Characterisation test for the legacy first-word splitter (cmdmgr/). It pins
-# today's behaviour so the Phase 1 refactor and the Phase 8 removal cannot change
-# it silently. cmdmgr.cpp is compiled here on purpose: it is not in mira_core.
-mira_add_test(cmdmgr_baseline
-    test_cmdmgr_baseline.cpp
-    ${CMAKE_SOURCE_DIR}/cmdmgr/cmdmgr.cpp
-)
-
 # Phase 3: Application configuration schema and resolver.
 mira_add_test(app_config test_app_config.cpp)
 mira_add_test(app_resolver test_app_resolver.cpp)
@@ -44,6 +36,10 @@ mira_add_test(app_resolver test_app_resolver.cpp)
 mira_add_test(appmgr test_appmgr.cpp)
 # Phase 5: Action dispatcher and executor.
 mira_add_test(action_dispatcher test_action_dispatcher.cpp)
+
+# Phase 8: full pipeline — text-driven end-to-end
+# (TAMEV -> Tokenizer -> Dispatcher -> action) with confidence gating.
+mira_add_test(pipeline test_pipeline.cpp)
 
 # Phase 6: TAMEV intent classification (WordPiece tokenizer + ONNX classifier).
 mira_add_test(tamev_tokenizer test_tamev_tokenizer.cpp)
