@@ -1,0 +1,6 @@
+L0+QK+head           excl=35 maxdP=0.1280 maxdLogit=1.200 agree=1.000 size=31.3MB
+L0+QKV+head          excl=43 maxdP=0.1002 maxdLogit=1.095 agree=1.000 size=31.0MB
+L0+attnD+QK+head     excl=43 maxdP=0.1266 maxdLogit=1.300 agree=0.979 size=31.0MB
+L0+QKV+attnD+head    excl=51 maxdP=0.1864 maxdLogit=1.416 agree=1.000 size=30.7MB
+onlyFFN L1-3 quant   excl=51 maxdP=0.1864 maxdLogit=1.416 agree=1.000 size=30.7MB
+L0+QK+head QI8pcF    excl=35 maxdP=0.1258 maxdLogit=1.236 agree=0.979 size=31.3MB

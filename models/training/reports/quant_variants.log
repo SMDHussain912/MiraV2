@@ -1,0 +1,6 @@
+nohup: ignoring input
+QUInt8 pc=True           maxdiff=0.9053 agree=0.958
+QUInt8 pc=False          maxdiff=0.9766 agree=0.875
+QInt8 pc=True MatMul     maxdiff=0.9979 agree=0.312
+QInt8 pc=False MatMul    maxdiff=0.9318 agree=0.917
+QUInt8 pc=True MatMul    maxdiff=0.8926 agree=0.917

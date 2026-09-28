@@ -1,0 +1,282 @@
+{
+ "model": "mira-tamev",
+ "data": "test.jsonl",
+ "question": "Which action should Mira perform?",
+ "options": [
+  "open_application",
+  "search_web",
+  "read_screen",
+  "type_text",
+  "file_operation",
+  "system_control",
+  "conversation"
+ ],
+ "ctx_len": 128,
+ "opt_len": 64,
+ "metrics": {
+  "examples": 56,
+  "accuracy": 0.6429,
+  "macro_f1": 0.6114,
+  "balanced_accuracy": 0.6343,
+  "labels": [
+   "open_application",
+   "search_web",
+   "read_screen",
+   "type_text",
+   "file_operation",
+   "system_control",
+   "conversation"
+  ],
+  "confusion_matrix": [
+   [
+    3,
+    2,
+    0,
+    0,
+    1,
+    3,
+    0
+   ],
+   [
+    0,
+    9,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    3,
+    4,
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    2,
+    0,
+    4,
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    8,
+    0,
+    0
+   ],
+   [
+    3,
+    0,
+    0,
+    0,
+    2,
+    2,
+    0
+   ],
+   [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    7
+   ]
+  ],
+  "per_intent": {
+   "open_application": {
+    "precision": 0.5,
+    "recall": 0.3333,
+    "f1": 0.4,
+    "support": 9,
+    "predicted": 6
+   },
+   "search_web": {
+    "precision": 0.6923,
+    "recall": 1.0,
+    "f1": 0.8182,
+    "support": 9,
+    "predicted": 13
+   },
+   "read_screen": {
+    "precision": 0.75,
+    "recall": 0.375,
+    "f1": 0.5,
+    "support": 8,
+    "predicted": 4
+   },
+   "type_text": {
+    "precision": 0.5,
+    "recall": 0.5714,
+    "f1": 0.5333,
+    "support": 7,
+    "predicted": 8
+   },
+   "file_operation": {
+    "precision": 0.6154,
+    "recall": 1.0,
+    "f1": 0.7619,
+    "support": 8,
+    "predicted": 13
+   },
+   "system_control": {
+    "precision": 0.4,
+    "recall": 0.2857,
+    "f1": 0.3333,
+    "support": 7,
+    "predicted": 5
+   },
+   "conversation": {
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1": 0.9333,
+    "support": 8,
+    "predicted": 7
+   }
+  }
+ },
+ "error_count": 20,
+ "error_pairs": {
+  "open_application -> file_operation": 1,
+  "open_application -> system_control": 3,
+  "open_application -> search_web": 2,
+  "read_screen -> type_text": 4,
+  "read_screen -> file_operation": 1,
+  "type_text -> search_web": 2,
+  "type_text -> file_operation": 1,
+  "system_control -> open_application": 3,
+  "system_control -> file_operation": 2,
+  "conversation -> read_screen": 1
+ },
+ "errors": [
+  {
+   "text": "Open Files",
+   "gold": "open_application",
+   "predicted": "file_operation",
+   "confidence": 0.6578
+  },
+  {
+   "text": "Get Writer running",
+   "gold": "open_application",
+   "predicted": "system_control",
+   "confidence": 0.3728
+  },
+  {
+   "text": "Launch my Unreal project",
+   "gold": "open_application",
+   "predicted": "system_control",
+   "confidence": 0.4382
+  },
+  {
+   "text": "Open my game library",
+   "gold": "open_application",
+   "predicted": "search_web",
+   "confidence": 0.4141
+  },
+  {
+   "text": "Can you open the screenshot app?",
+   "gold": "open_application",
+   "predicted": "search_web",
+   "confidence": 0.4317
+  },
+  {
+   "text": "Open the screenshot tool",
+   "gold": "open_application",
+   "predicted": "system_control",
+   "confidence": 0.3738
+  },
+  {
+   "text": "What button should I click according to this dialog?",
+   "gold": "read_screen",
+   "predicted": "type_text",
+   "confidence": 0.4746
+  },
+  {
+   "text": "Am I looking at a PDF right now?",
+   "gold": "read_screen",
+   "predicted": "type_text",
+   "confidence": 0.4331
+  },
+  {
+   "text": "What is the last email subject visible on screen?",
+   "gold": "read_screen",
+   "predicted": "file_operation",
+   "confidence": 0.5994
+  },
+  {
+   "text": "What is the title of the window I have open?",
+   "gold": "read_screen",
+   "predicted": "type_text",
+   "confidence": 0.8677
+  },
+  {
+   "text": "Read the dialog box that just appeared",
+   "gold": "read_screen",
+   "predicted": "type_text",
+   "confidence": 0.4371
+  },
+  {
+   "text": "Type into the terminal: ls minus l minus h",
+   "gold": "type_text",
+   "predicted": "search_web",
+   "confidence": 0.5563
+  },
+  {
+   "text": "Enter the password",
+   "gold": "type_text",
+   "predicted": "file_operation",
+   "confidence": 0.5745
+  },
+  {
+   "text": "Type the phone number without spaces",
+   "gold": "type_text",
+   "predicted": "search_web",
+   "confidence": 0.6414
+  },
+  {
+   "text": "Turn on the fans full speed",
+   "gold": "system_control",
+   "predicted": "open_application",
+   "confidence": 0.3606
+  },
+  {
+   "text": "Turn on the secondary display only",
+   "gold": "system_control",
+   "predicted": "open_application",
+   "confidence": 0.4668
+  },
+  {
+   "text": "Set the screen timeout to ten minutes",
+   "gold": "system_control",
+   "predicted": "file_operation",
+   "confidence": 0.3183
+  },
+  {
+   "text": "Max out the speaker volume before the meeting",
+   "gold": "system_control",
+   "predicted": "file_operation",
+   "confidence": 0.3584
+  },
+  {
+   "text": "Open the volume control panel",
+   "gold": "system_control",
+   "predicted": "open_application",
+   "confidence": 0.3826
+  },
+  {
+   "text": "Do you remember what we talked about yesterday?",
+   "gold": "conversation",
+   "predicted": "read_screen",
+   "confidence": 0.7118
+  }
+ ]
+}

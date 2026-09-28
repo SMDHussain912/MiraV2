@@ -35,6 +35,13 @@ EPOCHS = 10
 LEARNING_RATE = 2e-5
 MAX_CONTEXT_LENGTH = 128
 MAX_OPTION_LENGTH = 64
+SEED = 42
+
+# Reproducibility (Phase 7): same seed -> same shuffle order -> same run.
+import random
+
+random.seed(SEED)
+torch.manual_seed(SEED)
 
 
 # ============================================================
@@ -123,7 +130,7 @@ def prepare_batch(batch):
 
     ctx = tokenizer(
         contexts,
-        padding=True,
+        padding="max_length",
         truncation=True,
         max_length=MAX_CONTEXT_LENGTH,
         return_tensors="pt",
@@ -145,7 +152,7 @@ def prepare_batch(batch):
 
     option_tokens = tokenizer(
         OPTIONS,
-        padding=True,
+        padding="max_length",
         truncation=True,
         max_length=MAX_OPTION_LENGTH,
         return_tensors="pt",
@@ -298,6 +305,7 @@ for epoch in range(EPOCHS):
     shuffled = train_data.copy()
 
     import random
+    random.seed(SEED + epoch)
     random.shuffle(shuffled)
 
     total_loss = 0.0

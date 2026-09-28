@@ -1,0 +1,73 @@
+{"text": "Read my screen", "label": "read_screen"}
+{"text": "What is on my screen?", "label": "read_screen"}
+{"text": "Look at the screen and tell me what you see", "label": "read_screen"}
+{"text": "Tell me what this window says", "label": "read_screen"}
+{"text": "What does the error on my screen say?", "label": "read_screen"}
+{"text": "Read the text in this window", "label": "read_screen"}
+{"text": "Can you see my screen right now?", "label": "read_screen"}
+{"text": "Describe what is currently displayed", "label": "read_screen"}
+{"text": "What app is open in front of me?", "label": "read_screen"}
+{"text": "Read the paragraph highlighted on screen", "label": "read_screen"}
+{"text": "Check my current screen", "label": "read_screen"}
+{"text": "Tell me what I am looking at", "label": "read_screen"}
+{"text": "What is the title of the window I have open?", "label": "read_screen"}
+{"text": "Read the dialog box that just appeared", "label": "read_screen"}
+{"text": "Analyse what is on my monitor", "label": "read_screen"}
+{"text": "what does the screen say", "label": "read_screen"}
+{"text": "Look at the terminal output on my screen and summarise it", "label": "read_screen"}
+{"text": "Tell me the number shown in that popup", "label": "read_screen"}
+{"text": "Is there a warning showing on my screen?", "label": "read_screen"}
+{"text": "Read the license text visible in this window", "label": "read_screen"}
+{"text": "Extract the text from the window in front of me", "label": "read_screen"}
+{"text": "What button should I click according to this dialog?", "label": "read_screen"}
+{"text": "Read the code snippet that is open on screen", "label": "read_screen"}
+{"text": "Scan my screen and list the visible fields", "label": "read_screen"}
+{"text": "What does the form on my screen ask for?", "label": "read_screen"}
+{"text": "Can you read the tiny text at the bottom of that window?", "label": "read_screen"}
+{"text": "Tell me what changed on my screen", "label": "read_screen"}
+{"text": "Do you see the file picker on my screen?", "label": "read_screen"}
+{"text": "Describe the chart displayed in the browser window", "label": "read_screen"}
+{"text": "Read the last line of the console on my screen", "label": "read_screen"}
+{"text": "What is the error code in the message box?", "label": "read_screen"}
+{"text": "Look at the screen", "label": "read_screen"}
+{"text": "Tell me everything visible on the primary monitor", "label": "read_screen"}
+{"text": "What is written in the highlighted cell in this spreadsheet?", "label": "read_screen"}
+{"text": "Read the screen and tell me if anything needs my attention", "label": "read_screen"}
+{"text": "screen read", "label": "read_screen"}
+{"text": "Identify the app whose window is focused", "label": "read_screen"}
+{"text": "What are the menu options in this window?", "label": "read_screen"}
+{"text": "Read the tooltip text on screen", "label": "read_screen"}
+{"text": "Look at my second monitor and tell me what is there", "label": "read_screen"}
+{"text": "Am I looking at a PDF right now?", "label": "read_screen"}
+{"text": "Check whether the download finished on the visible page", "label": "read_screen"}
+{"text": "Read out what is in the search results on screen", "label": "read_screen"}
+{"text": "Tell me the version number shown in this about dialog", "label": "read_screen"}
+{"text": "What does the confirmation prompt want me to do?", "label": "read_screen"}
+{"text": "Give me the text of the notification that just popped up", "label": "read_screen"}
+{"text": "Can you make out the text in this window?", "label": "read_screen"}
+{"text": "Read the table on the page in front of me", "label": "read_screen"}
+{"text": "Look at the window title and tell me which file is open", "label": "read_screen"}
+{"text": "What is the answer shown in the calculator on my screen?", "label": "read_screen"}
+{"text": "Does this window show a progress bar and how full is it?", "label": "read_screen"}
+{"text": "What is the last email subject visible on screen?", "label": "read_screen"}
+{"text": "Read the log lines visible in the terminal", "label": "read_screen"}
+{"text": "What settings are enabled in this panel?", "label": "read_screen"}
+{"text": "Check what the terminal printed after my last command", "label": "read_screen"}
+{"text": "Look at the visible part of the PDF and tell me the section title", "label": "read_screen"}
+{"text": "Read the label next to the checkbox in this dialog", "label": "read_screen"}
+{"text": "What image is shown on the screen right now?", "label": "read_screen"}
+{"text": "Tell me if the save dialog mentions unsaved changes", "label": "read_screen"}
+{"text": "Can you spot the button to continue on this dialog?", "label": "read_screen"}
+{"text": "Summarise the paragraph that is open on my screen", "label": "read_screen"}
+{"text": "Read the caption under the picture on screen", "label": "read_screen"}
+{"text": "What is the file name shown in the title bar?", "label": "read_screen"}
+{"text": "Tell me the value in the total field on screen", "label": "read_screen"}
+{"text": "Look at the console and tell me whether the tests passed", "label": "read_screen"}
+{"text": "Read the URL in the address bar on my screen", "label": "read_screen"}
+{"text": "Which tab is active in the browser on my screen?", "label": "read_screen"}
+{"text": "Describe the layout of the window I just opened", "label": "read_screen"}
+{"text": "What is the text in the error toast that appeared?", "label": "read_screen"}
+{"text": "Read what the customer wrote in the visible chat window", "label": "read_screen"}
+{"text": "Look at the screen and list every button in this form", "label": "read_screen"}
+{"text": "screen, tell me what is there", "label": "read_screen"}
+

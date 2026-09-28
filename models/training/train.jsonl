@@ -1,56 +1,453 @@
-{"text": "Mute the computer", "label": "system_control"}
-{"text": "Restart my computer", "label": "system_control"}
-{"text": "Good morning Mira", "label": "conversation"}
-{"text": "Increase the volume", "label": "system_control"}
-{"text": "Find a tutorial for C++", "label": "search_web"}
-{"text": "Open Firefox", "label": "open_application"}
-{"text": "Read the text on the screen", "label": "read_screen"}
-{"text": "Show my files", "label": "file_operation"}
-{"text": "Let's talk", "label": "conversation"}
-{"text": "Open my Documents folder", "label": "file_operation"}
-{"text": "Open Spotify", "label": "open_application"}
-{"text": "Type this message", "label": "type_text"}
-{"text": "Read my screen", "label": "read_screen"}
-{"text": "Turn off the computer", "label": "system_control"}
-{"text": "Write this into the terminal", "label": "type_text"}
-{"text": "Launch Blender", "label": "open_application"}
-{"text": "I want to chat with you", "label": "conversation"}
-{"text": "Run the terminal", "label": "open_application"}
-{"text": "Enter the password", "label": "type_text"}
-{"text": "Create a new file", "label": "file_operation"}
-{"text": "Write Python code into the editor", "label": "type_text"}
-{"text": "Can you see what is displayed?", "label": "read_screen"}
-{"text": "Look up the weather", "label": "search_web"}
-{"text": "Shut down the system", "label": "system_control"}
-{"text": "Rename the file", "label": "file_operation"}
-{"text": "Find this file on my computer", "label": "file_operation"}
-{"text": "Start Steam", "label": "open_application"}
-{"text": "Search the web for Linux commands", "label": "search_web"}
-{"text": "What is on my screen?", "label": "read_screen"}
-{"text": "Tell me what this window says", "label": "read_screen"}
-{"text": "Open my browser", "label": "open_application"}
-{"text": "Search for Python tutorials", "label": "search_web"}
-{"text": "Paste this text", "label": "type_text"}
-{"text": "Move the folder", "label": "file_operation"}
-{"text": "Look at my screen", "label": "read_screen"}
-{"text": "Type my name", "label": "type_text"}
-{"text": "Type hello world", "label": "type_text"}
-{"text": "Delete this file", "label": "file_operation"}
-{"text": "Search YouTube for Python tutorials", "label": "search_web"}
-{"text": "Analyze what's on my monitor", "label": "read_screen"}
-{"text": "Start VS Code", "label": "open_application"}
-{"text": "Tell me what I am looking at", "label": "read_screen"}
-{"text": "Enter this text", "label": "type_text"}
-{"text": "Lock the screen", "label": "system_control"}
-{"text": "Tell me something interesting", "label": "conversation"}
-{"text": "Hello Mira", "label": "conversation"}
-{"text": "How are you?", "label": "conversation"}
-{"text": "Find information about machine learning", "label": "search_web"}
-{"text": "Search for Linux gaming fixes", "label": "search_web"}
-{"text": "Bring up Firefox", "label": "open_application"}
-{"text": "Create a folder called projects", "label": "file_operation"}
-{"text": "Google how to install Docker", "label": "search_web"}
-{"text": "Restart Linux", "label": "system_control"}
-{"text": "I am feeling bored", "label": "conversation"}
-{"text": "Turn down the brightness", "label": "system_control"}
-{"text": "Tell me a joke", "label": "conversation"}
+{"text": "Start Evince", "label": "open_application", "group_id": "open_application|start evince", "source_id": "generated/open_application.jsonl"}
+{"text": "Get LibreOffice running", "label": "open_application", "group_id": "open_application|get libreoffice running", "source_id": "generated/open_application.jsonl"}
+{"text": "Get Discord up on the screen", "label": "open_application", "group_id": "open_application|get discord up screen", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Unity", "label": "open_application", "group_id": "open_application|run unity", "source_id": "generated/open_application.jsonl"}
+{"text": "Run the text editor", "label": "open_application", "group_id": "open_application|run text editor", "source_id": "generated/open_application.jsonl"}
+{"text": "Open my disk management application", "label": "open_application", "group_id": "open_application|open disk <E> application", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Telegram", "label": "open_application", "group_id": "open_application|run telegram", "source_id": "generated/open_application.jsonl"}
+{"text": "Get VS Code running", "label": "open_application", "group_id": "open_application|get vs code running", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring Discord up", "label": "open_application", "group_id": "open_application|bring discord up", "source_id": "generated/open_application.jsonl"}
+{"text": "I need the calculator", "label": "open_application", "group_id": "open_application|need calculator", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring Krita up", "label": "open_application", "group_id": "open_application|bring krita up", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Brave", "label": "open_application", "group_id": "open_application|run brave", "source_id": "generated/open_application.jsonl"}
+{"text": "Launch my Unity project", "label": "open_application", "group_id": "open_application|launch unity <E>", "source_id": "generated/open_application.jsonl"}
+{"text": "Run the calendar application", "label": "open_application", "group_id": "open_application|run calendar application", "source_id": "generated/open_application.jsonl"}
+{"text": "I need a browser open", "label": "open_application", "group_id": "open_application|need browser open", "source_id": "generated/open_application.jsonl"}
+{"text": "Can we open Blender?", "label": "open_application", "group_id": "open_application|we open blender", "source_id": "generated/open_application.jsonl"}
+{"text": "Start my game launcher", "label": "open_application", "group_id": "open_application|start game launcher", "source_id": "generated/open_application.jsonl"}
+{"text": "Launch the pdf viewer so I can read the manual", "label": "open_application", "group_id": "open_application|launch <E> <E> <E> <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Bring Evince up", "label": "open_application", "group_id": "open_application|bring evince up", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Flameshot", "label": "open_application", "group_id": "open_application|run flameshot", "source_id": "generated/open_application.jsonl"}
+{"text": "Start Insomnia", "label": "open_application", "group_id": "open_application|start insomnia", "source_id": "generated/open_application.jsonl"}
+{"text": "Launch the screenshot application", "label": "open_application", "group_id": "open_application|launch screenshot application", "source_id": "generated/open_application.jsonl"}
+{"text": "I need FileZilla open", "label": "open_application", "group_id": "open_application|need filezilla open", "source_id": "generated/open_application.jsonl"}
+{"text": "Please launch an app", "label": "open_application", "group_id": "open_application|launch app", "source_id": "generated/open_application.jsonl"}
+{"text": "Start the calendar", "label": "open_application", "group_id": "open_application|start calendar", "source_id": "generated/open_application.jsonl"}
+{"text": "Start my game client", "label": "open_application", "group_id": "open_application|start game client", "source_id": "generated/open_application.jsonl"}
+{"text": "I need a browser window", "label": "open_application", "group_id": "open_application|need browser window", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring Brave up", "label": "open_application", "group_id": "open_application|bring brave up", "source_id": "generated/open_application.jsonl"}
+{"text": "Start Firefox", "label": "open_application", "group_id": "open_application|start firefox", "source_id": "generated/open_application.jsonl"}
+{"text": "Launch my password manager", "label": "open_application", "group_id": "open_application|launch <E> manager", "source_id": "generated/open_application.jsonl"}
+{"text": "Run IntelliJ IDEA", "label": "open_application", "group_id": "open_application|run intellij idea", "source_id": "generated/open_application.jsonl"}
+{"text": "Open the network settings tool", "label": "open_application", "group_id": "open_application|open network settings tool", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Inkscape", "label": "open_application", "group_id": "open_application|run inkscape", "source_id": "generated/open_application.jsonl"}
+{"text": "Start Git", "label": "open_application", "group_id": "open_application|start git", "source_id": "generated/open_application.jsonl"}
+{"text": "Start my game development software", "label": "open_application", "group_id": "open_application|start game development software", "source_id": "generated/open_application.jsonl"}
+{"text": "Mira, bring up my browser", "label": "open_application", "group_id": "open_application|mira bring up browser", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Transmission", "label": "open_application", "group_id": "open_application|run transmission", "source_id": "generated/open_application.jsonl"}
+{"text": "Open my game development environment", "label": "open_application", "group_id": "open_application|open game development environment", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring up the file browser", "label": "open_application", "group_id": "open_application|bring up file browser", "source_id": "generated/open_application.jsonl"}
+{"text": "Start Unreal Engine", "label": "open_application", "group_id": "open_application|start unreal engine", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Chrome", "label": "open_application", "group_id": "open_application|run chrome", "source_id": "generated/open_application.jsonl"}
+{"text": "I need my Java IDE open", "label": "open_application", "group_id": "open_application|need <E> ide open", "source_id": "generated/open_application.jsonl"}
+{"text": "Start the Linux game launcher", "label": "open_application", "group_id": "open_application|start <E> game launcher", "source_id": "generated/open_application.jsonl"}
+{"text": "Open Jupyter Lab", "label": "open_application", "group_id": "open_application|open jupyter <E>", "source_id": "generated/open_application.jsonl"}
+{"text": "Get WhatsApp running", "label": "open_application", "group_id": "open_application|get whatsapp running", "source_id": "generated/open_application.jsonl"}
+{"text": "I need my media player open", "label": "open_application", "group_id": "open_application|need media player open", "source_id": "generated/open_application.jsonl"}
+{"text": "Get VirtualBox running", "label": "open_application", "group_id": "open_application|get virtualbox running", "source_id": "generated/open_application.jsonl"}
+{"text": "I need Unreal Engine open", "label": "open_application", "group_id": "open_application|need unreal engine open", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring Godot up", "label": "open_application", "group_id": "open_application|bring godot up", "source_id": "generated/open_application.jsonl"}
+{"text": "Open Git", "label": "open_application", "group_id": "open_application|open git", "source_id": "generated/open_application.jsonl"}
+{"text": "I need Zoom open", "label": "open_application", "group_id": "open_application|need zoom open", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring up the Steam client", "label": "open_application", "group_id": "open_application|bring up steam client", "source_id": "generated/open_application.jsonl"}
+{"text": "Launch the screen recording software", "label": "open_application", "group_id": "open_application|launch screen <E> software", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring GIMP up", "label": "open_application", "group_id": "open_application|bring gimp up", "source_id": "generated/open_application.jsonl"}
+{"text": "Open the music application", "label": "open_application", "group_id": "open_application|open music application", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring up Bluetooth settings", "label": "open_application", "group_id": "open_application|bring up bluetooth settings", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring MATLAB up", "label": "open_application", "group_id": "open_application|bring matlab up", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring up the Unity game engine", "label": "open_application", "group_id": "open_application|bring up unity game engine", "source_id": "generated/open_application.jsonl"}
+{"text": "Start GitHub Desktop", "label": "open_application", "group_id": "open_application|start <E> desktop", "source_id": "generated/open_application.jsonl"}
+{"text": "Open Telegram Desktop", "label": "open_application", "group_id": "open_application|open telegram desktop", "source_id": "generated/open_application.jsonl"}
+{"text": "I need my video editor open", "label": "open_application", "group_id": "open_application|need video editor open", "source_id": "generated/open_application.jsonl"}
+{"text": "Get the settings app open", "label": "open_application", "group_id": "open_application|get settings app open", "source_id": "generated/open_application.jsonl"}
+{"text": "I need the calculator app", "label": "open_application", "group_id": "open_application|need calculator app", "source_id": "generated/open_application.jsonl"}
+{"text": "Please launch the archive application", "label": "open_application", "group_id": "open_application|launch archive application", "source_id": "generated/open_application.jsonl"}
+{"text": "Mira, start Godot", "label": "open_application", "group_id": "open_application|mira start godot", "source_id": "generated/open_application.jsonl"}
+{"text": "Run Neovim", "label": "open_application", "group_id": "open_application|run neovim", "source_id": "generated/open_application.jsonl"}
+{"text": "Bring Flameshot up", "label": "open_application", "group_id": "open_application|bring flameshot up", "source_id": "generated/open_application.jsonl"}
+{"text": "I need to see system resources", "label": "open_application", "group_id": "open_application|need <E> system <E>", "source_id": "generated/open_application.jsonl"}
+{"text": "Open the app store", "label": "open_application", "group_id": "open_application|open app <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Run VMware", "label": "open_application", "group_id": "open_application|run vmware", "source_id": "generated/open_application.jsonl"}
+{"text": "Start Postman", "label": "open_application", "group_id": "open_application|start postman", "source_id": "generated/open_application.jsonl"}
+{"text": "Start the screen recorder application", "label": "open_application", "group_id": "open_application|start screen <E> application", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "I want to learn MongoDB aggregation", "label": "search_web", "group_id": "search_web|want learn mongodb <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for PlayStation news", "label": "search_web", "group_id": "search_web|search online playstation news", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up OpenCV thresholding examples", "label": "search_web", "group_id": "search_web|look up opencv <E> examples", "source_id": "generated/search_web.jsonl"}
+{"text": "I want to find Node.js tutorials", "label": "search_web", "group_id": "search_web|want find nodejs tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Google how to fix a loud fan on Linux", "label": "search_web", "group_id": "search_web|<E> how <E> <E> <E> linux", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Find a C++ programming guide", "label": "search_web", "group_id": "search_web|find c programming guide", "source_id": "generated/search_web.jsonl"}
+{"text": "Look for Node.js learning resources", "label": "search_web", "group_id": "search_web|look nodejs learning resources", "source_id": "generated/search_web.jsonl"}
+{"text": "Find resources for learning OpenCV", "label": "search_web", "group_id": "search_web|find resources learning opencv", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up recent Blender announcements", "label": "search_web", "group_id": "search_web|look up recent blender announcements", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up the newest Android release", "label": "search_web", "group_id": "search_web|look up <E> android release", "source_id": "generated/search_web.jsonl"}
+{"text": "Find examples of API error responses", "label": "search_web", "group_id": "search_web|find examples api error <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for easy hostel food recipes", "label": "search_web", "group_id": "search_web|search <E> <E> <E> recipes", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find information about C++ move semantics?", "label": "search_web", "group_id": "search_web|find information about c <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for PyTorch ONNX tutorials", "label": "search_web", "group_id": "search_web|search online pytorch onnx tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "I want to find OpenCV tutorials", "label": "search_web", "group_id": "search_web|want find opencv tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for the latest Linux kernel news", "label": "search_web", "group_id": "search_web|search latest linux kernel news", "source_id": "generated/search_web.jsonl"}
+{"text": "Find Linux shell scripting examples", "label": "search_web", "group_id": "search_web|find linux <E> scripting examples", "source_id": "generated/search_web.jsonl"}
+{"text": "Look online for Node.js file system examples", "label": "search_web", "group_id": "search_web|look online nodejs file <E> examples", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find database optimization guides?", "label": "search_web", "group_id": "search_web|find database optimization guides", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up restaurants in my area", "label": "search_web", "group_id": "search_web|look up restaurants <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Find documentation about Python exceptions", "label": "search_web", "group_id": "search_web|find documentation about python <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Find a PyTorch programming guide", "label": "search_web", "group_id": "search_web|find pytorch programming guide", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for the latest AMD news", "label": "search_web", "group_id": "search_web|search latest amd news", "source_id": "generated/search_web.jsonl"}
+{"text": "Search the web for this", "label": "search_web", "group_id": "search_web|search web", "source_id": "generated/search_web.jsonl"}
+{"text": "Find some Node.js REST API examples", "label": "search_web", "group_id": "search_web|find some nodejs rest api examples", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up datasets for object detection", "label": "search_web", "group_id": "search_web|look up datasets <E> detection", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up React performance optimization", "label": "search_web", "group_id": "search_web|look up react performance optimization", "source_id": "generated/search_web.jsonl"}
+{"text": "Find a Python threading tutorial", "label": "search_web", "group_id": "search_web|find python <E> tutorial", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up recent AI developments", "label": "search_web", "group_id": "search_web|look up recent ai developments", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find information about ROS2?", "label": "search_web", "group_id": "search_web|find information about ros2", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up ROS2 publisher subscriber examples", "label": "search_web", "group_id": "search_web|look up ros2 <E> <E> examples", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for Docker volume documentation", "label": "search_web", "group_id": "search_web|search online docker <E> documentation", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for recent Xbox articles", "label": "search_web", "group_id": "search_web|search recent xbox articles", "source_id": "generated/search_web.jsonl"}
+{"text": "Find some resources about Blender geometry nodes", "label": "search_web", "group_id": "search_web|find some resources about blender <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for ONNX Runtime examples", "label": "search_web", "group_id": "search_web|search onnx <E> examples", "source_id": "generated/search_web.jsonl"}
+{"text": "Find OpenCV object tracking tutorials", "label": "search_web", "group_id": "search_web|find opencv <E> <E> tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Look online for entry level developer jobs", "label": "search_web", "group_id": "search_web|look online <E> <E> <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Find some resources about PyTorch transformers", "label": "search_web", "group_id": "search_web|find some resources about pytorch <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up Express routing documentation", "label": "search_web", "group_id": "search_web|look up express <E> documentation", "source_id": "generated/search_web.jsonl"}
+{"text": "Find recent iPhone developments", "label": "search_web", "group_id": "search_web|find recent iphone developments", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for Python tutorials", "label": "search_web", "group_id": "search_web|search online python tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Could you find information about Docker volumes?", "label": "search_web", "group_id": "search_web|find information about docker <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up beginner cybersecurity guides", "label": "search_web", "group_id": "search_web|look up beginner cybersecurity guides", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for new Linux releases", "label": "search_web", "group_id": "search_web|search new linux releases", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up machine learning tutorials", "label": "search_web", "group_id": "search_web|look up machine learning tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for free typing practice websites", "label": "search_web", "group_id": "search_web|search free <E> <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up Linux discussions on Reddit", "label": "search_web", "group_id": "search_web|look up linux <E> reddit", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find a Docker networking guide?", "label": "search_web", "group_id": "search_web|find docker networking guide", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find more details about this?", "label": "search_web", "group_id": "search_web|find <E> <E> about", "source_id": "generated/search_web.jsonl"}
+{"text": "Find Blender character modeling guides", "label": "search_web", "group_id": "search_web|find blender <E> <E> guides", "source_id": "generated/search_web.jsonl"}
+{"text": "I want to learn OpenCV image filtering", "label": "search_web", "group_id": "search_web|want learn opencv image <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for Unreal Engine news", "label": "search_web", "group_id": "search_web|search online unreal engine news", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for Unity tutorials", "label": "search_web", "group_id": "search_web|search unity tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Look up cybersecurity tutorials", "label": "search_web", "group_id": "search_web|look up cybersecurity tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Look online for JavaScript closures", "label": "search_web", "group_id": "search_web|look online javascript <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Look online for REST API design best practices", "label": "search_web", "group_id": "search_web|look online rest api <E> <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for current SSD prices", "label": "search_web", "group_id": "search_web|search current <E> prices", "source_id": "generated/search_web.jsonl"}
+{"text": "Find examples of Git submodules", "label": "search_web", "group_id": "search_web|find examples git <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search for Blender tutorials", "label": "search_web", "group_id": "search_web|search blender tutorials", "source_id": "generated/search_web.jsonl"}
+{"text": "Look online for C++ debugging techniques", "label": "search_web", "group_id": "search_web|look online c <E> techniques", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for Linux permissions explained", "label": "search_web", "group_id": "search_web|search online linux <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for restaurants open now", "label": "search_web", "group_id": "search_web|search online restaurants open <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Search online for laptop reviews", "label": "search_web", "group_id": "search_web|search online laptop reviews", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find information about Blender rigging?", "label": "search_web", "group_id": "search_web|find information about blender <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Look online for an explanation of C++ smart pointers", "label": "search_web", "group_id": "search_web|look online <E> c <E> <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "Find examples of React custom hooks", "label": "search_web", "group_id": "search_web|find examples react <E> hooks", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you look up OWASP documentation?", "label": "search_web", "group_id": "search_web|look up <E> documentation", "source_id": "generated/search_web.jsonl"}
+{"text": "Can you find an OpenCV OCR tutorial?", "label": "search_web", "group_id": "search_web|find opencv <E> tutorial", "source_id": "generated/search_web.jsonl"}
+{"text": "Could you find an OpenCV object detection tutorial?", "label": "search_web", "group_id": "search_web|find opencv <E> detection tutorial", "source_id": "generated/search_web.jsonl"}
+{"text": "Find documentation about ROS2 actions", "label": "search_web", "group_id": "search_web|find documentation about ros2 <E>", "source_id": "generated/search_web.jsonl"}
+{"text": "What's new in Unity?", "label": "search_web", "group_id": "search_web|whats new unity", "source_id": "generated/search_web.jsonl"}
+{"text": "Search Reddit for Blender tips", "label": "search_web", "group_id": "search_web|search reddit blender tips", "source_id": "generated/search_web.jsonl"}
+{"text": "Read the last line of the console on my screen", "label": "read_screen", "group_id": "read_screen|read <E> <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the caption under the picture on screen", "label": "read_screen", "group_id": "read_screen|read <E> <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the URL in the address bar on my screen", "label": "read_screen", "group_id": "read_screen|read <E> <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What does the error on my screen say?", "label": "read_screen", "group_id": "read_screen|what <E> screen <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What does the form on my screen ask for?", "label": "read_screen", "group_id": "read_screen|what <E> screen <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What is the error code in the message box?", "label": "read_screen", "group_id": "read_screen|what <E> <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What is written in the highlighted cell in this spreadsheet?", "label": "read_screen", "group_id": "read_screen|what <E> <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What does the confirmation prompt want me to do?", "label": "read_screen", "group_id": "read_screen|what <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What settings are enabled in this panel?", "label": "read_screen", "group_id": "read_screen|what <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at my screen", "label": "read_screen", "group_id": "read_screen|look screen", "source_id": "dataset.py"}
+{"text": "Look at the screen", "label": "read_screen", "group_id": "read_screen|look screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Can you see what is displayed?", "label": "read_screen", "group_id": "read_screen|<E> what <E>", "source_id": "dataset.py"}
+{"text": "Analyse what is on my monitor", "label": "read_screen", "group_id": "read_screen|<E> what <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the text in this window instead of opening the file", "label": "read_screen", "group_id": "read_screen|read text window <E> <E> file", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "screen read", "label": "read_screen", "group_id": "read_screen|screen read", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Tell me the number shown in that popup", "label": "read_screen", "group_id": "read_screen|tell <E> shown <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What are the menu options in this window?", "label": "read_screen", "group_id": "read_screen|what <E> <E> window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Identify the app whose window is focused", "label": "read_screen", "group_id": "read_screen|<E> <E> <E> window <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the text on the screen", "label": "read_screen", "group_id": "read_screen|read text screen", "source_id": "dataset.py"}
+{"text": "Can you read the tiny text at the bottom of that window?", "label": "read_screen", "group_id": "read_screen|read <E> text <E> window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read out what is in the search results on screen", "label": "read_screen", "group_id": "read_screen|read <E> what <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Tell me the version number shown in this about dialog", "label": "read_screen", "group_id": "read_screen|tell <E> <E> shown <E> dialog", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at the terminal output on my screen and summarise it", "label": "read_screen", "group_id": "read_screen|look <E> <E> screen <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What application is currently open?", "label": "read_screen", "group_id": "read_screen|what <E> <E> open", "source_id": "dataset.py"}
+{"text": "Tell me what changed on my screen", "label": "read_screen", "group_id": "read_screen|tell what <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Describe the chart displayed in the browser window", "label": "read_screen", "group_id": "read_screen|<E> <E> <E> <E> window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the code snippet that is open on screen", "label": "read_screen", "group_id": "read_screen|read <E> <E> open screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What image is shown on the screen right now?", "label": "read_screen", "group_id": "read_screen|what <E> shown screen <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Can you see my screen right now?", "label": "read_screen", "group_id": "read_screen|<E> screen <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Tell me if the save dialog mentions unsaved changes", "label": "read_screen", "group_id": "read_screen|tell <E> <E> dialog <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at the screen and tell me what you see", "label": "read_screen", "group_id": "read_screen|look screen tell what <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Which tab is active in the browser on my screen?", "label": "read_screen", "group_id": "read_screen|<E> <E> <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Check my current screen", "label": "read_screen", "group_id": "read_screen|<E> <E> screen", "source_id": "dataset.py"}
+{"text": "What is the answer shown in the calculator on my screen?", "label": "read_screen", "group_id": "read_screen|what <E> shown <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at the window title and tell me which file is open", "label": "read_screen", "group_id": "read_screen|look window <E> tell <E> file open", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the log lines visible in the terminal", "label": "read_screen", "group_id": "read_screen|read <E> <E> visible <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Extract the text from the window in front of me", "label": "read_screen", "group_id": "read_screen|<E> text <E> window <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read what the customer wrote in the visible chat window", "label": "read_screen", "group_id": "read_screen|read what <E> <E> visible <E> window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What is on my screen?", "label": "read_screen", "group_id": "read_screen|what screen", "source_id": "dataset.py"}
+{"text": "What is the file name shown in the title bar?", "label": "read_screen", "group_id": "read_screen|what file <E> shown <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Describe the layout of the window I just opened", "label": "read_screen", "group_id": "read_screen|<E> <E> window <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What does this window say?", "label": "read_screen", "group_id": "read_screen|what window <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "What app is open in front of me?", "label": "read_screen", "group_id": "read_screen|what <E> open <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at the console and tell me whether the tests passed", "label": "read_screen", "group_id": "read_screen|look <E> tell <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Give me the text of the notification that just popped up", "label": "read_screen", "group_id": "read_screen|<E> text <E> <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Summarise the paragraph that is open on my screen", "label": "read_screen", "group_id": "read_screen|<E> <E> open screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at the visible part of the PDF and tell me the section title", "label": "read_screen", "group_id": "read_screen|look visible <E> <E> tell <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "What is the text in the error toast that appeared?", "label": "read_screen", "group_id": "read_screen|what text <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Analyze what's on my monitor", "label": "read_screen", "group_id": "read_screen|<E> <E> <E>", "source_id": "dataset.py"}
+{"text": "Read the paragraph highlighted on screen", "label": "read_screen", "group_id": "read_screen|read <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the screen and tell me if anything needs my attention", "label": "read_screen", "group_id": "read_screen|read screen tell <E> <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the label next to the checkbox in this dialog", "label": "read_screen", "group_id": "read_screen|read <E> <E> <E> dialog", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the license text visible in this window", "label": "read_screen", "group_id": "read_screen|read <E> text visible window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Tell me what I am looking at", "label": "read_screen", "group_id": "read_screen|tell what <E> <E>", "source_id": "dataset.py"}
+{"text": "Does this window show a progress bar and how full is it?", "label": "read_screen", "group_id": "read_screen|window <E> <E> <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the text in this window", "label": "read_screen", "group_id": "read_screen|read text window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Check whether the download finished on the visible page", "label": "read_screen", "group_id": "read_screen|<E> <E> <E> <E> visible <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Do you see the file picker on my screen?", "label": "read_screen", "group_id": "read_screen|<E> file <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Look at the screen and list every button in this form", "label": "read_screen", "group_id": "read_screen|look screen <E> <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Describe what is currently displayed", "label": "read_screen", "group_id": "read_screen|<E> what <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read the table on the page in front of me", "label": "read_screen", "group_id": "read_screen|read <E> <E> <E>", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Can you make out the text in this window?", "label": "read_screen", "group_id": "read_screen|<E> <E> text window", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Read my screen", "label": "read_screen", "group_id": "read_screen|read screen", "source_id": "dataset.py"}
+{"text": "Tell me the value in the total field on screen", "label": "read_screen", "group_id": "read_screen|tell <E> <E> <E> screen", "source_id": "handwritten/read_screen_v2.jsonl"}
+{"text": "Ignore the file, just read what is on my screen", "label": "read_screen", "group_id": "read_screen|<E> file <E> read what screen", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Type hello world", "label": "type_text", "group_id": "type_text|type <E> <E>", "source_id": "dataset.py"}
+{"text": "Type in the chat: 'on my way'", "label": "type_text", "group_id": "type_text|type <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "type in the search bar", "label": "type_text", "group_id": "type_text|type <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the rest of the sentence for me", "label": "type_text", "group_id": "type_text|type <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the following: 'server.port=8080'", "label": "type_text", "group_id": "type_text|type <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write my date of birth in the date field", "label": "type_text", "group_id": "type_text|write <E> <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write the amount 120,50 in the price field", "label": "type_text", "group_id": "type_text|write <E> <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Enter '42' in the quantity field", "label": "type_text", "group_id": "type_text|enter <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Enter 'yes' in the confirmation field", "label": "type_text", "group_id": "type_text|enter <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the command and leave the cursor at the end", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the answer in the blank and leave it unsubmitted", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the subject line as 'Meeting notes Friday'", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the commit message 'fix parser edge case'", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type 'git status' in the terminal", "label": "type_text", "group_id": "type_text|type <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "type 'mkdir backup' in the terminal", "label": "type_text", "group_id": "type_text|type <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "type this", "label": "type_text", "group_id": "type_text|type", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Enter my user name and stop before the password", "label": "type_text", "group_id": "type_text|enter <E> name <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Fill the description field with the text I dictate", "label": "type_text", "group_id": "type_text|<E> <E> field <E> text <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Enter the password in the field", "label": "type_text", "group_id": "type_text|enter <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Enter my initials in the signature box", "label": "type_text", "group_id": "type_text|enter <E> <E> box", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Fill in the comment box with 'looks good to me'", "label": "type_text", "group_id": "type_text|<E> <E> box <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type my reply into the message field of this chat", "label": "type_text", "group_id": "type_text|type reply into <E> field <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type this message", "label": "type_text", "group_id": "type_text|type <E>", "source_id": "dataset.py"}
+{"text": "Enter my postal code 10115 in the zip field", "label": "type_text", "group_id": "type_text|enter <E> code <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Fill the first name field with Alexander", "label": "type_text", "group_id": "type_text|<E> <E> name field <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the answer into the first field of this form", "label": "type_text", "group_id": "type_text|type <E> into <E> field form", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Enter the restart prompt in the dialog field", "label": "type_text", "group_id": "type_text|enter <E> <E> <E> field", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Type text into the focused field please", "label": "type_text", "group_id": "type_text|type text into <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Put this sentence in the text box", "label": "type_text", "group_id": "type_text|put <E> text box", "source_id": "dataset.py"}
+{"text": "Write hello into the current application", "label": "type_text", "group_id": "type_text|write <E> into <E> <E>", "source_id": "dataset.py"}
+{"text": "Put today's date in the due date field", "label": "type_text", "group_id": "type_text|put <E> <E> <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the room code 4B into the reservation field", "label": "type_text", "group_id": "type_text|type <E> code <E> into <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "type_text into whatever is focused", "label": "type_text", "group_id": "type_text|<E> into <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type my name", "label": "type_text", "group_id": "type_text|type name", "source_id": "dataset.py"}
+{"text": "Can you enter the coupon code in the checkout form?", "label": "type_text", "group_id": "type_text|enter <E> code <E> form", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type my email address in the sign up form", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E> form", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Insert the word 'TODO' at the cursor", "label": "type_text", "group_id": "type_text|<E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Could you write 'thanks for the update' in the reply box?", "label": "type_text", "group_id": "type_text|write <E> <E> reply box", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Put 'urgent' at the start of the subject", "label": "type_text", "group_id": "type_text|put <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the search query 'tinybert onnx export' into the search bar", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E> <E> into <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write this into the terminal", "label": "type_text", "group_id": "type_text|write into <E>", "source_id": "dataset.py"}
+{"text": "Paste the copied url into the address bar", "label": "type_text", "group_id": "type_text|<E> <E> <E> into <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the following into the search field: docker compose", "label": "type_text", "group_id": "type_text|type <E> into <E> field <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the recipe name into the title field of the app", "label": "type_text", "group_id": "type_text|type <E> name into <E> field <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Put 'out of office until Monday' in the auto reply", "label": "type_text", "group_id": "type_text|put <E> <E> <E> <E> <E> reply", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Insert the word 'deprecated' at the cursor position", "label": "type_text", "group_id": "type_text|<E> <E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write 'call mom' in my reminders app", "label": "type_text", "group_id": "type_text|write <E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type all of this into the notes window", "label": "type_text", "group_id": "type_text|type <E> into <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type 'sudo systemctl restart nginx' but do not press enter", "label": "type_text", "group_id": "type_text|type <E> <E> <E> <E> <E> <E> <E> enter", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the number forty two in the quantity box on screen", "label": "type_text", "group_id": "type_text|type number <E> <E> <E> box <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type my name in the login box", "label": "type_text", "group_id": "type_text|type name <E> box", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write the tag 'v2.0' into the release notes field", "label": "type_text", "group_id": "type_text|write <E> <E> into <E> <E> field", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the title 'Q3 review' into the document", "label": "type_text", "group_id": "type_text|type <E> <E> <E> into <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write 'no reply' in the subject line", "label": "type_text", "group_id": "type_text|write <E> reply <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Type the search query into the search bar of the browser", "label": "type_text", "group_id": "type_text|type <E> <E> into <E> <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Write the file name 'report_q3' in the save dialog", "label": "type_text", "group_id": "type_text|write <E> name <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Write the file name into the save dialog", "label": "type_text", "group_id": "type_text|write <E> name into <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Paste this text", "label": "type_text", "group_id": "type_text|<E> text", "source_id": "dataset.py"}
+{"text": "Paste the copied snippet into the editor", "label": "type_text", "group_id": "type_text|<E> <E> <E> into <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Could you put a check mark in the box by typing it?", "label": "type_text", "group_id": "type_text|put <E> <E> box <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Where did my thesis pdf go?", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Rename all the photos to a date format", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "i need the path of the csv i opened earlier", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Empty the trash", "label": "file_operation", "group_id": "file_operation|<E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Duplicate this spreadsheet", "label": "file_operation", "group_id": "file_operation|<E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Rename the photo to holiday_2026.jpg", "label": "file_operation", "group_id": "file_operation|<E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Purge the thumbnails cache", "label": "file_operation", "group_id": "file_operation|<E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Read the file I just created", "label": "file_operation", "group_id": "file_operation|<E> file <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Where is the file called draft_final_v3?", "label": "file_operation", "group_id": "file_operation|<E> file <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "find the csv file i downloaded this morning", "label": "file_operation", "group_id": "file_operation|<E> <E> file <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Make the notes file read only", "label": "file_operation", "group_id": "file_operation|<E> <E> file <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Move the screenshot to the screenshots folder", "label": "file_operation", "group_id": "file_operation|move <E> <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Move the book to the reference folder", "label": "file_operation", "group_id": "file_operation|move <E> <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Create a folder called projects", "label": "file_operation", "group_id": "file_operation|create folder <E> <E>", "source_id": "dataset.py"}
+{"text": "Create a folder for the receipts on the desktop", "label": "file_operation", "group_id": "file_operation|create folder <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Copy the presentation onto the USB drive", "label": "file_operation", "group_id": "file_operation|copy <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Copy the dataset onto the external drive", "label": "file_operation", "group_id": "file_operation|copy <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Compress the photos folder into a zip", "label": "file_operation", "group_id": "file_operation|<E> <E> folder into <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Turn the images folder into a tarball", "label": "file_operation", "group_id": "file_operation|<E> <E> folder into <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Clear out the cache directory", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> directory", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Wipe the contents of the test directory", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> directory", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Move all the tax documents into the 2026 folder", "label": "file_operation", "group_id": "file_operation|move <E> <E> documents into <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Duplicate the invoice template so I can edit the copy", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> <E> copy", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "clean up downloads", "label": "file_operation", "group_id": "file_operation|<E> <E> downloads", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Find this file on my computer", "label": "file_operation", "group_id": "file_operation|<E> file <E>", "source_id": "dataset.py"}
+{"text": "Show me what is inside the downloads folder", "label": "file_operation", "group_id": "file_operation|show <E> <E> downloads folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Sort the downloads folder by date", "label": "file_operation", "group_id": "file_operation|<E> downloads folder <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Count how many pdfs are in my library folder", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Give the folder a name with no spaces", "label": "file_operation", "group_id": "file_operation|<E> folder <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Create a shortcut for the spreadsheet on the desktop", "label": "file_operation", "group_id": "file_operation|create <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Open the archive file and list what is inside", "label": "file_operation", "group_id": "file_operation|open archive file <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Show me how big the videos folder is", "label": "file_operation", "group_id": "file_operation|show <E> <E> <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Rename my workspace folder to miraV2", "label": "file_operation", "group_id": "file_operation|<E> <E> folder <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Make a copy of the config before I edit it", "label": "file_operation", "group_id": "file_operation|<E> copy <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Open the invoice pdf", "label": "file_operation", "group_id": "file_operation|open <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Show my files", "label": "file_operation", "group_id": "file_operation|show files", "source_id": "dataset.py"}
+{"text": "Remove the old log files from the tmp directory", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> files from <E> directory", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Check whether invoice_042.pdf exists in Documents", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> documents", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Open the download folder and show the newest file", "label": "file_operation", "group_id": "file_operation|open <E> folder show <E> file", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Create an empty file named notes.md on the desktop", "label": "file_operation", "group_id": "file_operation|create <E> file <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Search my whole disk for files named thesis", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> files <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Change the extension of this file from txt to md", "label": "file_operation", "group_id": "file_operation|<E> <E> file from <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Open the config file so I can edit it", "label": "file_operation", "group_id": "file_operation|open <E> file <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Put the meeting recording in the meetings folder", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Open the readme file in my project folder", "label": "file_operation", "group_id": "file_operation|open <E> file <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Extract the zip archive into a new folder", "label": "file_operation", "group_id": "file_operation|<E> <E> archive into <E> folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Delete the backup zip I made yesterday", "label": "file_operation", "group_id": "file_operation|delete <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Find the largest file in my home directory", "label": "file_operation", "group_id": "file_operation|<E> <E> file <E> directory", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Unzip the archive in my Downloads folder", "label": "file_operation", "group_id": "file_operation|<E> archive downloads folder", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Create a new file", "label": "file_operation", "group_id": "file_operation|create <E> file", "source_id": "dataset.py"}
+{"text": "Convert notes.txt into notes.md", "label": "file_operation", "group_id": "file_operation|<E> <E> into <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Restore the file I deleted this morning from the trash", "label": "file_operation", "group_id": "file_operation|<E> file <E> <E> from <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Bring the backup archive back from the external disk", "label": "file_operation", "group_id": "file_operation|<E> <E> archive <E> from <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Move the video off the SSD onto the big drive", "label": "file_operation", "group_id": "file_operation|move <E> <E> <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Move the folder", "label": "file_operation", "group_id": "file_operation|move folder", "source_id": "dataset.py"}
+{"text": "Open the archive and tell me what is inside", "label": "file_operation", "group_id": "file_operation|open archive <E> <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Put the invoice pdf where I can find it again", "label": "file_operation", "group_id": "file_operation|<E> <E> <E> <E> <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Move this file to Documents", "label": "file_operation", "group_id": "file_operation|move file documents", "source_id": "dataset.py"}
+{"text": "file ops", "label": "file_operation", "group_id": "file_operation|file <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Make a new directory in Downloads called invoices", "label": "file_operation", "group_id": "file_operation|<E> <E> directory downloads <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Zip the reports folder and keep the original", "label": "file_operation", "group_id": "file_operation|<E> <E> folder <E> <E>", "source_id": "handwritten/file_operation_v2.jsonl"}
+{"text": "Restart my computer", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "dataset.py"}
+{"text": "Mute the computer", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "dataset.py"}
+{"text": "Restart Linux", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "dataset.py"}
+{"text": "Log me out", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Enable bluetooth", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Disable the touchpad", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "enable hotspot", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "reboot the box", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Change my wallpaper", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "system stuff", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Disconnect bluetooth", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Is the firewall running?", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "sleep now", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "power settings", "label": "system_control", "group_id": "system_control|<E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "How much battery is left?", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Suspend after the download finishes", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Switch the audio output to the headphones", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Connect to the wifi called Studio", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Change the system language to Spanish", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Install the pending updates and reboot", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Switch to the second user session", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Reduce the mouse pointer speed", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Enable the webcam indicator light", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Cancel the shutdown I just started", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Put the laptop to sleep", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Wake the machine up", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Switch on dark mode", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Mute notifications for an hour", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Report the uptime of this machine", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Show the network status", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Resume from suspend", "label": "system_control", "group_id": "system_control|<E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set the brightness to fifty percent", "label": "system_control", "group_id": "system_control|set <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set the keyboard layout to German", "label": "system_control", "group_id": "system_control|set <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set the time zone to Berlin", "label": "system_control", "group_id": "system_control|set <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set a login password for this account", "label": "system_control", "group_id": "system_control|set <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set my default browser to Firefox", "label": "system_control", "group_id": "system_control|set <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn up the brightness", "label": "system_control", "group_id": "system_control|turn <E> <E>", "source_id": "dataset.py"}
+{"text": "Turn on do not disturb", "label": "system_control", "group_id": "system_control|turn <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn on the hotspot for an hour", "label": "system_control", "group_id": "system_control|turn <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn on airplane mode", "label": "system_control", "group_id": "system_control|turn <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Check how much disk space is free", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Check how much memory is being used", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Enable the screensaver after five idle minutes", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "What is the CPU temperature right now?", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "make the laptop forget the wifi network", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "How long until the battery is full?", "label": "system_control", "group_id": "system_control|<E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn off night light", "label": "system_control", "group_id": "system_control|turn off <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn off the notification sounds", "label": "system_control", "group_id": "system_control|turn off <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn off the keyboard backlight", "label": "system_control", "group_id": "system_control|turn off <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn off the computer", "label": "system_control", "group_id": "system_control|turn off <E>", "source_id": "dataset.py"}
+{"text": "Turn off wifi", "label": "system_control", "group_id": "system_control|turn off <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Lock the screen", "label": "system_control", "group_id": "system_control|<E> screen", "source_id": "dataset.py"}
+{"text": "Unlock the screen", "label": "system_control", "group_id": "system_control|<E> screen", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Dim the screen a bit, it is too bright", "label": "system_control", "group_id": "system_control|<E> screen <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set the volume to twenty percent", "label": "system_control", "group_id": "system_control|set volume <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn off automatic updates for now", "label": "system_control", "group_id": "system_control|turn off <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn the volume down", "label": "system_control", "group_id": "system_control|turn volume down", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "Turn on the fan curve profile called quiet", "label": "system_control", "group_id": "system_control|turn <E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Set the refresh rate back to 60 hertz", "label": "system_control", "group_id": "system_control|set <E> <E> <E> <E> <E>", "source_id": "handwritten/system_control_v2.jsonl"}
+{"text": "Turn down the brightness", "label": "system_control", "group_id": "system_control|turn down <E>", "source_id": "dataset.py"}
+{"text": "Hello Mira", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "dataset.py"}
+{"text": "Let's talk", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "dataset.py"}
+{"text": "Tell me a joke", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "dataset.py"}
+{"text": "Type of work you can do?", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "hey there", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Nice to meet you", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "I disagree with that", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Can you keep a secret?", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Good night", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Sorry, ignore that", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Do you like music?", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "That was funny", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "You are getting better", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Cheer me up", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "I will ask you later", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "You are my assistant, right?", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "who are you again", "label": "conversation", "group_id": "conversation|<E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Tell me something interesting", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "dataset.py"}
+{"text": "Good morning Mira", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "dataset.py"}
+{"text": "I want to chat with you", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "dataset.py"}
+{"text": "Thanks a lot, that helped", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "That was terrible, sorry", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Say something encouraging", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Why is the sky blue?", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Talk to me in German for a bit", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Okay, that is all for now", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "um are you still there", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Give me a motivational quote", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Do you prefer cats or dogs?", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Sorry, wrong window", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Why do we dream?", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Is it worth refactoring this now?", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Can you read files at all?", "label": "conversation", "group_id": "conversation|<E> <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "How are you?", "label": "conversation", "group_id": "conversation|<E>", "source_id": "dataset.py"}
+{"text": "Who are you?", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Do you dream?", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "hi", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Are you awake?", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "cheers", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "you there?", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "lol", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "brb", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Talk to me", "label": "conversation", "group_id": "conversation|<E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Write a haiku about rain", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Compose a polite reply to this email", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/type_text_v2.jsonl"}
+{"text": "Never mind, it is not important", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Do you think I should learn Rust?", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "How does a compiler actually work?", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Tell me about the roman empire", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Let us start over", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "thanks again, good night", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Do you know how to open applications?", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "I had a really long day today", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "I did not understand that, say it differently", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Explain the difference between a process and a thread", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Was that a good answer? Be honest", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Do you think machines will ever be creative?", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Should I add more tests first?", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "Make it a shorter answer next time", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "How do I change the volume from the keyboard?", "label": "conversation", "group_id": "conversation|<E> <E> <E> <E> <E>", "source_id": "handwritten/hard_negatives_v2.jsonl"}
+{"text": "What did people eat in medieval times?", "label": "conversation", "group_id": "conversation|what <E> <E> <E> <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}
+{"text": "What can you do?", "label": "conversation", "group_id": "conversation|what", "source_id": "dataset.py"}
+{"text": "Repeat what you just said", "label": "conversation", "group_id": "conversation|<E> what <E> <E>", "source_id": "handwritten/conversation_v2.jsonl"}

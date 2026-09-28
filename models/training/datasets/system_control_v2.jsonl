@@ -1,0 +1,73 @@
+{"text": "Turn off the computer", "label": "system_control"}
+{"text": "Restart my computer", "label": "system_control"}
+{"text": "Lock the screen", "label": "system_control"}
+{"text": "Increase the volume", "label": "system_control"}
+{"text": "Decrease the volume", "label": "system_control"}
+{"text": "Mute the computer", "label": "system_control"}
+{"text": "Turn up the brightness", "label": "system_control"}
+{"text": "Turn down the brightness", "label": "system_control"}
+{"text": "Shut down the system", "label": "system_control"}
+{"text": "Restart Linux", "label": "system_control"}
+{"text": "Put the laptop to sleep", "label": "system_control"}
+{"text": "Wake the machine up", "label": "system_control"}
+{"text": "Log me out", "label": "system_control"}
+{"text": "Switch on dark mode", "label": "system_control"}
+{"text": "Turn off wifi", "label": "system_control"}
+{"text": "Enable bluetooth", "label": "system_control"}
+{"text": "Turn the volume all the way down", "label": "system_control"}
+{"text": "Set the brightness to fifty percent", "label": "system_control"}
+{"text": "Mute notifications for an hour", "label": "system_control"}
+{"text": "Turn on the fans full speed", "label": "system_control"}
+{"text": "How much battery is left?", "label": "system_control"}
+{"text": "What is the CPU temperature right now?", "label": "system_control"}
+{"text": "Check how much disk space is free", "label": "system_control"}
+{"text": "Set the screen timeout to ten minutes", "label": "system_control"}
+{"text": "Disable the touchpad", "label": "system_control"}
+{"text": "Turn off night light", "label": "system_control"}
+{"text": "enable hotspot", "label": "system_control"}
+{"text": "reboot the box", "label": "system_control"}
+{"text": "Power the machine off in five minutes", "label": "system_control"}
+{"text": "Change my wallpaper", "label": "system_control"}
+{"text": "Set the keyboard layout to German", "label": "system_control"}
+{"text": "Suspend after the download finishes", "label": "system_control"}
+{"text": "Turn on do not disturb", "label": "system_control"}
+{"text": "Dim the screen a bit, it is too bright", "label": "system_control"}
+{"text": "Max out the speaker volume before the meeting", "label": "system_control"}
+{"text": "system stuff", "label": "system_control"}
+{"text": "Turn the screen off, I am stepping away", "label": "system_control"}
+{"text": "Set the volume to twenty percent", "label": "system_control"}
+{"text": "Switch the audio output to the headphones", "label": "system_control"}
+{"text": "Connect to the wifi called Studio", "label": "system_control"}
+{"text": "Disconnect bluetooth", "label": "system_control"}
+{"text": "Turn on the hotspot for an hour", "label": "system_control"}
+{"text": "Is the firewall running?", "label": "system_control"}
+{"text": "Check how much memory is being used", "label": "system_control"}
+{"text": "Report the uptime of this machine", "label": "system_control"}
+{"text": "Enable the screensaver after five idle minutes", "label": "system_control"}
+{"text": "Change the system language to Spanish", "label": "system_control"}
+{"text": "Set the time zone to Berlin", "label": "system_control"}
+{"text": "Turn off automatic updates for now", "label": "system_control"}
+{"text": "Install the pending updates and reboot", "label": "system_control"}
+{"text": "Switch to the second user session", "label": "system_control"}
+{"text": "Unlock the screen", "label": "system_control"}
+{"text": "Bring the brightness down to minimum, the baby is sleeping", "label": "system_control"}
+{"text": "unmute", "label": "system_control"}
+{"text": "shut it down", "label": "system_control"}
+{"text": "sleep now", "label": "system_control"}
+{"text": "make the laptop forget the wifi network", "label": "system_control"}
+{"text": "Turn on airplane mode", "label": "system_control"}
+{"text": "Reduce the mouse pointer speed", "label": "system_control"}
+{"text": "Turn off the notification sounds", "label": "system_control"}
+{"text": "Set a login password for this account", "label": "system_control"}
+{"text": "Enable the webcam indicator light", "label": "system_control"}
+{"text": "Set my default browser to Firefox", "label": "system_control"}
+{"text": "Turn on the fan curve profile called quiet", "label": "system_control"}
+{"text": "How long until the battery is full?", "label": "system_control"}
+{"text": "Show the network status", "label": "system_control"}
+{"text": "Turn off the keyboard backlight", "label": "system_control"}
+{"text": "Resume from suspend", "label": "system_control"}
+{"text": "Cancel the shutdown I just started", "label": "system_control"}
+{"text": "Set the refresh rate back to 60 hertz", "label": "system_control"}
+{"text": "Turn on the secondary display only", "label": "system_control"}
+{"text": "power settings", "label": "system_control"}
+

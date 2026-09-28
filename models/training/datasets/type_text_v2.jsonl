@@ -1,0 +1,73 @@
+{"text": "Type hello world", "label": "type_text"}
+{"text": "Write this into the terminal", "label": "type_text"}
+{"text": "Type my name in the login box", "label": "type_text"}
+{"text": "Enter this text", "label": "type_text"}
+{"text": "Write Python code into the editor", "label": "type_text"}
+{"text": "Type this message", "label": "type_text"}
+{"text": "Enter the password in the field", "label": "type_text"}
+{"text": "Paste this text", "label": "type_text"}
+{"text": "Write hello into the current application", "label": "type_text"}
+{"text": "Put this sentence in the text box", "label": "type_text"}
+{"text": "Type 'git status' in the terminal", "label": "type_text"}
+{"text": "Type my email address in the sign up form", "label": "type_text"}
+{"text": "Can you type the reply for me?", "label": "type_text"}
+{"text": "Enter '42' in the quantity field", "label": "type_text"}
+{"text": "Write the address into the shipping field", "label": "type_text"}
+{"text": "Type the following into the search field: docker compose", "label": "type_text"}
+{"text": "Fill in the comment box with 'looks good to me'", "label": "type_text"}
+{"text": "type 'mkdir backup' in the terminal", "label": "type_text"}
+{"text": "Type the subject line as 'Meeting notes Friday'", "label": "type_text"}
+{"text": "Put 'out of office until Monday' in the auto reply", "label": "type_text"}
+{"text": "Enter the tracking number shown here into the form", "label": "type_text"}
+{"text": "Type the answer into the first field of this form", "label": "type_text"}
+{"text": "Write my date of birth in the date field", "label": "type_text"}
+{"text": "Type the commit message 'fix parser edge case'", "label": "type_text"}
+{"text": "Insert the word 'TODO' at the cursor", "label": "type_text"}
+{"text": "Type all of this into the notes window", "label": "type_text"}
+{"text": "Paste the copied snippet into the editor", "label": "type_text"}
+{"text": "Type in the chat: 'on my way'", "label": "type_text"}
+{"text": "Enter my card number in the payment form", "label": "type_text"}
+{"text": "Type the command and leave the cursor at the end", "label": "type_text"}
+{"text": "Write the file name 'report_q3' in the save dialog", "label": "type_text"}
+{"text": "Type text into the focused field please", "label": "type_text"}
+{"text": "Could you write 'thanks for the update' in the reply box?", "label": "type_text"}
+{"text": "Enter 'yes' in the confirmation field", "label": "type_text"}
+{"text": "Type the phone number without spaces", "label": "type_text"}
+{"text": "type in the search bar", "label": "type_text"}
+{"text": "Type the rest of the sentence for me", "label": "type_text"}
+{"text": "Write the amount 120,50 in the price field", "label": "type_text"}
+{"text": "Enter my user name and stop before the password", "label": "type_text"}
+{"text": "Type the title 'Q3 review' into the document", "label": "type_text"}
+{"text": "Type the search query 'tinybert onnx export' into the search bar", "label": "type_text"}
+{"text": "Fill the first name field with Alexander", "label": "type_text"}
+{"text": "Could you put a check mark in the box by typing it?", "label": "type_text"}
+{"text": "Write 'no reply' in the subject line", "label": "type_text"}
+{"text": "Paste the copied url into the address bar", "label": "type_text"}
+{"text": "Type 'sudo systemctl restart nginx' but do not press enter", "label": "type_text"}
+{"text": "Enter the code from the receipt into the verification box", "label": "type_text"}
+{"text": "Type my reply into the message field of this chat", "label": "type_text"}
+{"text": "Can you write the note into the comment box on the right?", "label": "type_text"}
+{"text": "Insert the word 'deprecated' at the cursor position", "label": "type_text"}
+{"text": "Type the following: 'server.port=8080'", "label": "type_text"}
+{"text": "Put today's date in the due date field", "label": "type_text"}
+{"text": "Type into the terminal: ls minus l minus h", "label": "type_text"}
+{"text": "Enter my postal code 10115 in the zip field", "label": "type_text"}
+{"text": "type the whole paragraph into the editor", "label": "type_text"}
+{"text": "type this", "label": "type_text"}
+{"text": "Write a haiku about rain", "label": "conversation"}
+{"text": "Compose a polite reply to this email", "label": "conversation"}
+{"text": "Type of work you can do?", "label": "conversation"}
+{"text": "Write 'call mom' in my reminders app", "label": "type_text"}
+{"text": "Type the invoice number into the accounting form", "label": "type_text"}
+{"text": "Put 'urgent' at the start of the subject", "label": "type_text"}
+{"text": "Enter my initials in the signature box", "label": "type_text"}
+{"text": "Type the recipe name into the title field of the app", "label": "type_text"}
+{"text": "Write the tag 'v2.0' into the release notes field", "label": "type_text"}
+{"text": "Type the number forty two in the quantity box on screen", "label": "type_text"}
+{"text": "Can you enter the coupon code in the checkout form?", "label": "type_text"}
+{"text": "Fill the description field with the text I dictate", "label": "type_text"}
+{"text": "Type the answer in the blank and leave it unsubmitted", "label": "type_text"}
+{"text": "Type the room code 4B into the reservation field", "label": "type_text"}
+{"text": "Enter 'hold for review' in the status comment box", "label": "type_text"}
+{"text": "type_text into whatever is focused", "label": "type_text"}
+

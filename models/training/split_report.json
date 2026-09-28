@@ -1,0 +1,185 @@
+{
+  "seed": 42,
+  "target_per_intent": 90,
+  "raw_rows": 2671,
+  "dropped_exact_duplicates": 77,
+  "corpus_rows": 567,
+  "corpus_label_counts": {
+    "open_application": 90,
+    "search_web": 90,
+    "read_screen": 81,
+    "type_text": 75,
+    "file_operation": 77,
+    "system_control": 75,
+    "conversation": 79
+  },
+  "split_rows": {
+    "train": 453,
+    "val": 58,
+    "test": 56
+  },
+  "split_label_counts": {
+    "train": {
+      "open_application": 72,
+      "search_web": 72,
+      "read_screen": 65,
+      "type_text": 60,
+      "file_operation": 61,
+      "system_control": 60,
+      "conversation": 63
+    },
+    "val": {
+      "open_application": 9,
+      "search_web": 9,
+      "read_screen": 8,
+      "type_text": 8,
+      "file_operation": 8,
+      "system_control": 8,
+      "conversation": 8
+    },
+    "test": {
+      "open_application": 9,
+      "search_web": 9,
+      "read_screen": 8,
+      "type_text": 7,
+      "file_operation": 8,
+      "system_control": 7,
+      "conversation": 8
+    }
+  },
+  "balance": {
+    "open_application": {
+      "rows_before_cap": 1183,
+      "groups": 925,
+      "rows_kept": 90,
+      "groups_kept": 90
+    },
+    "search_web": {
+      "rows_before_cap": 1024,
+      "groups": 928,
+      "rows_kept": 90,
+      "groups_kept": 90
+    },
+    "read_screen": {
+      "rows_before_cap": 81,
+      "groups": 74,
+      "rows_kept": 81,
+      "groups_kept": 74
+    },
+    "type_text": {
+      "rows_before_cap": 75,
+      "groups": 66,
+      "rows_kept": 75,
+      "groups_kept": 66
+    },
+    "file_operation": {
+      "rows_before_cap": 77,
+      "groups": 66,
+      "rows_kept": 77,
+      "groups_kept": 66
+    },
+    "system_control": {
+      "rows_before_cap": 75,
+      "groups": 30,
+      "rows_kept": 75,
+      "groups_kept": 30
+    },
+    "conversation": {
+      "rows_before_cap": 79,
+      "groups": 15,
+      "rows_kept": 79,
+      "groups_kept": 15
+    }
+  },
+  "per_intent_split_rows": {
+    "open_application": {
+      "train": 72,
+      "val": 9,
+      "test": 9
+    },
+    "search_web": {
+      "train": 72,
+      "val": 9,
+      "test": 9
+    },
+    "read_screen": {
+      "train": 65,
+      "val": 8,
+      "test": 8
+    },
+    "type_text": {
+      "train": 60,
+      "val": 8,
+      "test": 7
+    },
+    "file_operation": {
+      "train": 61,
+      "val": 8,
+      "test": 8
+    },
+    "system_control": {
+      "train": 60,
+      "val": 8,
+      "test": 7
+    },
+    "conversation": {
+      "train": 63,
+      "val": 8,
+      "test": 8
+    }
+  },
+  "leakage_audit": {
+    "exact_norm_text_overlap": {
+      "train^val": 0,
+      "train^test": 0,
+      "val^test": 0
+    },
+    "group_id_overlap": {
+      "train^val": 0,
+      "train^test": 0,
+      "val^test": 0
+    },
+    "entity_token_overlap_advisory": {
+      "train^val": {
+        "open_application": 0,
+        "search_web": 1,
+        "read_screen": 6,
+        "type_text": 7,
+        "file_operation": 10,
+        "system_control": 8,
+        "conversation": 7
+      },
+      "train^test": {
+        "open_application": 1,
+        "search_web": 0,
+        "read_screen": 13,
+        "type_text": 4,
+        "file_operation": 6,
+        "system_control": 5,
+        "conversation": 7
+      },
+      "val^test": {
+        "open_application": 0,
+        "search_web": 0,
+        "read_screen": 4,
+        "type_text": 1,
+        "file_operation": 1,
+        "system_control": 3,
+        "conversation": 4
+      }
+    }
+  },
+  "status": "OK",
+  "hard_failures": {},
+  "sources": [
+    "dataset.py",
+    "generated/open_application.jsonl",
+    "generated/search_web.jsonl",
+    "handwritten/conversation_v2.jsonl",
+    "handwritten/file_operation_v2.jsonl",
+    "handwritten/hard_negatives_v2.jsonl",
+    "handwritten/read_screen_v2.jsonl",
+    "handwritten/system_control_v2.jsonl",
+    "handwritten/type_text_v2.jsonl"
+  ]
+}

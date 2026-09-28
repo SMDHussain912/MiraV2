@@ -1,0 +1,6 @@
+L0 attn+head     excl=15 maxdP=0.6228 maxdLogit=3.160 agree=0.958 size=32.0MB
+L0 ffn+head      excl= 9 maxdP=0.3177 maxdLogit=2.258 agree=0.979 size=32.0MB
+L0+head          excl=19 maxdP=0.1836 maxdLogit=1.434 agree=0.979 size=31.0MB
+L0+L1+head       excl=35 maxdP=0.2424 maxdLogit=1.592 agree=0.979 size=30.0MB
+all Q/K + head   excl=19 maxdP=0.9442 maxdLogit=6.367 agree=0.938 size=32.0MB
+L0 + all Q/K     excl=32 maxdP=0.1262 maxdLogit=1.195 agree=1.000 size=31.0MB

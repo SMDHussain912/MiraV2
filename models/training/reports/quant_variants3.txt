@@ -1,0 +1,4 @@
+exclude layer.0 (16 nodes)  maxdP=0.1847 maxdLogit=1.439 agree=0.979
+exclude layer.1 (16 nodes)  maxdP=0.9060 maxdLogit=10.272 agree=0.958
+exclude layer.2 (16 nodes)  maxdP=0.9060 maxdLogit=9.897 agree=0.958
+exclude layer.3 (16 nodes)  maxdP=0.9051 maxdLogit=9.336 agree=0.958

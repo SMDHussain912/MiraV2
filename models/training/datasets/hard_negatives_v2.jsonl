@@ -1,0 +1,61 @@
+{"text": "Open the file manager", "label": "open_application"}
+{"text": "Launch the system monitor", "label": "open_application"}
+{"text": "Start the disk utility", "label": "open_application"}
+{"text": "Open the screenshot application", "label": "open_application"}
+{"text": "Please launch the file manager", "label": "open_application"}
+{"text": "Get the disk utility running", "label": "open_application"}
+{"text": "Open Android Studio", "label": "open_application"}
+{"text": "Open my Python IDE", "label": "open_application"}
+{"text": "Start the browser", "label": "open_application"}
+{"text": "Get me a browser window", "label": "open_application"}
+{"text": "Can you get Firefox started?", "label": "open_application"}
+{"text": "Open Telegram", "label": "open_application"}
+{"text": "Can you open the settings application?", "label": "open_application"}
+{"text": "Bring up the volume mixer app", "label": "open_application"}
+{"text": "Launch the pdf viewer so I can read the manual", "label": "open_application"}
+{"text": "Fire up VLC, I want to watch something", "label": "open_application"}
+{"text": "Run the calendar app", "label": "open_application"}
+{"text": "Start Blender so I can keep modelling", "label": "open_application"}
+{"text": "Open the app store", "label": "open_application"}
+{"text": "open the settings", "label": "open_application"}
+{"text": "Open my email client", "label": "open_application"}
+{"text": "Launch the terminal in the project folder", "label": "open_application"}
+{"text": "Bring up the task manager equivalent on this machine", "label": "open_application"}
+{"text": "Open LibreOffice Calc", "label": "open_application"}
+{"text": "Open Spotify and play something calm", "label": "open_application"}
+{"text": "Launch the update tool", "label": "open_application"}
+{"text": "Open the software centre", "label": "open_application"}
+{"text": "Start the screen recorder application", "label": "open_application"}
+{"text": "Find the app for my printer and open it", "label": "open_application"}
+{"text": "Search for the app store and launch it", "label": "open_application"}
+{"text": "Open my Documents folder", "label": "file_operation"}
+{"text": "Open the invoice pdf", "label": "file_operation"}
+{"text": "Open the download folder and show the newest file", "label": "file_operation"}
+{"text": "Open the config file so I can edit it", "label": "file_operation"}
+{"text": "Open the archive and tell me what is inside", "label": "file_operation"}
+{"text": "Open the settings for the network and turn wifi off", "label": "system_control"}
+{"text": "Delete the power settings file", "label": "file_operation"}
+{"text": "Open the volume control panel", "label": "system_control"}
+{"text": "Turn the volume down", "label": "system_control"}
+{"text": "Search for computer stores near me", "label": "search_web"}
+{"text": "Find the episode list for this anime", "label": "search_web"}
+{"text": "Search for a driver download for my printer", "label": "search_web"}
+{"text": "Look up how to raise the volume beyond the limit", "label": "search_web"}
+{"text": "Search online for the shutter app", "label": "search_web"}
+{"text": "Google how to fix a loud fan on Linux", "label": "search_web"}
+{"text": "Search the web for a good screenshot tool", "label": "search_web"}
+{"text": "I need examples of Docker health checks", "label": "search_web"}
+{"text": "Search the web for the error in this window", "label": "search_web"}
+{"text": "What does this window say?", "label": "read_screen"}
+{"text": "Read the terminal, not the file", "label": "read_screen"}
+{"text": "Read the text in this window instead of opening the file", "label": "read_screen"}
+{"text": "Ignore the file, just read what is on my screen", "label": "read_screen"}
+{"text": "What should I type in this field?", "label": "conversation"}
+{"text": "Do you know how to open applications?", "label": "conversation"}
+{"text": "Can you read files at all?", "label": "conversation"}
+{"text": "How do I change the volume from the keyboard?", "label": "conversation"}
+{"text": "Type the shutdown command but do not run it", "label": "type_text"}
+{"text": "Enter the restart prompt in the dialog field", "label": "type_text"}
+{"text": "Type the search query into the search bar of the browser", "label": "type_text"}
+{"text": "Write the file name into the save dialog", "label": "type_text"}
+

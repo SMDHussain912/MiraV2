@@ -1,0 +1,73 @@
+{"text": "Create a new file", "label": "file_operation"}
+{"text": "Delete this file", "label": "file_operation"}
+{"text": "Move this file to Documents", "label": "file_operation"}
+{"text": "Rename the file", "label": "file_operation"}
+{"text": "Create a folder called projects", "label": "file_operation"}
+{"text": "Show my files", "label": "file_operation"}
+{"text": "Copy this file", "label": "file_operation"}
+{"text": "Move the folder", "label": "file_operation"}
+{"text": "Open my Documents folder", "label": "file_operation"}
+{"text": "Find this file on my computer", "label": "file_operation"}
+{"text": "Make a new directory in Downloads called invoices", "label": "file_operation"}
+{"text": "Delete the backup zip I made yesterday", "label": "file_operation"}
+{"text": "Move everything from Downloads to the archive folder", "label": "file_operation"}
+{"text": "Rename the photo to holiday_2026.jpg", "label": "file_operation"}
+{"text": "Copy the presentation onto the USB drive", "label": "file_operation"}
+{"text": "Where did my thesis pdf go?", "label": "file_operation"}
+{"text": "Search my Documents for the rental contract", "label": "file_operation"}
+{"text": "List the files in the current folder", "label": "file_operation"}
+{"text": "Empty the trash", "label": "file_operation"}
+{"text": "Compress the photos folder into a zip", "label": "file_operation"}
+{"text": "Unzip the archive in my Downloads folder", "label": "file_operation"}
+{"text": "Create an empty file named notes.md on the desktop", "label": "file_operation"}
+{"text": "Move the screenshot to the screenshots folder", "label": "file_operation"}
+{"text": "Remove the old log files from the tmp directory", "label": "file_operation"}
+{"text": "Duplicate this spreadsheet", "label": "file_operation"}
+{"text": "Change the extension of this file from txt to md", "label": "file_operation"}
+{"text": "Show me how big the videos folder is", "label": "file_operation"}
+{"text": "find the csv file i downloaded this morning", "label": "file_operation"}
+{"text": "Put the invoice pdf where I can find it again", "label": "file_operation"}
+{"text": "Read the file I just created", "label": "file_operation"}
+{"text": "Open the readme file in my project folder", "label": "file_operation"}
+{"text": "Make a copy of the config before I edit it", "label": "file_operation"}
+{"text": "Sort the downloads folder by date", "label": "file_operation"}
+{"text": "Create a symlink from the data folder to the drive", "label": "file_operation"}
+{"text": "Delete the folder called old_stuff and everything in it", "label": "file_operation"}
+{"text": "file ops", "label": "file_operation"}
+{"text": "Create a folder for the receipts on the desktop", "label": "file_operation"}
+{"text": "Delete every png in the screenshots folder", "label": "file_operation"}
+{"text": "Move the book to the reference folder", "label": "file_operation"}
+{"text": "Rename my workspace folder to miraV2", "label": "file_operation"}
+{"text": "Copy the dataset onto the external drive", "label": "file_operation"}
+{"text": "Find the largest file in my home directory", "label": "file_operation"}
+{"text": "Show me what is inside the downloads folder", "label": "file_operation"}
+{"text": "Delete the readme", "label": "file_operation"}
+{"text": "Restore the file I deleted this morning from the trash", "label": "file_operation"}
+{"text": "Turn the images folder into a tarball", "label": "file_operation"}
+{"text": "Check whether invoice_042.pdf exists in Documents", "label": "file_operation"}
+{"text": "Extract the zip archive into a new folder", "label": "file_operation"}
+{"text": "Create a shortcut for the spreadsheet on the desktop", "label": "file_operation"}
+{"text": "Move all the tax documents into the 2026 folder", "label": "file_operation"}
+{"text": "Rename all the photos to a date format", "label": "file_operation"}
+{"text": "Clear out the cache directory", "label": "file_operation"}
+{"text": "Where is the file called draft_final_v3?", "label": "file_operation"}
+{"text": "Make the notes file read only", "label": "file_operation"}
+{"text": "Give the folder a name with no spaces", "label": "file_operation"}
+{"text": "Count how many pdfs are in my library folder", "label": "file_operation"}
+{"text": "download folder, show me the files", "label": "file_operation"}
+{"text": "delete the log file from yesterday", "label": "file_operation"}
+{"text": "i need the path of the csv i opened earlier", "label": "file_operation"}
+{"text": "Duplicate the invoice template so I can edit the copy", "label": "file_operation"}
+{"text": "Move the video off the SSD onto the big drive", "label": "file_operation"}
+{"text": "Zip the reports folder and keep the original", "label": "file_operation"}
+{"text": "Create a text file with today's date as its name", "label": "file_operation"}
+{"text": "Sort the folder so the newest files come first", "label": "file_operation"}
+{"text": "Purge the thumbnails cache", "label": "file_operation"}
+{"text": "Bring the backup archive back from the external disk", "label": "file_operation"}
+{"text": "Put the meeting recording in the meetings folder", "label": "file_operation"}
+{"text": "Wipe the contents of the test directory", "label": "file_operation"}
+{"text": "Open the archive file and list what is inside", "label": "file_operation"}
+{"text": "Convert notes.txt into notes.md", "label": "file_operation"}
+{"text": "Search my whole disk for files named thesis", "label": "file_operation"}
+{"text": "clean up downloads", "label": "file_operation"}
+

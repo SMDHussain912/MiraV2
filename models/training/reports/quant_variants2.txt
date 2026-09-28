@@ -1,0 +1,6 @@
+QU8 head+proj excluded       maxdP=0.9053 maxdLogit=9.515 agree=0.958 confPreserved=0.958
+QU8 head only excluded       maxdP=0.9053 maxdLogit=9.515 agree=0.958 confPreserved=0.958
+QU8 proj only excluded       maxdP=0.9053 maxdLogit=9.515 agree=0.958 confPreserved=0.958
+QU8 head+proj+attnQK ex      maxdP=0.9442 maxdLogit=6.367 agree=0.938 confPreserved=0.958
+QI8 pc=False head+proj ex    maxdP=0.9651 maxdLogit=11.390 agree=0.938 confPreserved=0.833
+QU8 reduceRange head+proj    maxdP=0.8584 maxdLogit=7.807 agree=0.958 confPreserved=0.938

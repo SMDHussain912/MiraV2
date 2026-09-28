@@ -1,0 +1,4 @@
+C* QI8 pc=True         maxdP=0.1083 maxdLogit=1.289 agree=1.000 thr50=1.000 minInt8conf=0.620 size=31.0MB
+C* QI8 pc=False        maxdP=0.1826 maxdLogit=1.274 agree=1.000 thr50=1.000 minInt8conf=0.535 size=31.0MB
+C* QU8 reduceRange     maxdP=0.1118 maxdLogit=1.697 agree=1.000 thr50=1.000 minInt8conf=0.545 size=31.0MB
+C*+L1ffn QU8           maxdP=0.2192 maxdLogit=1.560 agree=0.982 thr50=1.000 minInt8conf=0.568 size=30.1MB
